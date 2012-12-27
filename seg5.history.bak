@@ -701,7 +701,7 @@
       </Playlist>
     </MementoRedoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1356565551" tv_usec="949519" name="region drag">
+  <UndoTransaction tv_sec="1356565579" tv_usec="191093" name="region drag">
     <MementoUndoCommand obj_id="573" type_name="N6ARDOUR13AudioPlaylistE">
       <Playlist name="ballroom" orig_diskstream_id="120" frozen="no">
         <Region id="877" name="ballroom.1" start="0" length="5911090" position="17144964" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="106" channels="1" master-source-0="106">
@@ -748,7 +748,7 @@
             <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
           </extra>
         </Region>
-        <Region id="1024" name="ballroom.4" start="8067205" length="565192" position="31923701" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="8060876" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="106" channels="1" master-source-0="106">
+        <Region id="1024" name="ballroom.4" start="8067205" length="565192" position="31921583" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="8060876" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="106" channels="1" master-source-0="106">
           <FadeIn default="yes" active="yes"/>
           <FadeOut default="yes" active="yes"/>
           <Envelope default="yes"/>
