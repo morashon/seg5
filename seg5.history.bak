@@ -1,254 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <UndoHistory>
-  <UndoTransaction tv_sec="1356565170" tv_usec="403072" name="automation event move">
-    <MementoUndoCommand obj_id="345" type_name="N6ARDOUR14AutomationListE">
-      <AutomationList id="345" default="-17.5" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
-        <events>16667474 -36.0294117647059
-16920144 -43.2352936267853
-19090593 -54.7580644488335
-22494565 -56.7735885083675
-22957793 -65.2413302669007
-23392946 -65.3694849603583
-23708832 -56.9017425179482
-</events>
-      </AutomationList>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj_id="345" type_name="N6ARDOUR14AutomationListE">
-      <AutomationList id="345" default="-17.5" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
-        <events>16667474 -36.0294117647059
-16920144 -43.2352936267853
-19090593 -54.7580644488335
-22494565 -56.7735885083675
-22957793 -65.2413302669007
-23392946 -65.3694849603583
-23779018 -52.9501292109489
-</events>
-      </AutomationList>
-    </MementoRedoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1356565175" tv_usec="308842" name="add automation event to Early reflection level (dB)">
-    <MementoCommand obj_id="343" type_name="N6ARDOUR14AutomationListE">
-      <AutomationList id="343" default="0" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
-        <events>16625362 -47.3529411764706
-16849958 -31.9117659330368
-19301151 -49.2307683825493
-</events>
-      </AutomationList>
-      <AutomationList id="343" default="0" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
-        <events>16625362 -47.3529411764706
-16849958 -31.9117659330368
-19301151 -49.2307683825493
-23561393 -50.6133641218069
-</events>
-      </AutomationList>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1356565177" tv_usec="307804" name="add automation event to Early reflection level (dB)">
-    <MementoCommand obj_id="343" type_name="N6ARDOUR14AutomationListE">
-      <AutomationList id="343" default="0" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
-        <events>16625362 -47.3529411764706
-16849958 -31.9117659330368
-19301151 -49.2307683825493
-23561393 -50.6133641218069
-</events>
-      </AutomationList>
-      <AutomationList id="343" default="0" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
-        <events>16625362 -47.3529411764706
-16849958 -31.9117659330368
-19301151 -49.2307683825493
-23561393 -50.6133641218069
-23912323 -45.2287487371915
-</events>
-      </AutomationList>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1356565244" tv_usec="309635" name="region drag">
-    <MementoUndoCommand obj_id="579" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="ruf_ballad_d508b4" orig_diskstream_id="78" frozen="no">
-        <Region id="97" name="ruf_ballad_d508b4" start="0" length="17745481" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="62" source-1="64" channels="2" master-source-0="62" master-source-1="64">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-      </Playlist>
-    </MementoUndoCommand>
-    <MementoUndoCommand obj_id="945" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="ruf_you_3fc6b5" orig_diskstream_id="944" frozen="no">
-        <Region id="963" name="ruf_you_3fc6b5" start="0" length="6969559" position="25371476" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="name" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-      </Playlist>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj_id="579" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="ruf_ballad_d508b4" orig_diskstream_id="78" frozen="no">
-        <Region id="97" name="ruf_ballad_d508b4" start="0" length="17745481" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="62" source-1="64" channels="2" master-source-0="62" master-source-1="64">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="970" name="ruf_you_3fc6b5" start="0" length="6969559" position="22957077" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-      </Playlist>
-    </MementoRedoCommand>
-    <MementoRedoCommand obj_id="945" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="ruf_you_3fc6b5" orig_diskstream_id="944" frozen="no"/>
-    </MementoRedoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1356565248" tv_usec="442654" name="region drag">
-    <MementoUndoCommand obj_id="573" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="ballroom" orig_diskstream_id="120" frozen="no">
-        <Region id="877" name="ballroom.1" start="0" length="5911090" position="17144964" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="106" channels="1" master-source-0="106">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="883" name="ballroom.2" start="5911090" length="2721307" position="24263254" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="5911090" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="106" channels="1" master-source-0="106">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-      </Playlist>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj_id="573" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="ballroom" orig_diskstream_id="120" frozen="no">
-        <Region id="877" name="ballroom.1" start="0" length="5911090" position="17144964" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="106" channels="1" master-source-0="106">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="883" name="ballroom.2" start="5911090" length="2721307" position="29892172" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="5911090" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="106" channels="1" master-source-0="106">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-      </Playlist>
-    </MementoRedoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1356565265" tv_usec="410229" name="add gain automation event">
-    <MementoCommand obj_id="73" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>0 0.000169524690136313
-14037 1.0002955198288
-15342661 1.0002955198288
-17265757 0.00110735045745969
-17658799 0
-</events>
-      </AutomationList>
-      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>0 0.000169524690136313
-14037 1.0002955198288
-15342661 1.0002955198288
-17265757 0.00110735045745969
-17658799 0
-22298045 0.0140598928555846
-</events>
-      </AutomationList>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1356565268" tv_usec="642787" name="automation event move">
-    <MementoUndoCommand obj_id="73" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>0 0.000169524690136313
-14037 1.0002955198288
-15342661 1.0002955198288
-17265757 0.00110735045745969
-17658799 0
-22298045 0.0140598928555846
-</events>
-      </AutomationList>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj_id="73" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>0 0.000169524690136313
-14037 1.0002955198288
-15342661 1.0002955198288
-17265757 0.00110735045745969
-17658799 0
-22866600 0
-</events>
-      </AutomationList>
-    </MementoRedoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1356565281" tv_usec="6186" name="add gain automation event">
-    <MementoCommand obj_id="73" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>0 0.000169524690136313
-14037 1.0002955198288
-15342661 1.0002955198288
-17265757 0.00110735045745969
-17658799 0
-22866600 0
-</events>
-      </AutomationList>
-      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>0 0.000169524690136313
-14037 1.0002955198288
-15342661 1.0002955198288
-17265757 0.00110735045745969
-17658799 0
-22866600 0
-22915050 0.00157836731523275
-</events>
-      </AutomationList>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1356565289" tv_usec="111466" name="automation event move">
-    <MementoUndoCommand obj_id="73" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>0 0.000169524690136313
-14037 1.0002955198288
-15342661 1.0002955198288
-17265757 0.00110735045745969
-17658799 0
-22866600 0
-22915050 0.00157836731523275
-</events>
-      </AutomationList>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj_id="73" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>0 0.000169524690136313
-14037 1.0002955198288
-15342661 1.0002955198288
-17265757 0.00110735045745969
-17658799 0
-22866600 0
-22946485 1.0002955198288
-</events>
-      </AutomationList>
-    </MementoRedoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1356565291" tv_usec="948920" name="region drag">
-    <MementoUndoCommand obj_id="579" type_name="N6ARDOUR13AudioPlaylistE">
+  <UndoTransaction tv_sec="1356565291" tv_usec="139860862019071" name="region drag">
+    <MementoUndoCommand obj_id="1413" type_name="N6ARDOUR13AudioPlaylistE">
       <Playlist name="ruf_ballad_d508b4" orig_diskstream_id="78" frozen="no">
         <Region id="97" name="ruf_ballad_d508b4" start="0" length="17745481" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="62" source-1="64" channels="2" master-source-0="62" master-source-1="64">
           <FadeIn default="yes" active="yes"/>
@@ -268,7 +21,7 @@
         </Region>
       </Playlist>
     </MementoUndoCommand>
-    <MementoRedoCommand obj_id="579" type_name="N6ARDOUR13AudioPlaylistE">
+    <MementoRedoCommand obj_id="1413" type_name="N6ARDOUR13AudioPlaylistE">
       <Playlist name="ruf_ballad_d508b4" orig_diskstream_id="78" frozen="no">
         <Region id="97" name="ruf_ballad_d508b4" start="0" length="17745481" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="62" source-1="64" channels="2" master-source-0="62" master-source-1="64">
           <FadeIn default="yes" active="yes"/>
@@ -289,8 +42,8 @@
       </Playlist>
     </MementoRedoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1356565360" tv_usec="623509" name="region drag">
-    <MementoUndoCommand obj_id="579" type_name="N6ARDOUR13AudioPlaylistE">
+  <UndoTransaction tv_sec="1356565360" tv_usec="139860862019071" name="region drag">
+    <MementoUndoCommand obj_id="1413" type_name="N6ARDOUR13AudioPlaylistE">
       <Playlist name="ruf_ballad_d508b4" orig_diskstream_id="78" frozen="no">
         <Region id="97" name="ruf_ballad_d508b4" start="0" length="17745481" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="62" source-1="64" channels="2" master-source-0="62" master-source-1="64">
           <FadeIn default="yes" active="yes"/>
@@ -310,7 +63,7 @@
         </Region>
       </Playlist>
     </MementoUndoCommand>
-    <MementoRedoCommand obj_id="579" type_name="N6ARDOUR13AudioPlaylistE">
+    <MementoRedoCommand obj_id="1413" type_name="N6ARDOUR13AudioPlaylistE">
       <Playlist name="ruf_ballad_d508b4" orig_diskstream_id="78" frozen="no">
         <Region id="97" name="ruf_ballad_d508b4" start="0" length="17745481" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="62" source-1="64" channels="2" master-source-0="62" master-source-1="64">
           <FadeIn default="yes" active="yes"/>
@@ -331,7 +84,7 @@
       </Playlist>
     </MementoRedoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1356565365" tv_usec="129076" name="automation event move">
+  <UndoTransaction tv_sec="1356565365" tv_usec="139860862019071" name="automation event move">
     <MementoUndoCommand obj_id="73" type_name="N6ARDOUR5CurveE">
       <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
         <events>0 0.000169524690136313
@@ -357,7 +110,7 @@
       </AutomationList>
     </MementoRedoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1356565376" tv_usec="923321" name="automation event move">
+  <UndoTransaction tv_sec="1356565376" tv_usec="139860862019071" name="automation event move">
     <MementoUndoCommand obj_id="73" type_name="N6ARDOUR5CurveE">
       <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
         <events>0 0.000169524690136313
@@ -383,7 +136,7 @@
       </AutomationList>
     </MementoRedoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1356565393" tv_usec="440620" name="automation event move">
+  <UndoTransaction tv_sec="1356565393" tv_usec="139860862019071" name="automation event move">
     <MementoUndoCommand obj_id="73" type_name="N6ARDOUR5CurveE">
       <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
         <events>0 0.000169524690136313
@@ -409,8 +162,8 @@
       </AutomationList>
     </MementoRedoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1356565427" tv_usec="567527" name="region drag">
-    <MementoUndoCommand obj_id="573" type_name="N6ARDOUR13AudioPlaylistE">
+  <UndoTransaction tv_sec="1356565427" tv_usec="139860862019071" name="region drag">
+    <MementoUndoCommand obj_id="1423" type_name="N6ARDOUR13AudioPlaylistE">
       <Playlist name="ballroom" orig_diskstream_id="120" frozen="no">
         <Region id="877" name="ballroom.1" start="0" length="5911090" position="17144964" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="106" channels="1" master-source-0="106">
           <FadeIn default="yes" active="yes"/>
@@ -430,7 +183,7 @@
         </Region>
       </Playlist>
     </MementoUndoCommand>
-    <MementoRedoCommand obj_id="573" type_name="N6ARDOUR13AudioPlaylistE">
+    <MementoRedoCommand obj_id="1423" type_name="N6ARDOUR13AudioPlaylistE">
       <Playlist name="ballroom" orig_diskstream_id="120" frozen="no">
         <Region id="877" name="ballroom.1" start="0" length="5911090" position="17144964" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="106" channels="1" master-source-0="106">
           <FadeIn default="yes" active="yes"/>
@@ -451,8 +204,8 @@
       </Playlist>
     </MementoRedoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1356565504" tv_usec="924570" name="split">
-    <MementoCommand obj_id="573" type_name="N6ARDOUR13AudioPlaylistE">
+  <UndoTransaction tv_sec="1356565504" tv_usec="139860862019071" name="split">
+    <MementoCommand obj_id="1423" type_name="N6ARDOUR13AudioPlaylistE">
       <Playlist name="ballroom" orig_diskstream_id="120" frozen="no">
         <Region id="877" name="ballroom.1" start="0" length="5911090" position="17144964" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="106" channels="1" master-source-0="106">
           <FadeIn default="yes" active="yes"/>
@@ -499,8 +252,8 @@
       </Playlist>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1356565506" tv_usec="429916" name="region drag">
-    <MementoUndoCommand obj_id="573" type_name="N6ARDOUR13AudioPlaylistE">
+  <UndoTransaction tv_sec="1356565506" tv_usec="139860862019071" name="region drag">
+    <MementoUndoCommand obj_id="1423" type_name="N6ARDOUR13AudioPlaylistE">
       <Playlist name="ballroom" orig_diskstream_id="120" frozen="no">
         <Region id="877" name="ballroom.1" start="0" length="5911090" position="17144964" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="106" channels="1" master-source-0="106">
           <FadeIn default="yes" active="yes"/>
@@ -528,7 +281,7 @@
         </Region>
       </Playlist>
     </MementoUndoCommand>
-    <MementoRedoCommand obj_id="573" type_name="N6ARDOUR13AudioPlaylistE">
+    <MementoRedoCommand obj_id="1423" type_name="N6ARDOUR13AudioPlaylistE">
       <Playlist name="ballroom" orig_diskstream_id="120" frozen="no">
         <Region id="877" name="ballroom.1" start="0" length="5911090" position="17144964" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="106" channels="1" master-source-0="106">
           <FadeIn default="yes" active="yes"/>
@@ -557,8 +310,8 @@
       </Playlist>
     </MementoRedoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1356565509" tv_usec="25656" name="region drag">
-    <MementoUndoCommand obj_id="573" type_name="N6ARDOUR13AudioPlaylistE">
+  <UndoTransaction tv_sec="1356565509" tv_usec="139860862019071" name="region drag">
+    <MementoUndoCommand obj_id="1423" type_name="N6ARDOUR13AudioPlaylistE">
       <Playlist name="ballroom" orig_diskstream_id="120" frozen="no">
         <Region id="877" name="ballroom.1" start="0" length="5911090" position="17144964" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="106" channels="1" master-source-0="106">
           <FadeIn default="yes" active="yes"/>
@@ -586,7 +339,7 @@
         </Region>
       </Playlist>
     </MementoUndoCommand>
-    <MementoRedoCommand obj_id="573" type_name="N6ARDOUR13AudioPlaylistE">
+    <MementoRedoCommand obj_id="1423" type_name="N6ARDOUR13AudioPlaylistE">
       <Playlist name="ballroom" orig_diskstream_id="120" frozen="no">
         <Region id="877" name="ballroom.1" start="0" length="5911090" position="17144964" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="106" channels="1" master-source-0="106">
           <FadeIn default="yes" active="yes"/>
@@ -615,8 +368,8 @@
       </Playlist>
     </MementoRedoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1356565546" tv_usec="107087" name="Region start trim">
-    <MementoUndoCommand obj_id="573" type_name="N6ARDOUR13AudioPlaylistE">
+  <UndoTransaction tv_sec="1356565546" tv_usec="139860862019071" name="Region start trim">
+    <MementoUndoCommand obj_id="1423" type_name="N6ARDOUR13AudioPlaylistE">
       <Playlist name="ballroom" orig_diskstream_id="120" frozen="no">
         <Region id="877" name="ballroom.1" start="0" length="5911090" position="17144964" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="106" channels="1" master-source-0="106">
           <FadeIn default="yes" active="yes"/>
@@ -644,7 +397,7 @@
         </Region>
       </Playlist>
     </MementoUndoCommand>
-    <MementoRedoCommand obj_id="573" type_name="N6ARDOUR13AudioPlaylistE">
+    <MementoRedoCommand obj_id="1423" type_name="N6ARDOUR13AudioPlaylistE">
       <Playlist name="ballroom" orig_diskstream_id="120" frozen="no">
         <Region id="877" name="ballroom.1" start="0" length="5911090" position="17144964" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="106" channels="1" master-source-0="106">
           <FadeIn default="yes" active="yes"/>
@@ -672,7 +425,7 @@
         </Region>
       </Playlist>
     </MementoRedoCommand>
-    <MementoRedoCommand obj_id="573" type_name="N6ARDOUR13AudioPlaylistE">
+    <MementoRedoCommand obj_id="1423" type_name="N6ARDOUR13AudioPlaylistE">
       <Playlist name="ballroom" orig_diskstream_id="120" frozen="no">
         <Region id="877" name="ballroom.1" start="0" length="5911090" position="17144964" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="106" channels="1" master-source-0="106">
           <FadeIn default="yes" active="yes"/>
@@ -701,8 +454,8 @@
       </Playlist>
     </MementoRedoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1356565579" tv_usec="191093" name="region drag">
-    <MementoUndoCommand obj_id="573" type_name="N6ARDOUR13AudioPlaylistE">
+  <UndoTransaction tv_sec="1356565579" tv_usec="139860862019071" name="region drag">
+    <MementoUndoCommand obj_id="1423" type_name="N6ARDOUR13AudioPlaylistE">
       <Playlist name="ballroom" orig_diskstream_id="120" frozen="no">
         <Region id="877" name="ballroom.1" start="0" length="5911090" position="17144964" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="106" channels="1" master-source-0="106">
           <FadeIn default="yes" active="yes"/>
@@ -730,7 +483,7 @@
         </Region>
       </Playlist>
     </MementoUndoCommand>
-    <MementoRedoCommand obj_id="573" type_name="N6ARDOUR13AudioPlaylistE">
+    <MementoRedoCommand obj_id="1423" type_name="N6ARDOUR13AudioPlaylistE">
       <Playlist name="ballroom" orig_diskstream_id="120" frozen="no">
         <Region id="877" name="ballroom.1" start="0" length="5911090" position="17144964" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="106" channels="1" master-source-0="106">
           <FadeIn default="yes" active="yes"/>
@@ -757,6 +510,382 @@
           </extra>
         </Region>
       </Playlist>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1356994212" tv_usec="598391" name="region drag">
+    <MementoUndoCommand obj_id="1413" type_name="N6ARDOUR13AudioPlaylistE">
+      <Playlist name="ruf_ballad_d508b4" orig_diskstream_id="78" frozen="no">
+        <Region id="97" name="ruf_ballad_d508b4" start="0" length="17745481" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="62" source-1="64" channels="2" master-source-0="62" master-source-1="64">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="970" name="ruf_you_3fc6b5" start="0" length="6969559" position="22888727" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+      </Playlist>
+    </MementoUndoCommand>
+    <MementoUndoCommand obj_id="1718" type_name="N6ARDOUR13AudioPlaylistE">
+      <Playlist name="ruf_mouth2_fe293c" orig_diskstream_id="1717" frozen="no">
+        <Region id="1736" name="ruf_mouth2_fe293c" start="0" length="9959602" position="32706344" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="name" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="1701" source-1="1703" channels="2" master-source-0="1701" master-source-1="1703">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+      </Playlist>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj_id="1413" type_name="N6ARDOUR13AudioPlaylistE">
+      <Playlist name="ruf_ballad_d508b4" orig_diskstream_id="78" frozen="no">
+        <Region id="97" name="ruf_ballad_d508b4" start="0" length="17745481" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="62" source-1="64" channels="2" master-source-0="62" master-source-1="64">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="970" name="ruf_you_3fc6b5" start="0" length="6969559" position="22888727" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1743" name="ruf_mouth2_fe293c" start="0" length="9959602" position="32302095" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="2" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="1701" source-1="1703" channels="2" master-source-0="1701" master-source-1="1703">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+      </Playlist>
+    </MementoRedoCommand>
+    <MementoRedoCommand obj_id="1718" type_name="N6ARDOUR13AudioPlaylistE">
+      <Playlist name="ruf_mouth2_fe293c" orig_diskstream_id="1717" frozen="no"/>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1356994259" tv_usec="725126" name="region drag">
+    <MementoUndoCommand obj_id="1413" type_name="N6ARDOUR13AudioPlaylistE">
+      <Playlist name="ruf_ballad_d508b4" orig_diskstream_id="78" frozen="no">
+        <Region id="97" name="ruf_ballad_d508b4" start="0" length="17745481" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="62" source-1="64" channels="2" master-source-0="62" master-source-1="64">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="970" name="ruf_you_3fc6b5" start="0" length="6969559" position="22888727" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1743" name="ruf_mouth2_fe293c" start="0" length="9959602" position="32302095" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="2" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="1701" source-1="1703" channels="2" master-source-0="1701" master-source-1="1703">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+      </Playlist>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj_id="1413" type_name="N6ARDOUR13AudioPlaylistE">
+      <Playlist name="ruf_ballad_d508b4" orig_diskstream_id="78" frozen="no">
+        <Region id="97" name="ruf_ballad_d508b4" start="0" length="17745481" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="62" source-1="64" channels="2" master-source-0="62" master-source-1="64">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="970" name="ruf_you_3fc6b5" start="0" length="6969559" position="22888727" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1743" name="ruf_mouth2_fe293c" start="0" length="9959602" position="32353990" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="2" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="1701" source-1="1703" channels="2" master-source-0="1701" master-source-1="1703">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+      </Playlist>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1356994262" tv_usec="129669" name="region drag">
+    <MementoUndoCommand obj_id="1413" type_name="N6ARDOUR13AudioPlaylistE">
+      <Playlist name="ruf_ballad_d508b4" orig_diskstream_id="78" frozen="no">
+        <Region id="97" name="ruf_ballad_d508b4" start="0" length="17745481" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="62" source-1="64" channels="2" master-source-0="62" master-source-1="64">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="970" name="ruf_you_3fc6b5" start="0" length="6969559" position="22888727" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1743" name="ruf_mouth2_fe293c" start="0" length="9959602" position="32353990" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="2" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="1701" source-1="1703" channels="2" master-source-0="1701" master-source-1="1703">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+      </Playlist>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj_id="1413" type_name="N6ARDOUR13AudioPlaylistE">
+      <Playlist name="ruf_ballad_d508b4" orig_diskstream_id="78" frozen="no">
+        <Region id="97" name="ruf_ballad_d508b4" start="0" length="17745481" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="62" source-1="64" channels="2" master-source-0="62" master-source-1="64">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="970" name="ruf_you_3fc6b5" start="0" length="6969559" position="22888727" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1743" name="ruf_mouth2_fe293c" start="0" length="9959602" position="32338801" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="2" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="1701" source-1="1703" channels="2" master-source-0="1701" master-source-1="1703">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+      </Playlist>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1356994278" tv_usec="546173" name="region drag">
+    <MementoUndoCommand obj_id="1413" type_name="N6ARDOUR13AudioPlaylistE">
+      <Playlist name="ruf_ballad_d508b4" orig_diskstream_id="78" frozen="no">
+        <Region id="97" name="ruf_ballad_d508b4" start="0" length="17745481" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="62" source-1="64" channels="2" master-source-0="62" master-source-1="64">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="970" name="ruf_you_3fc6b5" start="0" length="6969559" position="22888727" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1743" name="ruf_mouth2_fe293c" start="0" length="9959602" position="32338801" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="2" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="1701" source-1="1703" channels="2" master-source-0="1701" master-source-1="1703">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+      </Playlist>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj_id="1413" type_name="N6ARDOUR13AudioPlaylistE">
+      <Playlist name="ruf_ballad_d508b4" orig_diskstream_id="78" frozen="no">
+        <Region id="97" name="ruf_ballad_d508b4" start="0" length="17745481" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="62" source-1="64" channels="2" master-source-0="62" master-source-1="64">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="970" name="ruf_you_3fc6b5" start="0" length="6969559" position="22888727" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1743" name="ruf_mouth2_fe293c" start="0" length="9959602" position="32380571" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="2" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="1701" source-1="1703" channels="2" master-source-0="1701" master-source-1="1703">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+      </Playlist>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1356994297" tv_usec="777684" name="add gain automation event">
+    <MementoCommand obj_id="73" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>0 0.000169524690136313
+14037 1.0002955198288
+15342661 1.0002955198288
+17265757 0.00110735045745969
+17658799 0
+22866600 0
+23066729 1.29139280319214
+</events>
+      </AutomationList>
+      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>0 0.000169524690136313
+14037 1.0002955198288
+15342661 1.0002955198288
+17265757 0.00110735045745969
+17658799 0
+22866600 0
+23066729 1.29139280319214
+32240812 1.03546094894409
+</events>
+      </AutomationList>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1356994300" tv_usec="976413" name="automation event move">
+    <MementoUndoCommand obj_id="73" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>0 0.000169524690136313
+14037 1.0002955198288
+15342661 1.0002955198288
+17265757 0.00110735045745969
+17658799 0
+22866600 0
+23066729 1.29139280319214
+32240812 1.03546094894409
+</events>
+      </AutomationList>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj_id="73" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>0 0.000169524690136313
+14037 1.0002955198288
+15342661 1.0002955198288
+17265757 0.00110735045745969
+17658799 0
+22866600 0
+23066729 1.29139280319214
+32240812 1.26257848739624
+</events>
+      </AutomationList>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1356994321" tv_usec="213748" name="automation event move">
+    <MementoUndoCommand obj_id="73" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>0 0.000169524690136313
+14037 1.0002955198288
+15342661 1.0002955198288
+17265757 0.00110735045745969
+17658799 0
+22866600 0
+23066729 1.29139280319214
+32240812 1.26257848739624
+</events>
+      </AutomationList>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj_id="73" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>0 0.000169524690136313
+14037 1.0002955198288
+15342661 1.0002955198288
+17265757 0.00110735045745969
+17658799 0
+22866600 0
+23066729 1.29139280319214
+32257488 1.29758763313293
+</events>
+      </AutomationList>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1356994334" tv_usec="960545" name="automation event move">
+    <MementoUndoCommand obj_id="73" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>0 0.000169524690136313
+14037 1.0002955198288
+15342661 1.0002955198288
+17265757 0.00110735045745969
+17658799 0
+22866600 0
+23066729 1.29139280319214
+32257488 1.29758763313293
+</events>
+      </AutomationList>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj_id="73" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>0 0.000169524690136313
+14037 1.0002955198288
+15342661 1.0002955198288
+17265757 0.00110735045745969
+17658799 0
+22866600 0
+23066729 1.29139280319214
+32257488 1.28497135639191
+</events>
+      </AutomationList>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1356994346" tv_usec="866624" name="automation event move">
+    <MementoUndoCommand obj_id="73" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>0 0.000169524690136313
+14037 1.0002955198288
+15342661 1.0002955198288
+17265757 0.00110735045745969
+17658799 0
+22866600 0
+23066729 1.29139280319214
+32257488 1.28497135639191
+</events>
+      </AutomationList>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj_id="73" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>0 0.000169524690136313
+14037 1.0002955198288
+15342661 1.0002955198288
+17265757 0.00110735045745969
+17658799 0
+22866600 0
+23066729 1.29139280319214
+32257488 1.29758763313293
+</events>
+      </AutomationList>
     </MementoRedoCommand>
   </UndoTransaction>
 </UndoHistory>

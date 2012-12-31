@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="2.0.0" name="seg5" sample-rate="44100" id-counter="1379">
+<Session version="2.0.0" name="seg5" sample-rate="44100" id-counter="1800">
   <Config>
     <Option name="output-auto-connect" value="2"/>
     <Option name="input-auto-connect" value="1"/>
@@ -15,6 +15,8 @@
     <Source name="ballroom.wav" id="106" flags="" channel="0"/>
     <Source name="ruf_you_3fc6b5-L.wav" id="928" flags="" channel="0"/>
     <Source name="ruf_you_3fc6b5-R.wav" id="930" flags="" channel="0"/>
+    <Source name="ruf_mouth2_fe293c-L.wav" id="1701" flags="Writable,CanRename,Removable,RemovableIfEmpty" channel="0"/>
+    <Source name="ruf_mouth2_fe293c-R.wav" id="1703" flags="Writable,CanRename,Removable,RemovableIfEmpty" channel="0"/>
   </Sources>
   <Regions>
     <Region id="66" name="ruf_ballad_d508b4" start="0" length="17745481" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="62" source-1="64" channels="2" master-source-0="62" master-source-1="64">
@@ -40,11 +42,15 @@
       <FadeOut default="yes" active="yes"/>
       <Envelope default="yes"/>
     </Region>
+    <Region id="1705" name="ruf_mouth2_fe293c" start="0" length="9959602" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="name" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="1701" source-1="1703" channels="2" master-source-0="1701" master-source-1="1703">
+      <FadeIn default="yes" active="yes"/>
+      <FadeOut default="yes" active="yes"/>
+      <Envelope default="yes"/>
+    </Region>
   </Regions>
   <DiskStreams>
     <AudioDiskstream flags="Recordable" channels="2" playlist="ruf_ballad_d508b4" speed="1" name="ruf_ballad_d508b4" id="78"/>
     <AudioDiskstream flags="Recordable" channels="1" playlist="ballroom" speed="1" name="ballroom" id="120"/>
-    <AudioDiskstream flags="Recordable" channels="2" playlist="ruf_you_3fc6b5" speed="1" name="ruf_you_3fc6b5" id="944"/>
   </DiskStreams>
   <Locations>
     <Location id="17" name="start" start="0" end="0" flags="IsMark,IsStart" locked="no"/>
@@ -55,7 +61,7 @@
   <Connections/>
   <Routes>
     <Route flags="MasterOut" default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=0:signal=0">
-      <IO name="master" id="18" active="yes" inputs="{ruf_ballad_d508b4/out 1,ballroom/out 1,ruf_you_3fc6b5/out 1}{ruf_ballad_d508b4/out 2,ballroom/out 2,ruf_you_3fc6b5/out 2}" outputs="{system:playback_1}{system:playback_2}" gain="1.000000000000" iolimits="-1,2,-1,2">
+      <IO name="master" id="18" active="yes" inputs="{ruf_ballad_d508b4/out 1,ballroom/out 1}{ruf_ballad_d508b4/out 2,ballroom/out 2}" outputs="{system:playback_1}{system:playback_2}" gain="1.000000000000" iolimits="-1,2,-1,2">
         <Panner linked="no" link_direction="SameDirection" bypassed="no">
           <Output x="0" y="0"/>
           <Output x="1" y="0"/>
@@ -88,7 +94,7 @@
       </extra>
     </Route>
     <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=1:signal=1" mode="Normal" diskstream-id="78">
-      <IO name="ruf_ballad_d508b4" id="71" active="yes" inputs="{system:capture_1}{system:capture_2}" outputs="{master/in 1}{master/in 2}" gain="0.000169524690" iolimits="1,-1,-1,-1">
+      <IO name="ruf_ballad_d508b4" id="71" active="yes" inputs="{system:capture_1}{system:capture_2}" outputs="{master/in 1}{master/in 2}" gain="0.015889655799" iolimits="1,-1,-1,-1">
         <Panner linked="no" link_direction="SameDirection" bypassed="no">
           <Output x="0" y="0"/>
           <Output x="1" y="0"/>
@@ -115,6 +121,10 @@
 17658799 0
 22866600 0
 23066729 1.29139280319214
+32257488 1.29758763313293
+41907167 1.30339860916138
+42159312 0.0180360972881317
+42370395 0.00448064832016826
 </events>
           </AutomationList>
         </Automation>
@@ -124,12 +134,12 @@
       <remote_control id="2"/>
       <extra>
         <GUI color="44858:12029:26395" shown_mixer="yes" height="68" shown_editor="yes">
-          <gain shown="yes" height="120"/>
+          <gain shown="yes" height="145"/>
           <pan shown="no" height="68"/>
         </GUI>
       </extra>
       <alignment style="ExistingMaterial"/>
-      <controllable name="recenable" id="1147"/>
+      <controllable name="recenable" id="1469"/>
     </Route>
     <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=2:signal=2" mode="Normal" diskstream-id="120">
       <IO name="ballroom" id="113" active="yes" inputs="{system:capture_1}" outputs="{master/in 1}{master/in 2}" gain="1.000000000000" iolimits="1,-1,-1,-1">
@@ -188,13 +198,13 @@
           <controllable name="Random seed" id="310"/>
           <port number="1" value="+0.000000"/>
           <controllable name="Input gain (dB)" id="312"/>
-          <port number="2" value="+18.593349"/>
+          <port number="2" value="+7.723786"/>
           <controllable name="Feedback (%)" id="314"/>
           <port number="3" value="+2.000000"/>
           <controllable name="Number of taps" id="316"/>
           <port number="4" value="+0.077320"/>
           <controllable name="First delay (s)" id="318"/>
-          <port number="5" value="+2.343811"/>
+          <port number="5" value="+0.050803"/>
           <controllable name="Delay range (s)" id="320"/>
           <port number="6" value="+1.000000"/>
           <controllable name="Delay change" id="322"/>
@@ -204,7 +214,7 @@
           <controllable name="Amplitude change" id="326"/>
           <port number="9" value="+0.000000"/>
           <controllable name="Amplitude random (%)" id="328"/>
-          <port number="10" value="+0.187500"/>
+          <port number="10" value="+0.021013"/>
           <controllable name="Dry/wet mix" id="330"/>
         </ladspa>
         <controls>
@@ -307,9 +317,9 @@
           <controllable name="Input bandwidth" id="338"/>
           <port number="4" value="+0.000000"/>
           <controllable name="Dry signal level (dB)" id="340"/>
-          <port number="5" value="-47.352940"/>
+          <port number="5" value="-45.228748"/>
           <controllable name="Early reflection level (dB)" id="342"/>
-          <port number="6" value="-36.029411"/>
+          <port number="6" value="-52.950130"/>
           <controllable name="Tail level (dB)" id="344"/>
         </ladspa>
         <controls>
@@ -386,42 +396,7 @@
         </GUI>
       </extra>
       <alignment style="ExistingMaterial"/>
-      <controllable name="recenable" id="1160"/>
-    </Route>
-    <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=3:signal=3" mode="Normal" diskstream-id="944">
-      <IO name="ruf_you_3fc6b5" id="937" active="yes" inputs="{system:capture_2}{system:capture_1}" outputs="{master/in 1}{master/in 2}" gain="1.000000000000" iolimits="1,-1,-1,-1">
-        <Panner linked="no" link_direction="SameDirection" bypassed="no">
-          <Output x="0" y="0"/>
-          <Output x="1" y="0"/>
-          <StreamPanner x="0" type="Equal Power Stereo" muted="no">
-            <Automation>
-              <AutomationList id="949" default="0" min_yval="0" max_yval="1" max_xval="0" state="Off" style="Absolute"/>
-            </Automation>
-            <controllable name="panner" id="948"/>
-          </StreamPanner>
-          <StreamPanner x="1" type="Equal Power Stereo" muted="no">
-            <Automation>
-              <AutomationList id="952" default="1" min_yval="0" max_yval="1" max_xval="0" state="Off" style="Absolute"/>
-            </Automation>
-            <controllable name="panner" id="951"/>
-          </StreamPanner>
-        </Panner>
-        <controllable name="gaincontrol" id="938"/>
-        <Automation>
-          <AutomationList id="939" default="1" min_yval="0" max_yval="2" max_xval="0" state="Off" style="Absolute"/>
-        </Automation>
-      </IO>
-      <controllable name="solo" id="941"/>
-      <controllable name="mute" id="942"/>
-      <remote_control id="4"/>
-      <extra>
-        <GUI color="26808:43178:45276" shown_mixer="yes" height="68" shown_editor="yes">
-          <gain shown="no" height="68"/>
-          <pan shown="no" height="68"/>
-        </GUI>
-      </extra>
-      <alignment style="ExistingMaterial"/>
-      <controllable name="recenable" id="1173"/>
+      <controllable name="recenable" id="1482"/>
     </Route>
   </Routes>
   <EditGroups/>
@@ -437,6 +412,14 @@
         </extra>
       </Region>
       <Region id="970" name="ruf_you_3fc6b5" start="0" length="6969559" position="22888727" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
+        <FadeIn default="yes" active="yes"/>
+        <FadeOut default="yes" active="yes"/>
+        <Envelope default="yes"/>
+        <extra>
+          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+        </extra>
+      </Region>
+      <Region id="1743" name="ruf_mouth2_fe293c" start="0" length="9959602" position="32380571" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="2" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="1701" source-1="1703" channels="2" master-source-0="1701" master-source-1="1703">
         <FadeIn default="yes" active="yes"/>
         <FadeOut default="yes" active="yes"/>
         <Envelope default="yes"/>
