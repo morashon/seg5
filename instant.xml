@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <instant>
-  <Mixer narrow-strips="no" show-mixer="yes">
-    <geometry x_size="1250" y_size="775" x_pos="83" y_pos="192" x_off="0" y_off="0" mixer_rhs_pane1_pos="258" mixer_list_hpane_pos="75"/>
-  </Mixer>
-  <Editor id="12" zoom-focus="0" zoom="96212.406600" snap-to="9" snap-mode="0" edit-point="EditAtPlayhead" playhead="69829175" show-waveforms="yes" show-waveforms-rectified="no" show-waveforms-recording="yes" show-measures="yes" follow-playhead="yes" stationary-playhead="no" xfades-visible="yes" region-list-sort-type="ByEndInFile" mouse-mode="MouseObject" show-editor-mixer="no">
-    <geometry x_size="1883" y_size="1048" x_pos="1" y_pos="0" x_off="2" y_off="27" edit_pane_pos="1561"/>
+  <Editor id="12" mixer-width="Wide" zoom-focus="ZoomFocusLeft" zoom="8675.467133" snap-to="SnapToBeatDiv28" snap-mode="SnapOff" internal-snap-to="SnapToBeat" internal-snap-mode="SnapOff" pre-internal-snap-to="SnapToBeatDiv28" pre-internal-snap-mode="SnapOff" edit-point="EditAtPlayhead" playhead="67143034" left-frame="59497920" y-origin="20.819277" show-measures="yes" maximised="no" follow-playhead="yes" stationary-playhead="no" region-list-sort-type="ByEndInFile" mouse-mode="MouseObject" internal-edit="no" join-object-range="no" show-editor-mixer="no" show-editor-list="no" editor-list-page="0" show-marker-lines="no" nudge-clock-value="220500">
+    <geometry x-size="1883" y-size="1048" x-pos="1" y-pos="0" edit-horizontal-pane-pos="1694" notebook-shrunk="0" edit-vertical-pane-pos="816"/>
+    <Buttons>
+      <Press/>
+      <Release/>
+    </Buttons>
+    <Selection/>
+    <RegionList sort-type="ByEndInFile" sort-ascending="yes" show-all="no" show-automatic-regions="yes"/>
   </Editor>
+  <Mixer narrow-strips="no" show-mixer="yes">
+    <geometry x-size="1250" y-size="775" x-pos="83" y-pos="192" x-off="0" y-off="0" mixer-rhs-pane1-pos="258" mixer-list-hpane-pos="75"/>
+  </Mixer>
 </instant>
