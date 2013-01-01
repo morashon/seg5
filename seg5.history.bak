@@ -1,862 +1,632 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <UndoHistory>
-  <UndoTransaction tv_sec="1356997420" tv_usec="286675" name="automation event move">
-    <MementoUndoCommand obj_id="73" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>0 0.000169524690136313
-14037 1.0002955198288
-15342661 1.0002955198288
-17265757 0.00110735045745969
-17658799 0
-22866600 0
-23066729 1.29139280319214
-32257488 1.29758763313293
-41907167 1.30339860916138
-42159312 0.0180360972881317
-42370395 0.00529530923813581
-50923978 0
-50958776 0.207976296544075
-50992035 0.616004467010498
-51220053 1.19912910461426
-51256819 1.5313423871994
-60120433 1.53134262561798
-61176144 1.51075530052185
-62187285 1.43515527248383
-62777815 0.339150905609131
-63311135 0.225449770689011
-63833526 0.199585691094398
-65662324 0.127604752779007
-66366416 7.85354422987439e-05
-68716750 0
-69102865 0.88216644525528
+  <UndoTransaction tv_sec="1357015938" tv_usec="139958184699391" name="automation event move">
+    <MementoUndoCommand obj_id="1811" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="1811" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>42026848 0.00491013191640377
+42115072 0.84091728925705
+42203136 0.891948282718658
+42349516 0.625121831893921
+42468810 0.299604952335358
+43186176 0.338590830564499
+43300816 0.492821604013443
+43399969 0.878607988357544
+43900343 0.878607988357544
+44225089 0.380827873945236
+44550276 0.287308067083359
+45152934 0.426457524299622
 </events>
       </AutomationList>
     </MementoUndoCommand>
-    <MementoRedoCommand obj_id="73" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>0 0.000169524690136313
-14037 1.0002955198288
-15342661 1.0002955198288
-17265757 0.00110735045745969
-17658799 0
-22866600 0
-23066729 1.29139280319214
-32257488 1.29758763313293
-41907167 1.30339860916138
-42159312 0.0180360972881317
-42370395 0.00529530923813581
-50923978 0
-50958776 0.207976296544075
-50992035 0.616004467010498
-51220053 1.19912910461426
-51256819 1.5313423871994
-60120433 1.53134262561798
-61176144 1.51075530052185
-62187285 1.43515527248383
-62777815 0.339150905609131
-63311135 0.225449770689011
-63833526 0.199585691094398
-65662324 0.127604752779007
-66366416 7.85354422987439e-05
-68716750 0
-69102865 1.10141229629517
+    <MementoRedoCommand obj_id="1811" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="1811" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>42026848 0.00491013191640377
+42115072 0.84091728925705
+42203136 0.891948282718658
+42349516 0.625121831893921
+42468810 0.299604952335358
+43186176 0.338590830564499
+43300816 0.492821604013443
+43399969 0.878607988357544
+43900343 0.878607988357544
+44225089 0.210483685135841
+44550276 0.287308067083359
+45152934 0.426457524299622
 </events>
       </AutomationList>
     </MementoRedoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1356997429" tv_usec="352897" name="region drag">
-    <MementoUndoCommand obj_id="1413" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="ruf_ballad_d508b4" orig_diskstream_id="78" frozen="no">
-        <Region id="97" name="ruf_ballad_d508b4" start="0" length="17745481" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="62" source-1="64" channels="2" master-source-0="62" master-source-1="64">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="970" name="ruf_you_3fc6b5" start="0" length="6969559" position="22888727" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="1743" name="ruf_mouth2_fe293c" start="0" length="9959602" position="32380571" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="2" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="1701" source-1="1703" channels="2" master-source-0="1701" master-source-1="1703">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2182" name="ruf_over_45be73" start="0" length="14642891" position="50938174" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="3" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="2140" source-1="2142" channels="2" master-source-0="2140" master-source-1="2142">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2457" name="ruf_god_9f4665" start="0" length="4592791" position="69147886" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="4" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="2415" source-1="2417" channels="2" master-source-0="2415" master-source-1="2417">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-      </Playlist>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj_id="1413" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="ruf_ballad_d508b4" orig_diskstream_id="78" frozen="no">
-        <Region id="97" name="ruf_ballad_d508b4" start="0" length="17745481" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="62" source-1="64" channels="2" master-source-0="62" master-source-1="64">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="970" name="ruf_you_3fc6b5" start="0" length="6969559" position="22888727" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="1743" name="ruf_mouth2_fe293c" start="0" length="9959602" position="32380571" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="2" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="1701" source-1="1703" channels="2" master-source-0="1701" master-source-1="1703">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2182" name="ruf_over_45be73" start="0" length="14642891" position="50938174" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="3" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="2140" source-1="2142" channels="2" master-source-0="2140" master-source-1="2142">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2457" name="ruf_god_9f4665" start="0" length="4592791" position="69375013" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="4" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="2415" source-1="2417" channels="2" master-source-0="2415" master-source-1="2417">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-      </Playlist>
-    </MementoRedoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1356997446" tv_usec="540843" name="region drag">
-    <MementoUndoCommand obj_id="1413" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="ruf_ballad_d508b4" orig_diskstream_id="78" frozen="no">
-        <Region id="97" name="ruf_ballad_d508b4" start="0" length="17745481" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="62" source-1="64" channels="2" master-source-0="62" master-source-1="64">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="970" name="ruf_you_3fc6b5" start="0" length="6969559" position="22888727" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="1743" name="ruf_mouth2_fe293c" start="0" length="9959602" position="32380571" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="2" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="1701" source-1="1703" channels="2" master-source-0="1701" master-source-1="1703">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2182" name="ruf_over_45be73" start="0" length="14642891" position="50938174" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="3" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="2140" source-1="2142" channels="2" master-source-0="2140" master-source-1="2142">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2457" name="ruf_god_9f4665" start="0" length="4592791" position="69375013" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="4" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="2415" source-1="2417" channels="2" master-source-0="2415" master-source-1="2417">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-      </Playlist>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj_id="1413" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="ruf_ballad_d508b4" orig_diskstream_id="78" frozen="no">
-        <Region id="97" name="ruf_ballad_d508b4" start="0" length="17745481" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="62" source-1="64" channels="2" master-source-0="62" master-source-1="64">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="970" name="ruf_you_3fc6b5" start="0" length="6969559" position="22888727" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="1743" name="ruf_mouth2_fe293c" start="0" length="9959602" position="32380571" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="2" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="1701" source-1="1703" channels="2" master-source-0="1701" master-source-1="1703">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2182" name="ruf_over_45be73" start="0" length="14642891" position="50938174" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="3" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="2140" source-1="2142" channels="2" master-source-0="2140" master-source-1="2142">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2457" name="ruf_god_9f4665" start="0" length="4592791" position="69210179" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="4" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="2415" source-1="2417" channels="2" master-source-0="2415" master-source-1="2417">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-      </Playlist>
-    </MementoRedoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1356997522" tv_usec="145940" name="region drag">
-    <MementoUndoCommand obj_id="1413" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="ruf_ballad_d508b4" orig_diskstream_id="78" frozen="no">
-        <Region id="97" name="ruf_ballad_d508b4" start="0" length="17745481" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="62" source-1="64" channels="2" master-source-0="62" master-source-1="64">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="970" name="ruf_you_3fc6b5" start="0" length="6969559" position="22888727" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="1743" name="ruf_mouth2_fe293c" start="0" length="9959602" position="32380571" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="2" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="1701" source-1="1703" channels="2" master-source-0="1701" master-source-1="1703">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2182" name="ruf_over_45be73" start="0" length="14642891" position="50938174" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="3" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="2140" source-1="2142" channels="2" master-source-0="2140" master-source-1="2142">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2457" name="ruf_god_9f4665" start="0" length="4592791" position="69210179" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="4" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="2415" source-1="2417" channels="2" master-source-0="2415" master-source-1="2417">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-      </Playlist>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj_id="1413" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="ruf_ballad_d508b4" orig_diskstream_id="78" frozen="no">
-        <Region id="97" name="ruf_ballad_d508b4" start="0" length="17745481" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="62" source-1="64" channels="2" master-source-0="62" master-source-1="64">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="970" name="ruf_you_3fc6b5" start="0" length="6969559" position="22888727" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="1743" name="ruf_mouth2_fe293c" start="0" length="9959602" position="32380571" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="2" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="1701" source-1="1703" channels="2" master-source-0="1701" master-source-1="1703">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2182" name="ruf_over_45be73" start="0" length="14642891" position="50938174" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="3" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="2140" source-1="2142" channels="2" master-source-0="2140" master-source-1="2142">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2457" name="ruf_god_9f4665" start="0" length="4592791" position="69340311" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="4" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="2415" source-1="2417" channels="2" master-source-0="2415" master-source-1="2417">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-      </Playlist>
-    </MementoRedoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1356997572" tv_usec="246227" name="insert dragged region">
-    <MementoCommand obj_id="1413" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="ruf_ballad_d508b4" orig_diskstream_id="78" frozen="no">
-        <Region id="97" name="ruf_ballad_d508b4" start="0" length="17745481" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="62" source-1="64" channels="2" master-source-0="62" master-source-1="64">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="970" name="ruf_you_3fc6b5" start="0" length="6969559" position="22888727" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="1743" name="ruf_mouth2_fe293c" start="0" length="9959602" position="32380571" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="2" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="1701" source-1="1703" channels="2" master-source-0="1701" master-source-1="1703">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2182" name="ruf_over_45be73" start="0" length="14642891" position="50938174" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="3" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="2140" source-1="2142" channels="2" master-source-0="2140" master-source-1="2142">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2457" name="ruf_god_9f4665" start="0" length="4592791" position="69340311" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="4" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="2415" source-1="2417" channels="2" master-source-0="2415" master-source-1="2417">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-      </Playlist>
-      <Playlist name="ruf_ballad_d508b4" orig_diskstream_id="78" frozen="no">
-        <Region id="97" name="ruf_ballad_d508b4" start="0" length="17745481" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="62" source-1="64" channels="2" master-source-0="62" master-source-1="64">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="970" name="ruf_you_3fc6b5" start="0" length="6969559" position="22888727" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="1743" name="ruf_mouth2_fe293c" start="0" length="9959602" position="32380571" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="2" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="1701" source-1="1703" channels="2" master-source-0="1701" master-source-1="1703">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2182" name="ruf_over_45be73" start="0" length="14642891" position="50938174" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="3" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="2140" source-1="2142" channels="2" master-source-0="2140" master-source-1="2142">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2457" name="ruf_god_9f4665" start="0" length="4592791" position="69340311" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="4" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="2415" source-1="2417" channels="2" master-source-0="2415" master-source-1="2417">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2494" name="ruf_you_3fc6b5" start="0" length="6969559" position="75136373" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="5" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-      </Playlist>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1356997574" tv_usec="736780" name="region drag">
-    <MementoUndoCommand obj_id="1413" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="ruf_ballad_d508b4" orig_diskstream_id="78" frozen="no">
-        <Region id="97" name="ruf_ballad_d508b4" start="0" length="17745481" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="62" source-1="64" channels="2" master-source-0="62" master-source-1="64">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="970" name="ruf_you_3fc6b5" start="0" length="6969559" position="22888727" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="1743" name="ruf_mouth2_fe293c" start="0" length="9959602" position="32380571" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="2" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="1701" source-1="1703" channels="2" master-source-0="1701" master-source-1="1703">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2182" name="ruf_over_45be73" start="0" length="14642891" position="50938174" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="3" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="2140" source-1="2142" channels="2" master-source-0="2140" master-source-1="2142">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2457" name="ruf_god_9f4665" start="0" length="4592791" position="69340311" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="4" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="2415" source-1="2417" channels="2" master-source-0="2415" master-source-1="2417">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2494" name="ruf_you_3fc6b5" start="0" length="6969559" position="75136373" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="5" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-      </Playlist>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj_id="1413" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="ruf_ballad_d508b4" orig_diskstream_id="78" frozen="no">
-        <Region id="97" name="ruf_ballad_d508b4" start="0" length="17745481" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="62" source-1="64" channels="2" master-source-0="62" master-source-1="64">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="970" name="ruf_you_3fc6b5" start="0" length="6969559" position="22888727" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="1743" name="ruf_mouth2_fe293c" start="0" length="9959602" position="32380571" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="2" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="1701" source-1="1703" channels="2" master-source-0="1701" master-source-1="1703">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2182" name="ruf_over_45be73" start="0" length="14642891" position="50938174" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="3" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="2140" source-1="2142" channels="2" master-source-0="2140" master-source-1="2142">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2457" name="ruf_god_9f4665" start="0" length="4592791" position="69340311" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="4" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="2415" source-1="2417" channels="2" master-source-0="2415" master-source-1="2417">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2494" name="ruf_you_3fc6b5" start="0" length="6969559" position="74025913" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="5" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-      </Playlist>
-    </MementoRedoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1356997634" tv_usec="895166" name="region drag">
-    <MementoUndoCommand obj_id="1413" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="ruf_ballad_d508b4" orig_diskstream_id="78" frozen="no">
-        <Region id="97" name="ruf_ballad_d508b4" start="0" length="17745481" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="62" source-1="64" channels="2" master-source-0="62" master-source-1="64">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="970" name="ruf_you_3fc6b5" start="0" length="6969559" position="22888727" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="1743" name="ruf_mouth2_fe293c" start="0" length="9959602" position="32380571" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="2" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="1701" source-1="1703" channels="2" master-source-0="1701" master-source-1="1703">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2182" name="ruf_over_45be73" start="0" length="14642891" position="50938174" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="3" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="2140" source-1="2142" channels="2" master-source-0="2140" master-source-1="2142">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2457" name="ruf_god_9f4665" start="0" length="4592791" position="69340311" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="4" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="2415" source-1="2417" channels="2" master-source-0="2415" master-source-1="2417">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2494" name="ruf_you_3fc6b5" start="0" length="6969559" position="74025913" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="5" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-      </Playlist>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj_id="1413" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="ruf_ballad_d508b4" orig_diskstream_id="78" frozen="no">
-        <Region id="97" name="ruf_ballad_d508b4" start="0" length="17745481" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="62" source-1="64" channels="2" master-source-0="62" master-source-1="64">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="970" name="ruf_you_3fc6b5" start="0" length="6969559" position="22888727" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="1743" name="ruf_mouth2_fe293c" start="0" length="9959602" position="32380571" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="2" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="1701" source-1="1703" channels="2" master-source-0="1701" master-source-1="1703">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2182" name="ruf_over_45be73" start="0" length="14642891" position="50938174" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="3" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="2140" source-1="2142" channels="2" master-source-0="2140" master-source-1="2142">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2457" name="ruf_god_9f4665" start="0" length="4592791" position="69340311" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="4" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="2415" source-1="2417" channels="2" master-source-0="2415" master-source-1="2417">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2494" name="ruf_you_3fc6b5" start="0" length="6969559" position="73930483" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="5" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Crossfade out="2457" in="2494" active="yes" follow-overlap="yes" fixed="no" length="2619" anchor-point="0" position="73930483">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="436" y="0.282192"/>
-            <point x="872" y="0.518174"/>
-            <point x="1309" y="0.707946"/>
-            <point x="1746" y="0.851507"/>
-            <point x="2182" y="0.948859"/>
-            <point x="2619" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="436" y="0.948859"/>
-            <point x="872" y="0.851507"/>
-            <point x="1309" y="0.707946"/>
-            <point x="1746" y="0.518174"/>
-            <point x="2182" y="0.282192"/>
-            <point x="2619" y="0"/>
-          </FadeOut>
-        </Crossfade>
-      </Playlist>
-    </MementoRedoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1356997656" tv_usec="195876" name="add gain automation event">
-    <MementoCommand obj_id="73" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>0 0.000169524690136313
-14037 1.0002955198288
-15342661 1.0002955198288
-17265757 0.00110735045745969
-17658799 0
-22866600 0
-23066729 1.29139280319214
-32257488 1.29758763313293
-41907167 1.30339860916138
-42159312 0.0180360972881317
-42370395 0.00529530923813581
-50923978 0
-50958776 0.207976296544075
-50992035 0.616004467010498
-51220053 1.19912910461426
-51256819 1.5313423871994
-60120433 1.53134262561798
-61176144 1.51075530052185
-62187285 1.43515527248383
-62777815 0.339150905609131
-63311135 0.225449770689011
-63833526 0.199585691094398
-65662324 0.127604752779007
-66366416 7.85354422987439e-05
-68716750 0
-69102865 1.10141229629517
+  <UndoTransaction tv_sec="1357015942" tv_usec="139958184699391" name="automation event move">
+    <MementoUndoCommand obj_id="1811" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="1811" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>42026848 0.00491013191640377
+42115072 0.84091728925705
+42203136 0.891948282718658
+42349516 0.625121831893921
+42468810 0.299604952335358
+43186176 0.338590830564499
+43300816 0.492821604013443
+43399969 0.878607988357544
+43900343 0.878607988357544
+44225089 0.210483685135841
+44550276 0.287308067083359
+45152934 0.426457524299622
 </events>
       </AutomationList>
-      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>0 0.000169524690136313
-14037 1.0002955198288
-15342661 1.0002955198288
-17265757 0.00110735045745969
-17658799 0
-22866600 0
-23066729 1.29139280319214
-32257488 1.29758763313293
-41907167 1.30339860916138
-42159312 0.0180360972881317
-42370395 0.00529530923813581
-50923978 0
-50958776 0.207976296544075
-50992035 0.616004467010498
-51220053 1.19912910461426
-51256819 1.5313423871994
-60120433 1.53134262561798
-61176144 1.51075530052185
-62187285 1.43515527248383
-62777815 0.339150905609131
-63311135 0.225449770689011
-63833526 0.199585691094398
-65662324 0.127604752779007
-66366416 7.85354422987439e-05
-68716750 0
-69102865 1.10141229629517
-73869754 1.32335209846497
+    </MementoUndoCommand>
+    <MementoRedoCommand obj_id="1811" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="1811" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>42026848 0.00491013191640377
+42115072 0.84091728925705
+42203136 0.891948282718658
+42349516 0.625121831893921
+42468810 0.299604952335358
+43186176 0.338590830564499
+43300816 0.492821604013443
+43399969 0.878607988357544
+43900343 0.878607988357544
+44225089 0.210483685135841
+44675757 0.25244078040123
+45152934 0.426457524299622
+</events>
+      </AutomationList>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1357015950" tv_usec="139958184699391" name="automation event move">
+    <MementoUndoCommand obj_id="1811" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="1811" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>42026848 0.00491013191640377
+42115072 0.84091728925705
+42203136 0.891948282718658
+42349516 0.625121831893921
+42468810 0.299604952335358
+43186176 0.338590830564499
+43300816 0.492821604013443
+43399969 0.878607988357544
+43900343 0.878607988357544
+44225089 0.210483685135841
+44675757 0.25244078040123
+45152934 0.426457524299622
+</events>
+      </AutomationList>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj_id="1811" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="1811" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>42026848 0.00491013191640377
+42115072 0.84091728925705
+42203136 0.891948282718658
+42349516 0.625121831893921
+42468810 0.299604952335358
+43186176 0.338590830564499
+43300816 0.492821604013443
+43399969 0.878607988357544
+43900343 0.878607988357544
+44307932 0.210483685135841
+44675757 0.25244078040123
+45152934 0.426457524299622
+</events>
+      </AutomationList>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1357015964" tv_usec="139958184699391" name="add gain automation event">
+    <MementoCommand obj_id="1811" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="1811" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>42026848 0.00491013191640377
+42115072 0.84091728925705
+42203136 0.891948282718658
+42349516 0.625121831893921
+42468810 0.299604952335358
+43186176 0.338590830564499
+43300816 0.492821604013443
+43399969 0.878607988357544
+43900343 0.878607988357544
+44307932 0.210483685135841
+44675757 0.25244078040123
+45152934 0.426457524299622
+</events>
+      </AutomationList>
+      <AutomationList id="1811" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>42026848 0.00491013191640377
+42115072 0.84091728925705
+42203136 0.891948282718658
+42349516 0.625121831893921
+42468810 0.299604952335358
+43186176 0.338590830564499
+43300816 0.492821604013443
+43399969 0.878607988357544
+43900343 0.878607988357544
+44307932 0.210483685135841
+44523075 0.148629426956177
+44675757 0.25244078040123
+45152934 0.426457524299622
 </events>
       </AutomationList>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1356997659" tv_usec="776340" name="automation event move">
-    <MementoUndoCommand obj_id="73" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>0 0.000169524690136313
-14037 1.0002955198288
-15342661 1.0002955198288
-17265757 0.00110735045745969
-17658799 0
-22866600 0
-23066729 1.29139280319214
-32257488 1.29758763313293
-41907167 1.30339860916138
-42159312 0.0180360972881317
-42370395 0.00529530923813581
-50923978 0
-50958776 0.207976296544075
-50992035 0.616004467010498
-51220053 1.19912910461426
-51256819 1.5313423871994
-60120433 1.53134262561798
-61176144 1.51075530052185
-62187285 1.43515527248383
-62777815 0.339150905609131
-63311135 0.225449770689011
-63833526 0.199585691094398
-65662324 0.127604752779007
-66366416 7.85354422987439e-05
-68716750 0
-69102865 1.10141229629517
-73869754 1.32335209846497
+  <UndoTransaction tv_sec="1357015970" tv_usec="139958184699391" name="add gain automation event">
+    <MementoCommand obj_id="1811" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="1811" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>42026848 0.00491013191640377
+42115072 0.84091728925705
+42203136 0.891948282718658
+42349516 0.625121831893921
+42468810 0.299604952335358
+43186176 0.338590830564499
+43300816 0.492821604013443
+43399969 0.878607988357544
+43900343 0.878607988357544
+44307932 0.210483685135841
+44523075 0.148629426956177
+44675757 0.25244078040123
+45152934 0.426457524299622
 </events>
       </AutomationList>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj_id="73" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>0 0.000169524690136313
-14037 1.0002955198288
-15342661 1.0002955198288
-17265757 0.00110735045745969
-17658799 0
-22866600 0
-23066729 1.29139280319214
-32257488 1.29758763313293
-41907167 1.30339860916138
-42159312 0.0180360972881317
-42370395 0.00529530923813581
-50923978 0
-50958776 0.207976296544075
-50992035 0.616004467010498
-51220053 1.19912910461426
-51256819 1.5313423871994
-60120433 1.53134262561798
-61176144 1.51075530052185
-62187285 1.43515527248383
-62777815 0.339150905609131
-63311135 0.225449770689011
-63833526 0.199585691094398
-65662324 0.127604752779007
-66366416 7.85354422987439e-05
-68716750 0
-69102865 1.10141229629517
-73869754 1.10047841072083
-</events>
-      </AutomationList>
-    </MementoRedoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1356997662" tv_usec="229004" name="add gain automation event">
-    <MementoCommand obj_id="73" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>0 0.000169524690136313
-14037 1.0002955198288
-15342661 1.0002955198288
-17265757 0.00110735045745969
-17658799 0
-22866600 0
-23066729 1.29139280319214
-32257488 1.29758763313293
-41907167 1.30339860916138
-42159312 0.0180360972881317
-42370395 0.00529530923813581
-50923978 0
-50958776 0.207976296544075
-50992035 0.616004467010498
-51220053 1.19912910461426
-51256819 1.5313423871994
-60120433 1.53134262561798
-61176144 1.51075530052185
-62187285 1.43515527248383
-62777815 0.339150905609131
-63311135 0.225449770689011
-63833526 0.199585691094398
-65662324 0.127604752779007
-66366416 7.85354422987439e-05
-68716750 0
-69102865 1.10141229629517
-73869754 1.10047841072083
-</events>
-      </AutomationList>
-      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>0 0.000169524690136313
-14037 1.0002955198288
-15342661 1.0002955198288
-17265757 0.00110735045745969
-17658799 0
-22866600 0
-23066729 1.29139280319214
-32257488 1.29758763313293
-41907167 1.30339860916138
-42159312 0.0180360972881317
-42370395 0.00529530923813581
-50923978 0
-50958776 0.207976296544075
-50992035 0.616004467010498
-51220053 1.19912910461426
-51256819 1.5313423871994
-60120433 1.53134262561798
-61176144 1.51075530052185
-62187285 1.43515527248383
-62777815 0.339150905609131
-63311135 0.225449770689011
-63833526 0.199585691094398
-65662324 0.127604752779007
-66366416 7.85354422987439e-05
-68716750 0
-69102865 1.10141229629517
-73869754 1.10047841072083
-73991211 1.54229724407196
+      <AutomationList id="1811" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>42026848 0.00491013191640377
+42115072 0.84091728925705
+42203136 0.891948282718658
+42349516 0.625121831893921
+42468810 0.299604952335358
+43186176 0.338590830564499
+43300816 0.492821604013443
+43399969 0.878607988357544
+43900343 0.878607988357544
+44307932 0.210483685135841
+44347448 0.156613186001778
+44523075 0.148629426956177
+44675757 0.25244078040123
+45152934 0.426457524299622
 </events>
       </AutomationList>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1356997666" tv_usec="639678" name="automation event move">
+  <UndoTransaction tv_sec="1357015975" tv_usec="139958184699391" name="region drag">
+    <MementoUndoCommand obj_id="3629" type_name="N6ARDOUR13AudioPlaylistE">
+      <Playlist name="lounge4_merge" orig_diskstream_id="2020" frozen="no">
+        <Region id="2121" name="lounge4_merge.1" start="0" length="6464330" position="44279780" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="2002" source-1="2004" source-2="2006" channels="3" master-source-0="2002" master-source-1="2004" master-source-2="2006">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="2127" name="lounge4_merge.2" start="6464330" length="6621806" position="62753195" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="6464330" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="2002" source-1="2004" source-2="2006" channels="3" master-source-0="2002" master-source-1="2004" master-source-2="2006">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+      </Playlist>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj_id="3629" type_name="N6ARDOUR13AudioPlaylistE">
+      <Playlist name="lounge4_merge" orig_diskstream_id="2020" frozen="no">
+        <Region id="2121" name="lounge4_merge.1" start="0" length="6464330" position="44302976" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="2002" source-1="2004" source-2="2006" channels="3" master-source-0="2002" master-source-1="2004" master-source-2="2006">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="2127" name="lounge4_merge.2" start="6464330" length="6621806" position="62753195" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="6464330" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="2002" source-1="2004" source-2="2006" channels="3" master-source-0="2002" master-source-1="2004" master-source-2="2006">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+      </Playlist>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1357016447" tv_usec="312051" name="region drag">
+    <MementoUndoCommand obj_id="3629" type_name="N6ARDOUR13AudioPlaylistE">
+      <Playlist name="lounge4_merge" orig_diskstream_id="2020" frozen="no">
+        <Region id="2121" name="lounge4_merge.1" start="0" length="6464330" position="44302976" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="2002" source-1="2004" source-2="2006" channels="3" master-source-0="2002" master-source-1="2004" master-source-2="2006">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="2127" name="lounge4_merge.2" start="6464330" length="6621806" position="62753195" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="6464330" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="2002" source-1="2004" source-2="2006" channels="3" master-source-0="2002" master-source-1="2004" master-source-2="2006">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+      </Playlist>
+    </MementoUndoCommand>
+    <MementoUndoCommand obj_id="3577" type_name="N6ARDOUR13AudioPlaylistE">
+      <Playlist name="ruf_ballad_d508b4" orig_diskstream_id="78" frozen="no">
+        <Region id="97" name="ruf_ballad_d508b4" start="0" length="17745481" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="62" source-1="64" channels="2" master-source-0="62" master-source-1="64">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="970" name="ruf_you_3fc6b5" start="0" length="6969559" position="22888727" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1743" name="ruf_mouth2_fe293c" start="0" length="9959602" position="32466358" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="1701" source-1="1703" channels="2" master-source-0="1701" master-source-1="1703">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="2182" name="ruf_over_45be73" start="0" length="14642891" position="51023961" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="3" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="2140" source-1="2142" channels="2" master-source-0="2140" master-source-1="2142">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="2457" name="ruf_god_9f4665" start="0" length="4592791" position="69426098" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="4" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,External" scale-gain="1" source-0="2415" source-1="2417" channels="2" master-source-0="2415" master-source-1="2417">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="no"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="2567" name="ruf_you_3fc6b5.1" start="0" length="185221" position="73992134" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="5" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
+          <FadeIn default="yes" active="no"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="2573" name="ruf_you_3fc6b5.2" start="185221" length="6784338" position="74177355" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="6" sync-position="185221" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Crossfade out="2457" in="2567" active="yes" follow-overlap="yes" fixed="no" length="26755" anchor-point="0" position="73992134">
+          <FadeIn>
+            <point x="0" y="0"/>
+            <point x="4459" y="0.282191991806"/>
+            <point x="8918" y="0.518173992634"/>
+            <point x="13377" y="0.707946002483"/>
+            <point x="17836" y="0.851507008076"/>
+            <point x="22295" y="0.948858976364"/>
+            <point x="26755" y="1"/>
+          </FadeIn>
+          <FadeOut>
+            <point x="0" y="1"/>
+            <point x="4459" y="0.948858976364"/>
+            <point x="8918" y="0.851507008076"/>
+            <point x="13377" y="0.707946002483"/>
+            <point x="17836" y="0.518173992634"/>
+            <point x="22295" y="0.282191991806"/>
+            <point x="26755" y="0"/>
+          </FadeOut>
+        </Crossfade>
+      </Playlist>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj_id="3577" type_name="N6ARDOUR13AudioPlaylistE">
+      <Playlist name="ruf_ballad_d508b4" orig_diskstream_id="78" frozen="no">
+        <Region id="97" name="ruf_ballad_d508b4" start="0" length="17745481" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="62" source-1="64" channels="2" master-source-0="62" master-source-1="64">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="970" name="ruf_you_3fc6b5" start="0" length="6969559" position="22888727" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1743" name="ruf_mouth2_fe293c" start="0" length="9959602" position="32466358" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="1701" source-1="1703" channels="2" master-source-0="1701" master-source-1="1703">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="2182" name="ruf_over_45be73" start="0" length="14642891" position="50448473" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="3" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="2140" source-1="2142" channels="2" master-source-0="2140" master-source-1="2142">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="2457" name="ruf_god_9f4665" start="0" length="4592791" position="68850610" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="4" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,External" scale-gain="1" source-0="2415" source-1="2417" channels="2" master-source-0="2415" master-source-1="2417">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="no"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="2567" name="ruf_you_3fc6b5.1" start="0" length="185221" position="73416646" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="5" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
+          <FadeIn default="yes" active="no"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="2573" name="ruf_you_3fc6b5.2" start="185221" length="6784338" position="73601867" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="6" sync-position="185221" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Crossfade out="2457" in="2567" active="yes" follow-overlap="yes" fixed="no" length="26755" anchor-point="0" position="73416646">
+          <FadeIn>
+            <point x="0" y="0"/>
+            <point x="4459" y="0.282191991806"/>
+            <point x="8918" y="0.518173992634"/>
+            <point x="13377" y="0.707946002483"/>
+            <point x="17836" y="0.851507008076"/>
+            <point x="22295" y="0.948858976364"/>
+            <point x="26755" y="1"/>
+          </FadeIn>
+          <FadeOut>
+            <point x="0" y="1"/>
+            <point x="4459" y="0.948858976364"/>
+            <point x="8918" y="0.851507008076"/>
+            <point x="13377" y="0.707946002483"/>
+            <point x="17836" y="0.518173992634"/>
+            <point x="22295" y="0.282191991806"/>
+            <point x="26755" y="0"/>
+          </FadeOut>
+        </Crossfade>
+      </Playlist>
+    </MementoRedoCommand>
+    <MementoRedoCommand obj_id="3629" type_name="N6ARDOUR13AudioPlaylistE">
+      <Playlist name="lounge4_merge" orig_diskstream_id="2020" frozen="no">
+        <Region id="2121" name="lounge4_merge.1" start="0" length="6464330" position="44302976" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="2002" source-1="2004" source-2="2006" channels="3" master-source-0="2002" master-source-1="2004" master-source-2="2006">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="2127" name="lounge4_merge.2" start="6464330" length="6621806" position="62177707" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="6464330" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="2002" source-1="2004" source-2="2006" channels="3" master-source-0="2002" master-source-1="2004" master-source-2="2006">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+      </Playlist>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1357016465" tv_usec="740864" name="region drag">
+    <MementoUndoCommand obj_id="3629" type_name="N6ARDOUR13AudioPlaylistE">
+      <Playlist name="lounge4_merge" orig_diskstream_id="2020" frozen="no">
+        <Region id="2121" name="lounge4_merge.1" start="0" length="6464330" position="44302976" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="2002" source-1="2004" source-2="2006" channels="3" master-source-0="2002" master-source-1="2004" master-source-2="2006">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="2127" name="lounge4_merge.2" start="6464330" length="6621806" position="62177707" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="6464330" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="2002" source-1="2004" source-2="2006" channels="3" master-source-0="2002" master-source-1="2004" master-source-2="2006">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+      </Playlist>
+    </MementoUndoCommand>
+    <MementoUndoCommand obj_id="3577" type_name="N6ARDOUR13AudioPlaylistE">
+      <Playlist name="ruf_ballad_d508b4" orig_diskstream_id="78" frozen="no">
+        <Region id="97" name="ruf_ballad_d508b4" start="0" length="17745481" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="62" source-1="64" channels="2" master-source-0="62" master-source-1="64">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="970" name="ruf_you_3fc6b5" start="0" length="6969559" position="22888727" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1743" name="ruf_mouth2_fe293c" start="0" length="9959602" position="32466358" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="1701" source-1="1703" channels="2" master-source-0="1701" master-source-1="1703">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="2182" name="ruf_over_45be73" start="0" length="14642891" position="50448473" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="3" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="2140" source-1="2142" channels="2" master-source-0="2140" master-source-1="2142">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="2457" name="ruf_god_9f4665" start="0" length="4592791" position="68850610" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="4" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,External" scale-gain="1" source-0="2415" source-1="2417" channels="2" master-source-0="2415" master-source-1="2417">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="no"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="2567" name="ruf_you_3fc6b5.1" start="0" length="185221" position="73416646" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="5" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
+          <FadeIn default="yes" active="no"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="2573" name="ruf_you_3fc6b5.2" start="185221" length="6784338" position="73601867" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="6" sync-position="185221" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Crossfade out="2457" in="2567" active="yes" follow-overlap="yes" fixed="no" length="26755" anchor-point="0" position="73416646">
+          <FadeIn>
+            <point x="0" y="0"/>
+            <point x="4459" y="0.282191991806"/>
+            <point x="8918" y="0.518173992634"/>
+            <point x="13377" y="0.707946002483"/>
+            <point x="17836" y="0.851507008076"/>
+            <point x="22295" y="0.948858976364"/>
+            <point x="26755" y="1"/>
+          </FadeIn>
+          <FadeOut>
+            <point x="0" y="1"/>
+            <point x="4459" y="0.948858976364"/>
+            <point x="8918" y="0.851507008076"/>
+            <point x="13377" y="0.707946002483"/>
+            <point x="17836" y="0.518173992634"/>
+            <point x="22295" y="0.282191991806"/>
+            <point x="26755" y="0"/>
+          </FadeOut>
+        </Crossfade>
+      </Playlist>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj_id="3577" type_name="N6ARDOUR13AudioPlaylistE">
+      <Playlist name="ruf_ballad_d508b4" orig_diskstream_id="78" frozen="no">
+        <Region id="97" name="ruf_ballad_d508b4" start="0" length="17745481" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="62" source-1="64" channels="2" master-source-0="62" master-source-1="64">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="970" name="ruf_you_3fc6b5" start="0" length="6969559" position="22888727" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="1743" name="ruf_mouth2_fe293c" start="0" length="9959602" position="32466358" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="1701" source-1="1703" channels="2" master-source-0="1701" master-source-1="1703">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="2182" name="ruf_over_45be73" start="0" length="14642891" position="50520153" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="3" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="2140" source-1="2142" channels="2" master-source-0="2140" master-source-1="2142">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="2457" name="ruf_god_9f4665" start="0" length="4592791" position="68922290" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="4" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,External" scale-gain="1" source-0="2415" source-1="2417" channels="2" master-source-0="2415" master-source-1="2417">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="no"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="2567" name="ruf_you_3fc6b5.1" start="0" length="185221" position="73488326" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="5" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
+          <FadeIn default="yes" active="no"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="2573" name="ruf_you_3fc6b5.2" start="185221" length="6784338" position="73673547" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="6" sync-position="185221" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Crossfade out="2457" in="2567" active="yes" follow-overlap="yes" fixed="no" length="26755" anchor-point="0" position="73488326">
+          <FadeIn>
+            <point x="0" y="0"/>
+            <point x="4459" y="0.282191991806"/>
+            <point x="8918" y="0.518173992634"/>
+            <point x="13377" y="0.707946002483"/>
+            <point x="17836" y="0.851507008076"/>
+            <point x="22295" y="0.948858976364"/>
+            <point x="26755" y="1"/>
+          </FadeIn>
+          <FadeOut>
+            <point x="0" y="1"/>
+            <point x="4459" y="0.948858976364"/>
+            <point x="8918" y="0.851507008076"/>
+            <point x="13377" y="0.707946002483"/>
+            <point x="17836" y="0.518173992634"/>
+            <point x="22295" y="0.282191991806"/>
+            <point x="26755" y="0"/>
+          </FadeOut>
+        </Crossfade>
+      </Playlist>
+    </MementoRedoCommand>
+    <MementoRedoCommand obj_id="3629" type_name="N6ARDOUR13AudioPlaylistE">
+      <Playlist name="lounge4_merge" orig_diskstream_id="2020" frozen="no">
+        <Region id="2121" name="lounge4_merge.1" start="0" length="6464330" position="44302976" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="2002" source-1="2004" source-2="2006" channels="3" master-source-0="2002" master-source-1="2004" master-source-2="2006">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+        <Region id="2127" name="lounge4_merge.2" start="6464330" length="6621806" position="62249387" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="6464330" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="2002" source-1="2004" source-2="2006" channels="3" master-source-0="2002" master-source-1="2004" master-source-2="2006">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+      </Playlist>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1357016477" tv_usec="263399" name="automation event move">
     <MementoUndoCommand obj_id="73" type_name="N6ARDOUR5CurveE">
       <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
         <events>0 0.000169524690136313
@@ -868,682 +638,8 @@
 23066729 1.29139280319214
 32257488 1.29758763313293
 41907167 1.30339860916138
-42159312 0.0180360972881317
-42370395 0.00529530923813581
-50923978 0
-50958776 0.207976296544075
-50992035 0.616004467010498
-51220053 1.19912910461426
-51256819 1.5313423871994
-60120433 1.53134262561798
-61176144 1.51075530052185
-62187285 1.43515527248383
-62777815 0.339150905609131
-63311135 0.225449770689011
-63833526 0.199585691094398
-65662324 0.127604752779007
-66366416 7.85354422987439e-05
-68716750 0
-69102865 1.10141229629517
-73869754 1.10047841072083
-73991211 1.54229724407196
-</events>
-      </AutomationList>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj_id="73" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>0 0.000169524690136313
-14037 1.0002955198288
-15342661 1.0002955198288
-17265757 0.00110735045745969
-17658799 0
-22866600 0
-23066729 1.29139280319214
-32257488 1.29758763313293
-41907167 1.30339860916138
-42159312 0.0180360972881317
-42370395 0.00529530923813581
-50923978 0
-50958776 0.207976296544075
-50992035 0.616004467010498
-51220053 1.19912910461426
-51256819 1.5313423871994
-60120433 1.53134262561798
-61176144 1.51075530052185
-62187285 1.43515527248383
-62777815 0.339150905609131
-63311135 0.225449770689011
-63833526 0.199585691094398
-65662324 0.127604752779007
-66366416 7.85354422987439e-05
-68716750 0
-69102865 1.10141229629517
-73869754 1.10047841072083
-73991211 1.32335221767426
-</events>
-      </AutomationList>
-    </MementoRedoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1356997713" tv_usec="366173" name="region drag">
-    <MementoUndoCommand obj_id="1413" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="ruf_ballad_d508b4" orig_diskstream_id="78" frozen="no">
-        <Region id="97" name="ruf_ballad_d508b4" start="0" length="17745481" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="62" source-1="64" channels="2" master-source-0="62" master-source-1="64">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="970" name="ruf_you_3fc6b5" start="0" length="6969559" position="22888727" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="1743" name="ruf_mouth2_fe293c" start="0" length="9959602" position="32380571" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="2" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="1701" source-1="1703" channels="2" master-source-0="1701" master-source-1="1703">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2182" name="ruf_over_45be73" start="0" length="14642891" position="50938174" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="3" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="2140" source-1="2142" channels="2" master-source-0="2140" master-source-1="2142">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2457" name="ruf_god_9f4665" start="0" length="4592791" position="69340311" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="4" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="2415" source-1="2417" channels="2" master-source-0="2415" master-source-1="2417">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2494" name="ruf_you_3fc6b5" start="0" length="6969559" position="73930483" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="5" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Crossfade out="2457" in="2494" active="yes" follow-overlap="yes" fixed="no" length="2619" anchor-point="0" position="73930483">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="436" y="0.282192"/>
-            <point x="872" y="0.518174"/>
-            <point x="1309" y="0.707946"/>
-            <point x="1746" y="0.851507"/>
-            <point x="2182" y="0.948859"/>
-            <point x="2619" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="436" y="0.948859"/>
-            <point x="872" y="0.851507"/>
-            <point x="1309" y="0.707946"/>
-            <point x="1746" y="0.518174"/>
-            <point x="2182" y="0.282192"/>
-            <point x="2619" y="0"/>
-          </FadeOut>
-        </Crossfade>
-      </Playlist>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj_id="1413" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="ruf_ballad_d508b4" orig_diskstream_id="78" frozen="no">
-        <Region id="97" name="ruf_ballad_d508b4" start="0" length="17745481" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="62" source-1="64" channels="2" master-source-0="62" master-source-1="64">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="970" name="ruf_you_3fc6b5" start="0" length="6969559" position="22888727" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="1743" name="ruf_mouth2_fe293c" start="0" length="9959602" position="32380571" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="2" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="1701" source-1="1703" channels="2" master-source-0="1701" master-source-1="1703">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2182" name="ruf_over_45be73" start="0" length="14642891" position="50938174" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="3" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="2140" source-1="2142" channels="2" master-source-0="2140" master-source-1="2142">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2457" name="ruf_god_9f4665" start="0" length="4592791" position="69340311" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="4" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="2415" source-1="2417" channels="2" master-source-0="2415" master-source-1="2417">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2494" name="ruf_you_3fc6b5" start="0" length="6969559" position="73920243" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="5" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Crossfade out="2457" in="2494" active="yes" follow-overlap="yes" fixed="no" length="12859" anchor-point="0" position="73920243">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="2143" y="0.282192"/>
-            <point x="4286" y="0.518174"/>
-            <point x="6429" y="0.707946"/>
-            <point x="8572" y="0.851507"/>
-            <point x="10715" y="0.948859"/>
-            <point x="12859" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="2143" y="0.948859"/>
-            <point x="4286" y="0.851507"/>
-            <point x="6429" y="0.707946"/>
-            <point x="8572" y="0.518174"/>
-            <point x="10715" y="0.282192"/>
-            <point x="12859" y="0"/>
-          </FadeOut>
-        </Crossfade>
-      </Playlist>
-    </MementoRedoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1356997729" tv_usec="556320" name="region drag">
-    <MementoUndoCommand obj_id="1413" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="ruf_ballad_d508b4" orig_diskstream_id="78" frozen="no">
-        <Region id="97" name="ruf_ballad_d508b4" start="0" length="17745481" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="62" source-1="64" channels="2" master-source-0="62" master-source-1="64">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="970" name="ruf_you_3fc6b5" start="0" length="6969559" position="22888727" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="1743" name="ruf_mouth2_fe293c" start="0" length="9959602" position="32380571" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="2" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="1701" source-1="1703" channels="2" master-source-0="1701" master-source-1="1703">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2182" name="ruf_over_45be73" start="0" length="14642891" position="50938174" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="3" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="2140" source-1="2142" channels="2" master-source-0="2140" master-source-1="2142">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2457" name="ruf_god_9f4665" start="0" length="4592791" position="69340311" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="4" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="2415" source-1="2417" channels="2" master-source-0="2415" master-source-1="2417">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2494" name="ruf_you_3fc6b5" start="0" length="6969559" position="73920243" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="5" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Crossfade out="2457" in="2494" active="yes" follow-overlap="yes" fixed="no" length="12859" anchor-point="0" position="73920243">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="2143" y="0.282192"/>
-            <point x="4286" y="0.518174"/>
-            <point x="6429" y="0.707946"/>
-            <point x="8572" y="0.851507"/>
-            <point x="10715" y="0.948859"/>
-            <point x="12859" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="2143" y="0.948859"/>
-            <point x="4286" y="0.851507"/>
-            <point x="6429" y="0.707946"/>
-            <point x="8572" y="0.518174"/>
-            <point x="10715" y="0.282192"/>
-            <point x="12859" y="0"/>
-          </FadeOut>
-        </Crossfade>
-      </Playlist>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj_id="1413" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="ruf_ballad_d508b4" orig_diskstream_id="78" frozen="no">
-        <Region id="97" name="ruf_ballad_d508b4" start="0" length="17745481" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="62" source-1="64" channels="2" master-source-0="62" master-source-1="64">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="970" name="ruf_you_3fc6b5" start="0" length="6969559" position="22888727" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="1743" name="ruf_mouth2_fe293c" start="0" length="9959602" position="32380571" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="2" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="1701" source-1="1703" channels="2" master-source-0="1701" master-source-1="1703">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2182" name="ruf_over_45be73" start="0" length="14642891" position="50938174" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="3" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="2140" source-1="2142" channels="2" master-source-0="2140" master-source-1="2142">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2457" name="ruf_god_9f4665" start="0" length="4592791" position="69340311" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="4" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="2415" source-1="2417" channels="2" master-source-0="2415" master-source-1="2417">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2494" name="ruf_you_3fc6b5" start="0" length="6969559" position="73914099" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="5" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Crossfade out="2457" in="2494" active="yes" follow-overlap="yes" fixed="no" length="19003" anchor-point="0" position="73914099">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="3167" y="0.282192"/>
-            <point x="6334" y="0.518174"/>
-            <point x="9501" y="0.707946"/>
-            <point x="12668" y="0.851507"/>
-            <point x="15835" y="0.948859"/>
-            <point x="19003" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="3167" y="0.948859"/>
-            <point x="6334" y="0.851507"/>
-            <point x="9501" y="0.707946"/>
-            <point x="12668" y="0.518174"/>
-            <point x="15835" y="0.282192"/>
-            <point x="19003" y="0"/>
-          </FadeOut>
-        </Crossfade>
-      </Playlist>
-    </MementoRedoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1356997740" tv_usec="173869" name="region drag">
-    <MementoUndoCommand obj_id="1413" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="ruf_ballad_d508b4" orig_diskstream_id="78" frozen="no">
-        <Region id="97" name="ruf_ballad_d508b4" start="0" length="17745481" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="62" source-1="64" channels="2" master-source-0="62" master-source-1="64">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="970" name="ruf_you_3fc6b5" start="0" length="6969559" position="22888727" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="1743" name="ruf_mouth2_fe293c" start="0" length="9959602" position="32380571" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="2" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="1701" source-1="1703" channels="2" master-source-0="1701" master-source-1="1703">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2182" name="ruf_over_45be73" start="0" length="14642891" position="50938174" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="3" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="2140" source-1="2142" channels="2" master-source-0="2140" master-source-1="2142">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2457" name="ruf_god_9f4665" start="0" length="4592791" position="69340311" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="4" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="2415" source-1="2417" channels="2" master-source-0="2415" master-source-1="2417">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2494" name="ruf_you_3fc6b5" start="0" length="6969559" position="73914099" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="5" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Crossfade out="2457" in="2494" active="yes" follow-overlap="yes" fixed="no" length="19003" anchor-point="0" position="73914099">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="3167" y="0.282192"/>
-            <point x="6334" y="0.518174"/>
-            <point x="9501" y="0.707946"/>
-            <point x="12668" y="0.851507"/>
-            <point x="15835" y="0.948859"/>
-            <point x="19003" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="3167" y="0.948859"/>
-            <point x="6334" y="0.851507"/>
-            <point x="9501" y="0.707946"/>
-            <point x="12668" y="0.518174"/>
-            <point x="15835" y="0.282192"/>
-            <point x="19003" y="0"/>
-          </FadeOut>
-        </Crossfade>
-      </Playlist>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj_id="1413" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="ruf_ballad_d508b4" orig_diskstream_id="78" frozen="no">
-        <Region id="97" name="ruf_ballad_d508b4" start="0" length="17745481" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="62" source-1="64" channels="2" master-source-0="62" master-source-1="64">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="970" name="ruf_you_3fc6b5" start="0" length="6969559" position="22888727" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="1743" name="ruf_mouth2_fe293c" start="0" length="9959602" position="32380571" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="2" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="1701" source-1="1703" channels="2" master-source-0="1701" master-source-1="1703">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2182" name="ruf_over_45be73" start="0" length="14642891" position="50938174" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="3" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="2140" source-1="2142" channels="2" master-source-0="2140" master-source-1="2142">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2457" name="ruf_god_9f4665" start="0" length="4592791" position="69340311" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="4" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="2415" source-1="2417" channels="2" master-source-0="2415" master-source-1="2417">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2494" name="ruf_you_3fc6b5" start="0" length="6969559" position="73899763" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="5" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Crossfade out="2457" in="2494" active="yes" follow-overlap="yes" fixed="no" length="33339" anchor-point="0" position="73899763">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="5556" y="0.282192"/>
-            <point x="11112" y="0.518174"/>
-            <point x="16669" y="0.707946"/>
-            <point x="22226" y="0.851507"/>
-            <point x="27782" y="0.948859"/>
-            <point x="33339" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="5556" y="0.948859"/>
-            <point x="11112" y="0.851507"/>
-            <point x="16669" y="0.707946"/>
-            <point x="22226" y="0.518174"/>
-            <point x="27782" y="0.282192"/>
-            <point x="33339" y="0"/>
-          </FadeOut>
-        </Crossfade>
-      </Playlist>
-    </MementoRedoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1356997752" tv_usec="776753" name="automation event move">
-    <MementoUndoCommand obj_id="73" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>0 0.000169524690136313
-14037 1.0002955198288
-15342661 1.0002955198288
-17265757 0.00110735045745969
-17658799 0
-22866600 0
-23066729 1.29139280319214
-32257488 1.29758763313293
-41907167 1.30339860916138
-42159312 0.0180360972881317
-42370395 0.00529530923813581
-50923978 0
-50958776 0.207976296544075
-50992035 0.616004467010498
-51220053 1.19912910461426
-51256819 1.5313423871994
-60120433 1.53134262561798
-61176144 1.51075530052185
-62187285 1.43515527248383
-62777815 0.339150905609131
-63311135 0.225449770689011
-63833526 0.199585691094398
-65662324 0.127604752779007
-66366416 7.85354422987439e-05
-68716750 0
-69102865 1.10141229629517
-73869754 1.10047841072083
-73991211 1.32335221767426
-</events>
-      </AutomationList>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj_id="73" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>0 0.000169524690136313
-14037 1.0002955198288
-15342661 1.0002955198288
-17265757 0.00110735045745969
-17658799 0
-22866600 0
-23066729 1.29139280319214
-32257488 1.29758763313293
-41907167 1.30339860916138
-42159312 0.0180360972881317
-42370395 0.00529530923813581
-50923978 0
-50958776 0.207976296544075
-50992035 0.616004467010498
-51220053 1.19912910461426
-51256819 1.5313423871994
-60120433 1.53134262561798
-61176144 1.51075530052185
-62187285 1.43515527248383
-62777815 0.339150905609131
-63311135 0.225449770689011
-63833526 0.199585691094398
-65662324 0.127604752779007
-66366416 7.85354422987439e-05
-68716750 0
-69102865 1.10141229629517
-73869754 1.10047841072083
-73924608 1.29393553733826
-</events>
-      </AutomationList>
-    </MementoRedoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1356997755" tv_usec="490601" name="add gain automation event">
-    <MementoCommand obj_id="73" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>0 0.000169524690136313
-14037 1.0002955198288
-15342661 1.0002955198288
-17265757 0.00110735045745969
-17658799 0
-22866600 0
-23066729 1.29139280319214
-32257488 1.29758763313293
-41907167 1.30339860916138
-42159312 0.0180360972881317
-42370395 0.00529530923813581
-50923978 0
-50958776 0.207976296544075
-50992035 0.616004467010498
-51220053 1.19912910461426
-51256819 1.5313423871994
-60120433 1.53134262561798
-61176144 1.51075530052185
-62187285 1.43515527248383
-62777815 0.339150905609131
-63311135 0.225449770689011
-63833526 0.199585691094398
-65662324 0.127604752779007
-66366416 7.85354422987439e-05
-68716750 0
-69102865 1.10141229629517
-73869754 1.10047841072083
-73924608 1.29393553733826
-</events>
-      </AutomationList>
-      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>0 0.000169524690136313
-14037 1.0002955198288
-15342661 1.0002955198288
-17265757 0.00110735045745969
-17658799 0
-22866600 0
-23066729 1.29139280319214
-32257488 1.29758763313293
-41907167 1.30339860916138
-42159312 0.0180360972881317
-42370395 0.00529530923813581
-50923978 0
-50958776 0.207976296544075
-50992035 0.616004467010498
-51220053 1.19912910461426
-51256819 1.5313423871994
-60120433 1.53134262561798
-61176144 1.51075530052185
-62187285 1.43515527248383
-62777815 0.339150905609131
-63311135 0.225449770689011
-63833526 0.199585691094398
-65662324 0.127604752779007
-66366416 7.85354422987439e-05
-68716750 0
-69102865 1.10141229629517
-73869754 1.10047841072083
-73924608 1.29393553733826
-73977587 1.23645710945129
-</events>
-      </AutomationList>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1356997757" tv_usec="136370" name="automation event move">
-    <MementoUndoCommand obj_id="73" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>0 0.000169524690136313
-14037 1.0002955198288
-15342661 1.0002955198288
-17265757 0.00110735045745969
-17658799 0
-22866600 0
-23066729 1.29139280319214
-32257488 1.29758763313293
-41907167 1.30339860916138
-42159312 0.0180360972881317
-42370395 0.00529530923813581
-50923978 0
-50958776 0.207976296544075
-50992035 0.616004467010498
-51220053 1.19912910461426
-51256819 1.5313423871994
-60120433 1.53134262561798
-61176144 1.51075530052185
-62187285 1.43515527248383
-62777815 0.339150905609131
-63311135 0.225449770689011
-63833526 0.199585691094398
-65662324 0.127604752779007
-66366416 7.85354422987439e-05
-68716750 0
-69102865 1.10141229629517
-73869754 1.10047841072083
-73924608 1.29393553733826
-73977587 1.23645710945129
-</events>
-      </AutomationList>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj_id="73" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>0 0.000169524690136313
-14037 1.0002955198288
-15342661 1.0002955198288
-17265757 0.00110735045745969
-17658799 0
-22866600 0
-23066729 1.29139280319214
-32257488 1.29758763313293
-41907167 1.30339860916138
-42159312 0.0180360972881317
+42076016 0.874704957008362
+42243476 0.0514685772359371
 42370395 0.00529530923813581
 50923978 0
 50958776 0.207976296544075
@@ -1565,450 +661,844 @@
 73977587 1.32335221767426
 </events>
       </AutomationList>
-    </MementoRedoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1356997771" tv_usec="910364" name="region drag">
-    <MementoUndoCommand obj_id="1413" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="ruf_ballad_d508b4" orig_diskstream_id="78" frozen="no">
-        <Region id="97" name="ruf_ballad_d508b4" start="0" length="17745481" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="62" source-1="64" channels="2" master-source-0="62" master-source-1="64">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="970" name="ruf_you_3fc6b5" start="0" length="6969559" position="22888727" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="1743" name="ruf_mouth2_fe293c" start="0" length="9959602" position="32380571" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="2" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="1701" source-1="1703" channels="2" master-source-0="1701" master-source-1="1703">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2182" name="ruf_over_45be73" start="0" length="14642891" position="50938174" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="3" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="2140" source-1="2142" channels="2" master-source-0="2140" master-source-1="2142">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2457" name="ruf_god_9f4665" start="0" length="4592791" position="69340311" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="4" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="2415" source-1="2417" channels="2" master-source-0="2415" master-source-1="2417">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2494" name="ruf_you_3fc6b5" start="0" length="6969559" position="73899763" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="5" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Crossfade out="2457" in="2494" active="yes" follow-overlap="yes" fixed="no" length="33339" anchor-point="0" position="73899763">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="5556" y="0.282192"/>
-            <point x="11112" y="0.518174"/>
-            <point x="16669" y="0.707946"/>
-            <point x="22226" y="0.851507"/>
-            <point x="27782" y="0.948859"/>
-            <point x="33339" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="5556" y="0.948859"/>
-            <point x="11112" y="0.851507"/>
-            <point x="16669" y="0.707946"/>
-            <point x="22226" y="0.518174"/>
-            <point x="27782" y="0.282192"/>
-            <point x="33339" y="0"/>
-          </FadeOut>
-        </Crossfade>
-      </Playlist>
     </MementoUndoCommand>
-    <MementoRedoCommand obj_id="1413" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="ruf_ballad_d508b4" orig_diskstream_id="78" frozen="no">
-        <Region id="97" name="ruf_ballad_d508b4" start="0" length="17745481" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="62" source-1="64" channels="2" master-source-0="62" master-source-1="64">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="970" name="ruf_you_3fc6b5" start="0" length="6969559" position="22888727" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="1743" name="ruf_mouth2_fe293c" start="0" length="9959602" position="32380571" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="2" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="1701" source-1="1703" channels="2" master-source-0="1701" master-source-1="1703">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2182" name="ruf_over_45be73" start="0" length="14642891" position="50938174" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="3" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="2140" source-1="2142" channels="2" master-source-0="2140" master-source-1="2142">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2457" name="ruf_god_9f4665" start="0" length="4592791" position="69340311" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="4" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="2415" source-1="2417" channels="2" master-source-0="2415" master-source-1="2417">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2494" name="ruf_you_3fc6b5" start="0" length="6969559" position="73905081" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="5" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Crossfade out="2457" in="2494" active="yes" follow-overlap="yes" fixed="no" length="28021" anchor-point="0" position="73905081">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="4670" y="0.282192"/>
-            <point x="9340" y="0.518174"/>
-            <point x="14010" y="0.707946"/>
-            <point x="18680" y="0.851507"/>
-            <point x="23350" y="0.948859"/>
-            <point x="28021" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="4670" y="0.948859"/>
-            <point x="9340" y="0.851507"/>
-            <point x="14010" y="0.707946"/>
-            <point x="18680" y="0.518174"/>
-            <point x="23350" y="0.282192"/>
-            <point x="28021" y="0"/>
-          </FadeOut>
-        </Crossfade>
-      </Playlist>
+    <MementoRedoCommand obj_id="73" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>0 0.000169524690136313
+14037 1.0002955198288
+15342661 1.0002955198288
+17265757 0.00110735045745969
+17658799 0
+22866600 0
+23066729 1.29139280319214
+32257488 1.29758763313293
+41907167 1.30339860916138
+42076016 0.874704957008362
+42243476 0.0514685772359371
+42370395 0.00529530923813581
+50546688 0
+50958776 0.207976296544075
+50992035 0.616004467010498
+51220053 1.19912910461426
+51256819 1.5313423871994
+60120433 1.53134262561798
+61176144 1.51075530052185
+62187285 1.43515527248383
+62777815 0.339150905609131
+63311135 0.225449770689011
+63833526 0.199585691094398
+65662324 0.127604752779007
+66366416 7.85354422987439e-05
+68716750 0
+69102865 1.10141229629517
+73869754 1.10047841072083
+73924608 1.29393553733826
+73977587 1.32335221767426
+</events>
+      </AutomationList>
     </MementoRedoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1356997806" tv_usec="378869" name="region drag">
-    <MementoUndoCommand obj_id="1413" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="ruf_ballad_d508b4" orig_diskstream_id="78" frozen="no">
-        <Region id="97" name="ruf_ballad_d508b4" start="0" length="17745481" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="62" source-1="64" channels="2" master-source-0="62" master-source-1="64">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="970" name="ruf_you_3fc6b5" start="0" length="6969559" position="22888727" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="1743" name="ruf_mouth2_fe293c" start="0" length="9959602" position="32380571" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="2" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="1701" source-1="1703" channels="2" master-source-0="1701" master-source-1="1703">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2182" name="ruf_over_45be73" start="0" length="14642891" position="50938174" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="3" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="2140" source-1="2142" channels="2" master-source-0="2140" master-source-1="2142">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2457" name="ruf_god_9f4665" start="0" length="4592791" position="69340311" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="4" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="2415" source-1="2417" channels="2" master-source-0="2415" master-source-1="2417">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2494" name="ruf_you_3fc6b5" start="0" length="6969559" position="73905081" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="5" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Crossfade out="2457" in="2494" active="yes" follow-overlap="yes" fixed="no" length="28021" anchor-point="0" position="73905081">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="4670" y="0.282192"/>
-            <point x="9340" y="0.518174"/>
-            <point x="14010" y="0.707946"/>
-            <point x="18680" y="0.851507"/>
-            <point x="23350" y="0.948859"/>
-            <point x="28021" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="4670" y="0.948859"/>
-            <point x="9340" y="0.851507"/>
-            <point x="14010" y="0.707946"/>
-            <point x="18680" y="0.518174"/>
-            <point x="23350" y="0.282192"/>
-            <point x="28021" y="0"/>
-          </FadeOut>
-        </Crossfade>
-      </Playlist>
+  <UndoTransaction tv_sec="1357016481" tv_usec="178865" name="automation event move">
+    <MementoUndoCommand obj_id="73" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>0 0.000169524690136313
+14037 1.0002955198288
+15342661 1.0002955198288
+17265757 0.00110735045745969
+17658799 0
+22866600 0
+23066729 1.29139280319214
+32257488 1.29758763313293
+41907167 1.30339860916138
+42076016 0.874704957008362
+42243476 0.0514685772359371
+42370395 0.00529530923813581
+50546688 0
+50958776 0.207976296544075
+50992035 0.616004467010498
+51220053 1.19912910461426
+51256819 1.5313423871994
+60120433 1.53134262561798
+61176144 1.51075530052185
+62187285 1.43515527248383
+62777815 0.339150905609131
+63311135 0.225449770689011
+63833526 0.199585691094398
+65662324 0.127604752779007
+66366416 7.85354422987439e-05
+68716750 0
+69102865 1.10141229629517
+73869754 1.10047841072083
+73924608 1.29393553733826
+73977587 1.32335221767426
+</events>
+      </AutomationList>
     </MementoUndoCommand>
-    <MementoRedoCommand obj_id="1413" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="ruf_ballad_d508b4" orig_diskstream_id="78" frozen="no">
-        <Region id="97" name="ruf_ballad_d508b4" start="0" length="17745481" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="62" source-1="64" channels="2" master-source-0="62" master-source-1="64">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="970" name="ruf_you_3fc6b5" start="0" length="6969559" position="22888727" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="1743" name="ruf_mouth2_fe293c" start="0" length="9959602" position="32380571" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="2" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="1701" source-1="1703" channels="2" master-source-0="1701" master-source-1="1703">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2182" name="ruf_over_45be73" start="0" length="14642891" position="50938174" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="3" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="2140" source-1="2142" channels="2" master-source-0="2140" master-source-1="2142">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2457" name="ruf_god_9f4665" start="0" length="4592791" position="69340311" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="4" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="2415" source-1="2417" channels="2" master-source-0="2415" master-source-1="2417">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2494" name="ruf_you_3fc6b5" start="0" length="6969559" position="73906347" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="5" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Crossfade out="2457" in="2494" active="yes" follow-overlap="yes" fixed="no" length="26755" anchor-point="0" position="73906347">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="4459" y="0.282192"/>
-            <point x="8918" y="0.518174"/>
-            <point x="13377" y="0.707946"/>
-            <point x="17836" y="0.851507"/>
-            <point x="22295" y="0.948859"/>
-            <point x="26755" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="4459" y="0.948859"/>
-            <point x="8918" y="0.851507"/>
-            <point x="13377" y="0.707946"/>
-            <point x="17836" y="0.518174"/>
-            <point x="22295" y="0.282192"/>
-            <point x="26755" y="0"/>
-          </FadeOut>
-        </Crossfade>
-      </Playlist>
+    <MementoRedoCommand obj_id="73" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>0 0.000169524690136313
+14037 1.0002955198288
+15342661 1.0002955198288
+17265757 0.00110735045745969
+17658799 0
+22866600 0
+23066729 1.29139280319214
+32257488 1.29758763313293
+41907167 1.30339860916138
+42076016 0.874704957008362
+42243476 0.0514685772359371
+42370395 0.00529530923813581
+50546688 0
+50577408 0.305055260658264
+50992035 0.616004467010498
+51220053 1.19912910461426
+51256819 1.5313423871994
+60120433 1.53134262561798
+61176144 1.51075530052185
+62187285 1.43515527248383
+62777815 0.339150905609131
+63311135 0.225449770689011
+63833526 0.199585691094398
+65662324 0.127604752779007
+66366416 7.85354422987439e-05
+68716750 0
+69102865 1.10141229629517
+73869754 1.10047841072083
+73924608 1.29393553733826
+73977587 1.32335221767426
+</events>
+      </AutomationList>
     </MementoRedoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1356997816" tv_usec="959937" name="split">
-    <MementoCommand obj_id="1413" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="ruf_ballad_d508b4" orig_diskstream_id="78" frozen="no">
-        <Region id="97" name="ruf_ballad_d508b4" start="0" length="17745481" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="62" source-1="64" channels="2" master-source-0="62" master-source-1="64">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="970" name="ruf_you_3fc6b5" start="0" length="6969559" position="22888727" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="1743" name="ruf_mouth2_fe293c" start="0" length="9959602" position="32380571" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="2" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="1701" source-1="1703" channels="2" master-source-0="1701" master-source-1="1703">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2182" name="ruf_over_45be73" start="0" length="14642891" position="50938174" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="3" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="2140" source-1="2142" channels="2" master-source-0="2140" master-source-1="2142">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2457" name="ruf_god_9f4665" start="0" length="4592791" position="69340311" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="4" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="2415" source-1="2417" channels="2" master-source-0="2415" master-source-1="2417">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2494" name="ruf_you_3fc6b5" start="0" length="6969559" position="73906347" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="5" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Crossfade out="2457" in="2494" active="yes" follow-overlap="yes" fixed="no" length="26755" anchor-point="0" position="73906347">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="4459" y="0.282192"/>
-            <point x="8918" y="0.518174"/>
-            <point x="13377" y="0.707946"/>
-            <point x="17836" y="0.851507"/>
-            <point x="22295" y="0.948859"/>
-            <point x="26755" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="4459" y="0.948859"/>
-            <point x="8918" y="0.851507"/>
-            <point x="13377" y="0.707946"/>
-            <point x="17836" y="0.518174"/>
-            <point x="22295" y="0.282192"/>
-            <point x="26755" y="0"/>
-          </FadeOut>
-        </Crossfade>
-      </Playlist>
-      <Playlist name="ruf_ballad_d508b4" orig_diskstream_id="78" frozen="no">
-        <Region id="97" name="ruf_ballad_d508b4" start="0" length="17745481" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="62" source-1="64" channels="2" master-source-0="62" master-source-1="64">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="970" name="ruf_you_3fc6b5" start="0" length="6969559" position="22888727" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="1743" name="ruf_mouth2_fe293c" start="0" length="9959602" position="32380571" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="2" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="1701" source-1="1703" channels="2" master-source-0="1701" master-source-1="1703">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2182" name="ruf_over_45be73" start="0" length="14642891" position="50938174" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="3" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="2140" source-1="2142" channels="2" master-source-0="2140" master-source-1="2142">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2457" name="ruf_god_9f4665" start="0" length="4592791" position="69340311" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="4" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="2415" source-1="2417" channels="2" master-source-0="2415" master-source-1="2417">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2567" name="ruf_you_3fc6b5.1" start="0" length="185221" position="73906347" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="5" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="2573" name="ruf_you_3fc6b5.2" start="185221" length="6784338" position="74091568" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="6" sync-position="185221" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="928" source-1="930" channels="2" master-source-0="928" master-source-1="930">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Crossfade out="2457" in="2567" active="yes" follow-overlap="yes" fixed="no" length="26755" anchor-point="0" position="73906347">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="4459" y="0.282192"/>
-            <point x="8918" y="0.518174"/>
-            <point x="13377" y="0.707946"/>
-            <point x="17836" y="0.851507"/>
-            <point x="22295" y="0.948859"/>
-            <point x="26755" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="4459" y="0.948859"/>
-            <point x="8918" y="0.851507"/>
-            <point x="13377" y="0.707946"/>
-            <point x="17836" y="0.518174"/>
-            <point x="22295" y="0.282192"/>
-            <point x="26755" y="0"/>
-          </FadeOut>
-        </Crossfade>
-      </Playlist>
+  <UndoTransaction tv_sec="1357016484" tv_usec="276350" name="automation event move">
+    <MementoUndoCommand obj_id="73" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>0 0.000169524690136313
+14037 1.0002955198288
+15342661 1.0002955198288
+17265757 0.00110735045745969
+17658799 0
+22866600 0
+23066729 1.29139280319214
+32257488 1.29758763313293
+41907167 1.30339860916138
+42076016 0.874704957008362
+42243476 0.0514685772359371
+42370395 0.00529530923813581
+50546688 0
+50577408 0.305055260658264
+50992035 0.616004467010498
+51220053 1.19912910461426
+51256819 1.5313423871994
+60120433 1.53134262561798
+61176144 1.51075530052185
+62187285 1.43515527248383
+62777815 0.339150905609131
+63311135 0.225449770689011
+63833526 0.199585691094398
+65662324 0.127604752779007
+66366416 7.85354422987439e-05
+68716750 0
+69102865 1.10141229629517
+73869754 1.10047841072083
+73924608 1.29393553733826
+73977587 1.32335221767426
+</events>
+      </AutomationList>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj_id="73" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>0 0.000169524690136313
+14037 1.0002955198288
+15342661 1.0002955198288
+17265757 0.00110735045745969
+17658799 0
+22866600 0
+23066729 1.29139280319214
+32257488 1.29758763313293
+41907167 1.30339860916138
+42076016 0.874704957008362
+42243476 0.0514685772359371
+42370395 0.00529530923813581
+50528256 0
+50577408 0.305055260658264
+50992035 0.616004467010498
+51220053 1.19912910461426
+51256819 1.5313423871994
+60120433 1.53134262561798
+61176144 1.51075530052185
+62187285 1.43515527248383
+62777815 0.339150905609131
+63311135 0.225449770689011
+63833526 0.199585691094398
+65662324 0.127604752779007
+66366416 7.85354422987439e-05
+68716750 0
+69102865 1.10141229629517
+73869754 1.10047841072083
+73924608 1.29393553733826
+73977587 1.32335221767426
+</events>
+      </AutomationList>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1357016501" tv_usec="117929" name="automation event move">
+    <MementoUndoCommand obj_id="73" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>0 0.000169524690136313
+14037 1.0002955198288
+15342661 1.0002955198288
+17265757 0.00110735045745969
+17658799 0
+22866600 0
+23066729 1.29139280319214
+32257488 1.29758763313293
+41907167 1.30339860916138
+42076016 0.874704957008362
+42243476 0.0514685772359371
+42370395 0.00529530923813581
+50528256 0
+50577408 0.305055260658264
+50992035 0.616004467010498
+51220053 1.19912910461426
+51256819 1.5313423871994
+60120433 1.53134262561798
+61176144 1.51075530052185
+62187285 1.43515527248383
+62777815 0.339150905609131
+63311135 0.225449770689011
+63833526 0.199585691094398
+65662324 0.127604752779007
+66366416 7.85354422987439e-05
+68716750 0
+69102865 1.10141229629517
+73869754 1.10047841072083
+73924608 1.29393553733826
+73977587 1.32335221767426
+</events>
+      </AutomationList>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj_id="73" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>0 0.000169524690136313
+14037 1.0002955198288
+15342661 1.0002955198288
+17265757 0.00110735045745969
+17658799 0
+22866600 0
+23066729 1.29139280319214
+32257488 1.29758763313293
+41907167 1.30339860916138
+42076016 0.874704957008362
+42243476 0.0514685772359371
+42370395 0.00529530923813581
+50528256 0
+50577408 0.305055260658264
+50841600 0.967135488986969
+51220053 1.19912910461426
+51256819 1.5313423871994
+60120433 1.53134262561798
+61176144 1.51075530052185
+62187285 1.43515527248383
+62777815 0.339150905609131
+63311135 0.225449770689011
+63833526 0.199585691094398
+65662324 0.127604752779007
+66366416 7.85354422987439e-05
+68716750 0
+69102865 1.10141229629517
+73869754 1.10047841072083
+73924608 1.29393553733826
+73977587 1.32335221767426
+</events>
+      </AutomationList>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1357016509" tv_usec="316905" name="automation event move">
+    <MementoUndoCommand obj_id="73" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>0 0.000169524690136313
+14037 1.0002955198288
+15342661 1.0002955198288
+17265757 0.00110735045745969
+17658799 0
+22866600 0
+23066729 1.29139280319214
+32257488 1.29758763313293
+41907167 1.30339860916138
+42076016 0.874704957008362
+42243476 0.0514685772359371
+42370395 0.00529530923813581
+50528256 0
+50577408 0.305055260658264
+50841600 0.967135488986969
+51220053 1.19912910461426
+51256819 1.5313423871994
+60120433 1.53134262561798
+61176144 1.51075530052185
+62187285 1.43515527248383
+62777815 0.339150905609131
+63311135 0.225449770689011
+63833526 0.199585691094398
+65662324 0.127604752779007
+66366416 7.85354422987439e-05
+68716750 0
+69102865 1.10141229629517
+73869754 1.10047841072083
+73924608 1.29393553733826
+73977587 1.32335221767426
+</events>
+      </AutomationList>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj_id="73" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>0 0.000169524690136313
+14037 1.0002955198288
+15342661 1.0002955198288
+17265757 0.00110735045745969
+17658799 0
+22866600 0
+23066729 1.29139280319214
+32257488 1.29758763313293
+41907167 1.30339860916138
+42076016 0.874704957008362
+42243476 0.0514685772359371
+42370395 0.00529530923813581
+50528256 0
+50577408 0.305055260658264
+50841600 0.967135488986969
+51054592 1.37339770793915
+51256819 1.5313423871994
+60120433 1.53134262561798
+61176144 1.51075530052185
+62187285 1.43515527248383
+62777815 0.339150905609131
+63311135 0.225449770689011
+63833526 0.199585691094398
+65662324 0.127604752779007
+66366416 7.85354422987439e-05
+68716750 0
+69102865 1.10141229629517
+73869754 1.10047841072083
+73924608 1.29393553733826
+73977587 1.32335221767426
+</events>
+      </AutomationList>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1357016514" tv_usec="703055" name="add gain automation event">
+    <MementoCommand obj_id="73" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>0 0.000169524690136313
+14037 1.0002955198288
+15342661 1.0002955198288
+17265757 0.00110735045745969
+17658799 0
+22866600 0
+23066729 1.29139280319214
+32257488 1.29758763313293
+41907167 1.30339860916138
+42076016 0.874704957008362
+42243476 0.0514685772359371
+42370395 0.00529530923813581
+50528256 0
+50577408 0.305055260658264
+50841600 0.967135488986969
+51054592 1.37339770793915
+51256819 1.5313423871994
+60120433 1.53134262561798
+61176144 1.51075530052185
+62187285 1.43515527248383
+62777815 0.339150905609131
+63311135 0.225449770689011
+63833526 0.199585691094398
+65662324 0.127604752779007
+66366416 7.85354422987439e-05
+68716750 0
+69102865 1.10141229629517
+73869754 1.10047841072083
+73924608 1.29393553733826
+73977587 1.32335221767426
+</events>
+      </AutomationList>
+      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>0 0.000169524690136313
+14037 1.0002955198288
+15342661 1.0002955198288
+17265757 0.00110735045745969
+17658799 0
+22866600 0
+23066729 1.29139280319214
+32257488 1.29758763313293
+41907167 1.30339860916138
+42076016 0.874704957008362
+42243476 0.0514685772359371
+42370395 0.00529530923813581
+50528256 0
+50536519 0.0889921486377716
+50577408 0.305055260658264
+50841600 0.967135488986969
+51054592 1.37339770793915
+51256819 1.5313423871994
+60120433 1.53134262561798
+61176144 1.51075530052185
+62187285 1.43515527248383
+62777815 0.339150905609131
+63311135 0.225449770689011
+63833526 0.199585691094398
+65662324 0.127604752779007
+66366416 7.85354422987439e-05
+68716750 0
+69102865 1.10141229629517
+73869754 1.10047841072083
+73924608 1.29393553733826
+73977587 1.32335221767426
+</events>
+      </AutomationList>
     </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1357016544" tv_usec="389604" name="automation event move">
+    <MementoUndoCommand obj_id="73" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>0 0.000169524690136313
+14037 1.0002955198288
+15342661 1.0002955198288
+17265757 0.00110735045745969
+17658799 0
+22866600 0
+23066729 1.29139280319214
+32257488 1.29758763313293
+41907167 1.30339860916138
+42076016 0.874704957008362
+42243476 0.0514685772359371
+42370395 0.00529530923813581
+50528256 0
+50536519 0.0889921486377716
+50577408 0.305055260658264
+50841600 0.967135488986969
+51054592 1.37339770793915
+51256819 1.5313423871994
+60120433 1.53134262561798
+61176144 1.51075530052185
+62187285 1.43515527248383
+62777815 0.339150905609131
+63311135 0.225449770689011
+63833526 0.199585691094398
+65662324 0.127604752779007
+66366416 7.85354422987439e-05
+68716750 0
+69102865 1.10141229629517
+73869754 1.10047841072083
+73924608 1.29393553733826
+73977587 1.32335221767426
+</events>
+      </AutomationList>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj_id="73" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>0 0.000169524690136313
+14037 1.0002955198288
+15342661 1.0002955198288
+17265757 0.00110735045745969
+17658799 0
+22866600 0
+23066729 1.29139280319214
+32257488 1.29758763313293
+41907167 1.30339860916138
+42076016 0.874704957008362
+42243476 0.0514685772359371
+42370395 0.00529530923813581
+50528256 0
+50536519 0.0889921486377716
+50577408 0.305055260658264
+50841600 0.967135488986969
+51054592 1.37339770793915
+51256819 1.25541710853577
+60120433 1.53134262561798
+61176144 1.51075530052185
+62187285 1.43515527248383
+62777815 0.339150905609131
+63311135 0.225449770689011
+63833526 0.199585691094398
+65662324 0.127604752779007
+66366416 7.85354422987439e-05
+68716750 0
+69102865 1.10141229629517
+73869754 1.10047841072083
+73924608 1.29393553733826
+73977587 1.32335221767426
+</events>
+      </AutomationList>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1357016550" tv_usec="353469" name="automation event move">
+    <MementoUndoCommand obj_id="73" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>0 0.000169524690136313
+14037 1.0002955198288
+15342661 1.0002955198288
+17265757 0.00110735045745969
+17658799 0
+22866600 0
+23066729 1.29139280319214
+32257488 1.29758763313293
+41907167 1.30339860916138
+42076016 0.874704957008362
+42243476 0.0514685772359371
+42370395 0.00529530923813581
+50528256 0
+50536519 0.0889921486377716
+50577408 0.305055260658264
+50841600 0.967135488986969
+51054592 1.37339770793915
+51256819 1.25541710853577
+60120433 1.53134262561798
+61176144 1.51075530052185
+62187285 1.43515527248383
+62777815 0.339150905609131
+63311135 0.225449770689011
+63833526 0.199585691094398
+65662324 0.127604752779007
+66366416 7.85354422987439e-05
+68716750 0
+69102865 1.10141229629517
+73869754 1.10047841072083
+73924608 1.29393553733826
+73977587 1.32335221767426
+</events>
+      </AutomationList>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj_id="73" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>0 0.000169524690136313
+14037 1.0002955198288
+15342661 1.0002955198288
+17265757 0.00110735045745969
+17658799 0
+22866600 0
+23066729 1.29139280319214
+32257488 1.29758763313293
+41907167 1.30339860916138
+42076016 0.874704957008362
+42243476 0.0514685772359371
+42370395 0.00529530923813581
+50528256 0
+50536519 0.0889921486377716
+50577408 0.305055260658264
+50841600 0.967135488986969
+51050496 1.28423058986664
+51256819 1.25541710853577
+60120433 1.53134262561798
+61176144 1.51075530052185
+62187285 1.43515527248383
+62777815 0.339150905609131
+63311135 0.225449770689011
+63833526 0.199585691094398
+65662324 0.127604752779007
+66366416 7.85354422987439e-05
+68716750 0
+69102865 1.10141229629517
+73869754 1.10047841072083
+73924608 1.29393553733826
+73977587 1.32335221767426
+</events>
+      </AutomationList>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1357016555" tv_usec="482530" name="automation event move">
+    <MementoUndoCommand obj_id="73" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>0 0.000169524690136313
+14037 1.0002955198288
+15342661 1.0002955198288
+17265757 0.00110735045745969
+17658799 0
+22866600 0
+23066729 1.29139280319214
+32257488 1.29758763313293
+41907167 1.30339860916138
+42076016 0.874704957008362
+42243476 0.0514685772359371
+42370395 0.00529530923813581
+50528256 0
+50536519 0.0889921486377716
+50577408 0.305055260658264
+50841600 0.967135488986969
+51050496 1.28423058986664
+51256819 1.25541710853577
+60120433 1.53134262561798
+61176144 1.51075530052185
+62187285 1.43515527248383
+62777815 0.339150905609131
+63311135 0.225449770689011
+63833526 0.199585691094398
+65662324 0.127604752779007
+66366416 7.85354422987439e-05
+68716750 0
+69102865 1.10141229629517
+73869754 1.10047841072083
+73924608 1.29393553733826
+73977587 1.32335221767426
+</events>
+      </AutomationList>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj_id="73" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>0 0.000169524690136313
+14037 1.0002955198288
+15342661 1.0002955198288
+17265757 0.00110735045745969
+17658799 0
+22866600 0
+23066729 1.29139280319214
+32257488 1.29758763313293
+41907167 1.30339860916138
+42076016 0.874704957008362
+42243476 0.0514685772359371
+42370395 0.00529530923813581
+50528256 0
+50536519 0.0889921486377716
+50577408 0.305055260658264
+50841600 0.967135488986969
+51050496 1.28423058986664
+51256819 1.31349587440491
+60120433 1.53134262561798
+61176144 1.51075530052185
+62187285 1.43515527248383
+62777815 0.339150905609131
+63311135 0.225449770689011
+63833526 0.199585691094398
+65662324 0.127604752779007
+66366416 7.85354422987439e-05
+68716750 0
+69102865 1.10141229629517
+73869754 1.10047841072083
+73924608 1.29393553733826
+73977587 1.32335221767426
+</events>
+      </AutomationList>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1357016585" tv_usec="834781" name="automation event move">
+    <MementoUndoCommand obj_id="73" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>0 0.000169524690136313
+14037 1.0002955198288
+15342661 1.0002955198288
+17265757 0.00110735045745969
+17658799 0
+22866600 0
+23066729 1.29139280319214
+32257488 1.29758763313293
+41907167 1.30339860916138
+42076016 0.874704957008362
+42243476 0.0514685772359371
+42370395 0.00529530923813581
+50528256 0
+50536519 0.0889921486377716
+50577408 0.305055260658264
+50841600 0.967135488986969
+51050496 1.28423058986664
+51256819 1.31349587440491
+60120433 1.53134262561798
+61176144 1.51075530052185
+62187285 1.43515527248383
+62777815 0.339150905609131
+63311135 0.225449770689011
+63833526 0.199585691094398
+65662324 0.127604752779007
+66366416 7.85354422987439e-05
+68716750 0
+69102865 1.10141229629517
+73869754 1.10047841072083
+73924608 1.29393553733826
+73977587 1.32335221767426
+</events>
+      </AutomationList>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj_id="73" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>0 0.000169524690136313
+14037 1.0002955198288
+15342661 1.0002955198288
+17265757 0.00110735045745969
+17658799 0
+22866600 0
+23066729 1.29139280319214
+32257488 1.29758763313293
+41907167 1.30339860916138
+42076016 0.874704957008362
+42243476 0.0514685772359371
+42370395 0.00529530923813581
+50528256 0
+50536519 0.0889921486377716
+50577408 0.305055260658264
+50841600 0.967135488986969
+51050496 1.28423058986664
+51256819 1.31349587440491
+60120433 1.28423058986664
+61176144 1.51075530052185
+62187285 1.43515527248383
+62777815 0.339150905609131
+63311135 0.225449770689011
+63833526 0.199585691094398
+65662324 0.127604752779007
+66366416 7.85354422987439e-05
+68716750 0
+69102865 1.10141229629517
+73869754 1.10047841072083
+73924608 1.29393553733826
+73977587 1.32335221767426
+</events>
+      </AutomationList>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1357016591" tv_usec="446204" name="automation event move">
+    <MementoUndoCommand obj_id="73" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>0 0.000169524690136313
+14037 1.0002955198288
+15342661 1.0002955198288
+17265757 0.00110735045745969
+17658799 0
+22866600 0
+23066729 1.29139280319214
+32257488 1.29758763313293
+41907167 1.30339860916138
+42076016 0.874704957008362
+42243476 0.0514685772359371
+42370395 0.00529530923813581
+50528256 0
+50536519 0.0889921486377716
+50577408 0.305055260658264
+50841600 0.967135488986969
+51050496 1.28423058986664
+51256819 1.31349587440491
+60120433 1.28423058986664
+61176144 1.51075530052185
+62187285 1.43515527248383
+62777815 0.339150905609131
+63311135 0.225449770689011
+63833526 0.199585691094398
+65662324 0.127604752779007
+66366416 7.85354422987439e-05
+68716750 0
+69102865 1.10141229629517
+73869754 1.10047841072083
+73924608 1.29393553733826
+73977587 1.32335221767426
+</events>
+      </AutomationList>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj_id="73" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>0 0.000169524690136313
+14037 1.0002955198288
+15342661 1.0002955198288
+17265757 0.00110735045745969
+17658799 0
+22866600 0
+23066729 1.29139280319214
+32257488 1.29758763313293
+41907167 1.30339860916138
+42076016 0.874704957008362
+42243476 0.0514685772359371
+42370395 0.00529530923813581
+50528256 0
+50536519 0.0889921486377716
+50577408 0.305055260658264
+50841600 0.967135488986969
+51050496 1.28423058986664
+51256819 1.31349587440491
+60120433 1.28423058986664
+61176144 1.29497897624969
+62187285 1.43515527248383
+62777815 0.339150905609131
+63311135 0.225449770689011
+63833526 0.199585691094398
+65662324 0.127604752779007
+66366416 7.85354422987439e-05
+68716750 0
+69102865 1.10141229629517
+73869754 1.10047841072083
+73924608 1.29393553733826
+73977587 1.32335221767426
+</events>
+      </AutomationList>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1357016597" tv_usec="280795" name="automation event move">
+    <MementoUndoCommand obj_id="73" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>0 0.000169524690136313
+14037 1.0002955198288
+15342661 1.0002955198288
+17265757 0.00110735045745969
+17658799 0
+22866600 0
+23066729 1.29139280319214
+32257488 1.29758763313293
+41907167 1.30339860916138
+42076016 0.874704957008362
+42243476 0.0514685772359371
+42370395 0.00529530923813581
+50528256 0
+50536519 0.0889921486377716
+50577408 0.305055260658264
+50841600 0.967135488986969
+51050496 1.28423058986664
+51256819 1.31349587440491
+60120433 1.28423058986664
+61176144 1.29497897624969
+62187285 1.43515527248383
+62777815 0.339150905609131
+63311135 0.225449770689011
+63833526 0.199585691094398
+65662324 0.127604752779007
+66366416 7.85354422987439e-05
+68716750 0
+69102865 1.10141229629517
+73869754 1.10047841072083
+73924608 1.29393553733826
+73977587 1.32335221767426
+</events>
+      </AutomationList>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj_id="73" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="73" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>0 0.000169524690136313
+14037 1.0002955198288
+15342661 1.0002955198288
+17265757 0.00110735045745969
+17658799 0
+22866600 0
+23066729 1.29139280319214
+32257488 1.29758763313293
+41907167 1.30339860916138
+42076016 0.874704957008362
+42243476 0.0514685772359371
+42370395 0.00529530923813581
+50528256 0
+50536519 0.0889921486377716
+50577408 0.305055260658264
+50841600 0.967135488986969
+51050496 1.28423058986664
+51256819 1.31349587440491
+60120433 1.28423058986664
+61176144 1.29497897624969
+62187285 1.28423058986664
+62777815 0.339150905609131
+63311135 0.225449770689011
+63833526 0.199585691094398
+65662324 0.127604752779007
+66366416 7.85354422987439e-05
+68716750 0
+69102865 1.10141229629517
+73869754 1.10047841072083
+73924608 1.29393553733826
+73977587 1.32335221767426
+</events>
+      </AutomationList>
+    </MementoRedoCommand>
   </UndoTransaction>
 </UndoHistory>
