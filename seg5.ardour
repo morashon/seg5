@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="3001" name="seg5" sample-rate="44100" id-counter="15562" event-counter="0">
+<Session version="3001" name="seg5" sample-rate="44100" id-counter="17544" event-counter="0">
   <Config>
     <Option name="xfade-choice" value="ConstantPowerMinus3dB"/>
     <Option name="destructive-xfade-msecs" value="2"/>
@@ -1313,24 +1313,24 @@
           <Connection other="ruf_ballad_d508b4/audio_out 1"/>
           <Connection other="ruf_god_9f4665/audio_out 1"/>
           <Connection other="outro_speech/audio_out 1"/>
-          <Connection other="ruf_outro/audio_out 1"/>
           <Connection other="Stranger/audio_out 1"/>
+          <Connection other="ruf_outro/audio_out 1"/>
           <Connection other="Annai/audio_out 1"/>
           <Connection other="starlite_instr/audio_out 1"/>
-          <Connection other="ballroom/audio_out 1"/>
           <Connection other="Thisone/audio_out 1"/>
+          <Connection other="ballroom/audio_out 1"/>
         </Port>
         <Port type="audio" name="master/audio_in 2">
           <Connection other="ruf_over_45be73/audio_out 2"/>
           <Connection other="ruf_ballad_d508b4/audio_out 2"/>
           <Connection other="ruf_god_9f4665/audio_out 2"/>
           <Connection other="outro_speech/audio_out 2"/>
-          <Connection other="ruf_outro/audio_out 2"/>
           <Connection other="Stranger/audio_out 2"/>
+          <Connection other="ruf_outro/audio_out 2"/>
           <Connection other="Annai/audio_out 2"/>
           <Connection other="starlite_instr/audio_out 2"/>
-          <Connection other="ballroom/audio_out 2"/>
           <Connection other="Thisone/audio_out 2"/>
+          <Connection other="ballroom/audio_out 2"/>
         </Port>
       </IO>
       <IO name="master" id="18" direction="Output" default-type="audio" user-latency="0">
@@ -1396,8 +1396,8 @@
         <Automation>
           <AutomationList automation-id="gain" id="73" default="1" min-yval="0" max-yval="2" interpolation-style="Linear" state="Play" style="Absolute">
             <events>0 0.000169524690136313
-14037 1.0002955198288
-15342661 1.0002955198288
+14037 1.21121466159821
+15342661 1.21121466159821
 17265757 0.00110735045745969
 17658799 0
 22866600 0
@@ -1533,6 +1533,7 @@
 22915682 0
 23392946 0
 23757914 0.0210131332082552
+29818365 0.0526315793395042
 </events>
           </AutomationList>
         </Automation>
@@ -1569,6 +1570,7 @@
 19301151 -49.2307683825493
 23561393 -50.6133641218069
 23912323 -45.2287487371915
+29818366 -42.7777791685528
 </events>
           </AutomationList>
           <AutomationList automation-id="parameter-6" id="345" default="-17.5" min-yval="-70" max-yval="0" interpolation-style="Linear" state="Play" style="Absolute">
@@ -1579,6 +1581,8 @@
 22957793 -65.2413302669007
 23392946 -65.3694849603583
 23779018 -52.9501292109489
+29607807 -54.4444444444444
+29888551 -48.6111089090506
 </events>
           </AutomationList>
         </Automation>
@@ -3543,7 +3547,7 @@
         <Object id="automation 4530" height="72" visible="0"/>
         <Object id="route 71" color="45729:21857:21313"/>
         <Object id="rtav 71" height="72" visible="1"/>
-        <Object id="automation 4564" height="72" visible="1"/>
+        <Object id="automation 4564" height="72" visible="0"/>
         <Object id="automation 4551" height="72" visible="0"/>
         <Object id="automation 4555" height="72" visible="0"/>
         <Object id="route 2013" color="28545:41367:34814"/>
@@ -3554,11 +3558,11 @@
         <Object id="route 113" color="3434:8043:22364"/>
         <Object id="rtav 113" height="72" visible="1"/>
         <Object id="automation 4628" height="72" visible="0"/>
-        <Object id="automation 4641" height="72" visible="0"/>
-        <Object id="automation 4647" height="72" visible="0"/>
-        <Object id="automation 4657" height="72" visible="0"/>
-        <Object id="automation 4671" height="72" visible="0"/>
-        <Object id="automation 4673" height="72" visible="0"/>
+        <Object id="automation 4641" height="72" visible="1"/>
+        <Object id="automation 4647" height="72" visible="1"/>
+        <Object id="automation 4657" height="152" visible="1"/>
+        <Object id="automation 4671" height="72" visible="1"/>
+        <Object id="automation 4673" height="72" visible="1"/>
         <Object id="automation 4615" height="72" visible="0"/>
         <Object id="automation 4619" height="72" visible="0"/>
         <Object id="route 1809" color="41750:26808:19087"/>
@@ -3644,6 +3648,7 @@
           <Object id="processor 6451"/>
           <Object id="processor 7522"/>
         </Object>
+        <Object id="automation 4665" height="72" visible="1"/>
       </GUIObjectState>
     </UI>
   </Extra>
