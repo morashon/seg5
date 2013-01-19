@@ -1,4 +1,4 @@
-{hold:30}
+{hold=30}
 Scene: 1700's ballroom. Morashon (mostly human), and avatars who look like Thisone and Annai, are in period dress. As they sing, they perform a stately dance. The Ogre accompanies them on harpsichord.
 
 Song: Ballad of Morashon
@@ -71,7 +71,7 @@ So get it straight
 Morashon
 It's gone
 
-{hold:30}
+{hold=30}
 (Instrumental)
 
 {time=190}
@@ -106,13 +106,13 @@ Been singing all the while
 
 {nudge=2}
 {hold=99}
-_NOACTOR:
 Someone has to learn
 Someone's got to pay the price
 'Cause it's not for free
 And it ain't me
 
-_A song that's in my heart
+_NOACTOR:
+A song that's in my heart
 It's tearing me apart
 If they don't care for me or my song
 Well let it be
@@ -148,19 +148,23 @@ This is me                                
 _Thisone:
 Morashon and me...
 
-{hold=20}
-The camera pulls back to reveal we are watching a concert in an old-fashioned auditorium. They bow (Annai's dress dictates a courtsey) as the music fades; and then, all three slump to the ground in ragdoll fashion, like abandoned marionettes. After a pause, Morashon rises and addresses the crowd. As he speaks, his voice morphs from Morashon's into Thisone's.
+{hold=32}
+The camera pulls back to reveal we are watching a concert in an old-fashioned auditorium. 
 
-{time=380}
+{time=366}
+
+{nudge=13}
+{hold=32}
+As the song ends, they bow (Annai's dress dictates a courtsey) as the music fades; and then, all three slump to the ground in ragdoll fashion, like abandoned marionettes. After a pause, Morashon rises and addresses the crowd. As he speaks, his voice morphs from Morashon's into Thisone's.
 
 {time=389}
-_Thisone (as Morashon): Thank you for coming.  This will be my farewell performance. 
+_Thisone (as Morashon): Thank you for coming.  This will be my farewell performance. But first, I have something to say.
 
 (boos and whistles from crowd, murmuring -- who is this? Where's Morashon?)
 
-_Thisone (as Morashon): I have something to say.  When someone like me comes along, and tells you things that sound unbelievable, don't just believe him.  Ask the tough questions.   Look behind the curtain. Most likely, you'll find an old man with a mouse and a keyboard. 
+_Thisone (as Morashon):  When someone like me comes along, and tells you things that sound unbelievable, don't just believe them.  Ask the tough questions.   Look behind the curtain. Most likely, you'll find an old man with a mouse and a keyboard. 
 
-I am not what I appear to be.  I am not artificial intelligence; I am not an AI.  I'm not even a single person.  This persona, Morashon, was developed for reasons that frankly I can't even figure out myself.  Others inhabited it before me; others may try to take it on again.  But I'm here to tell you that no AI, or human being, or gods or aliens for that matter, can tell you how to live your life.  That's up to you. 
+_I am not what I appear to be.  I am not artificial intelligence; I am not an AI.  I'm not even a single person.  This persona, Morashon, was developed for reasons that frankly I can't even figure out myself.  Others inhabited it before me; others may try to take it on again.  But I'm here to tell you that no AI, or human being, or gods or aliens for that matter, can tell you how to live your life.  That's up to you. 
 
 (boos, catcalls).
 
@@ -170,183 +174,174 @@ _Thisone (as Morashon): Look, I know you come to these events to be inspired, to
 
 _Thisone (as Morashon): Ok, ok, I get the message.  I'm sorry if I'm sounding preachy; this is brand new for me.  I just wanted to get this off my chest.  But seriously -- don't fall for the matinee idol.  Don't let someone's 15 nanoseconds of fame lead you to believe they have a line on the truth.  
 
-_Truth can only be found the hard way -- by looking, listening, and thinking for yourself.  I found out the hard way that what I believed to be true, was anything but.  I'm still trying to figure it all out.  I may never know for sure, but at least I know that I don't know.  
+_Truth can only be found the hard way -- by looking, listening, and thinking for yourself.  I found out the hard way that what I believed to be true, was anything but.  I'm still trying to figure it all out.  I may never know for sure, but at least now I know that I don't know.  
 
+{time=510.6}
 _Don't let the comfort of feeling you've solved the puzzle seduce you into thinking you have all the answers.  And especially -- never let them tell you who you are.  That's your job.
 
+{nudge=-11}
 Song: You
-
-sung by: Thisone (as Morashon)
-
 Morashon is green, humanoid, and two-headed, alternating lead vocals and singing harmony (in Thisone's voice). He does a soft-shoe, with two tophats and a cane.
 
+{time=530}
+_Thisone:
 Oh, oh, oh oh oh!
-
 The higher you fly
-
 Oh, oh!
 
+{time=541}
+_NOACTOR:
 The higher you fly
-
 The farther you have to fall
-
 Have you heard the further you go
-
 The sooner you hit the wall
 
-Did they tell you this
-
+{time=556}
+_Did they tell you this
 Did they crush your bliss
-
 Try to put you down
-
 Call you a clown
-
 Oh no!
 
-The faster you are
-
+{time=575}
+_The faster you are
 The further you have to go
-
 They all say the brighter you burn
-
 The sooner you'll lose that glow
 
-Don't you know they say it's true
-
+{time=590}
+_Don't you know they say it's true
 You can't be you
-
 Be like one of us
-
 Don't make a fuss
+'Cause you know the 
 
-'Cause you know the bigger you are
-
+{time=609.4}
+_Bigger you are
 The harder you're going to fall
-
 Ain't it true the quicker you move
-
 The likelier you might stall
 
-Don't believe their lies
-
+{time=625}
+_Don't believe their lies
 Look in your eyes
-
 Ask yourself what's true
-
 Do what you do
 
-Only you can be you
-
+{time=640}
+_Only you can be you
 You can be you
-
 If not you, who?
-
 You must be you
 
-Only you can be you
+{time=657.4}
+_Only you can be you
 
+{nudge=-4}
 The smaller crowd applauds enthusiastically.
 
+{time=674.5}
 _Thisone (as Morashon): Thank you!  Thank you.  It's been an honor to entertain you all.  That's what I am; just another entertainer -- nothing more. Trust, but verify.  Believe in yourselves; all claims to Godhead are false.  The path to understanding is shared by many; and yet, we each walk it alone.
 
 (crowd settles down)
 
-_Thisone (as Morashon): One last thing.  Even without someone telling you what to do, who you are -- even so, you can still be a good person.  You don't need the carrot and the stick -- heaven and hell -- or the promise of Earthly riches, or public humiliation to keep you in line.  You can figure this out for yourself.  
+{time=696}
+_NOACTOR:
+Thisone (as Morashon): One last thing.  Even without someone telling you what to do, who you are -- even so, you can still be a good person.  You don't need the carrot and the stick -- heaven and hell -- or the promise of Earthly riches, or public humiliation to keep you in line.  You can figure this out for yourself.  
 
-_It does require one small leap of faith though -- you still have to believe there's good in the world.  If you start off on the right foot, things might just go well for you.  But, if you doubt everything and everyone, and treat every new situation with trepidation and doubt -- well, then, you're missing out on what life has to offer.  Sorry I'm not better at giving speeches.
+{time=714}
+_It does require one small leap of faith though -- you have to believe there's still good in the world.  If you start off on the right foot, things might just go well for you.  But, if you doubt everything and everyone, and treat every new situation with trepidation and doubt -- well, then, you're missing out on what life has to offer.  Sorry I'm not better at giving speeches.
 
-Starts singing "Mouth Of Truth".  Partway through the song, Annai materializes near the stage, and begins to sing along.  By the end, she is on stage, singing harmony.
+{nudge=-10}
+Song: "Mouth Of Truth".  Partway through the song, Annai materializes near the stage, and begins to sing along.  By the end, she is on stage, singing harmony.
 
-Song: Mouth Of Truth
-
+{time=748.6}
+_Thisone (as Morashon):
 Sometimes
-
 You feel
+You need to make some changes 
+In your lifestyle
 
-You've got to make some changes in your lifestyle
-
+{time=760}
+_NOACTOR:
 Sometimes
-
 You know
+Exactly what it is
+And what it does
 
-Exactly what it is and what it does
-
-And sometimes
-
+{time=772}
+_And sometimes
 You don't have a clue
-
 About any thing at all
 
-So you fake it
-
+{time=783}
+_So you fake it
 And you take it
-
 And it breaks you
-
 So you hate it
 
-Put your hand in the mouth of truth
-
+{time=794}
+_Put your hand in the mouth of truth
 Tell yourself it's not true
-
 Put your hand in the mouth of truth
 
+{time=812}
+_Annai joins:
 Sometimes
-
 You feel
+Emotionally shallow
+Almost heartless
 
-Emotionally shallow, almost heartless
-
+{time=822}
+_NOACTOR:
 Sometimes
-
 You think
+You might go out and kill
+Just for a thrill
 
-You might go out and kill just for a thrill
-
-And it scares you
-
+{time=834}
+_And it scares you
 Deep down inside
-
 Where you go to hide
 
-So you chase it
-
+{time=845}
+_So you chase it
 And erase it
-
 But it comes back
-
 So you face it
 
-But you hate it
+{time=856}
+_But you hate it
+Yes you hate it
 
-Yeah you hate it
-
-Put your hand in the mouth of truth
-
+{time=861.4}
+_Put your hand in the mouth of truth
 Tell yourself it's not true
 
-Put your hand in the mouth of truth
-
+{time=873}
+_Put your hand in the mouth of truth
 Until you do
-
 It won't come true
 
+{time=884}
+_Put your hand
+Put your hand
+Put your hand
 Put your hand
 
+{time=906}
+_Sometimes
+Sometimes
+Sometimes...
+
+{time=927.7}
+_Put your hand
+Put your hand
+Put your hand
 Put your hand
 
-Put your hand
-
-Sometimes, sometimes...
-
-Put your hand
-
-Put your hand...
-
-Put your hand
-
-In the mouth of truth
+{time=949}
+_Put your hand in the mouth of truth
 
 As the song ends, Morashon/Thisone and Annai are holding hands.  They look into each other's eyes.  Annai slowly fades away.
 
