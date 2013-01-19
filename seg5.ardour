@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="3001" name="seg5" sample-rate="44100" id-counter="17544" event-counter="0">
+<Session version="3001" name="seg5" sample-rate="44100" id-counter="18529" event-counter="0">
   <Config>
     <Option name="xfade-choice" value="ConstantPowerMinus3dB"/>
     <Option name="destructive-xfade-msecs" value="2"/>
@@ -1299,7 +1299,7 @@
     </Region>
   </Regions>
   <Locations>
-    <Location id="4237" name="session" start="0" end="81184048" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+    <Location id="4237" name="session" start="0" end="79906663" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
     <Location id="54" name="Loop" start="0" end="13230000" flags="IsAutoLoop,IsHidden" locked="no" position-lock-style="AudioTime"/>
     <Location id="55" name="Punch" start="0" end="13230000" flags="IsAutoPunch,IsHidden" locked="no" position-lock-style="AudioTime"/>
     <Location id="5099" name="mark1" start="0" end="0" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
@@ -1309,28 +1309,28 @@
     <Route id="18" name="master" default-type="audio" flags="MasterOut" active="yes" phase-invert="00" denormal-protection="no" meter-point="MeterPostFader" order-keys="EditorSort=0:MixerSort=0" self-solo="no" soloed-by-upstream="0" soloed-by-downstream="0" solo-isolated="no" solo-safe="no">
       <IO name="master" id="18" direction="Input" default-type="audio" user-latency="0">
         <Port type="audio" name="master/audio_in 1">
+          <Connection other="ruf_outro/audio_out 1"/>
+          <Connection other="outro_speech/audio_out 1"/>
+          <Connection other="ballroom/audio_out 1"/>
+          <Connection other="Annai/audio_out 1"/>
+          <Connection other="starlite_instr/audio_out 1"/>
           <Connection other="ruf_over_45be73/audio_out 1"/>
           <Connection other="ruf_ballad_d508b4/audio_out 1"/>
           <Connection other="ruf_god_9f4665/audio_out 1"/>
-          <Connection other="outro_speech/audio_out 1"/>
           <Connection other="Stranger/audio_out 1"/>
-          <Connection other="ruf_outro/audio_out 1"/>
-          <Connection other="Annai/audio_out 1"/>
-          <Connection other="starlite_instr/audio_out 1"/>
           <Connection other="Thisone/audio_out 1"/>
-          <Connection other="ballroom/audio_out 1"/>
         </Port>
         <Port type="audio" name="master/audio_in 2">
+          <Connection other="ruf_outro/audio_out 2"/>
+          <Connection other="outro_speech/audio_out 2"/>
+          <Connection other="ballroom/audio_out 2"/>
+          <Connection other="Annai/audio_out 2"/>
+          <Connection other="starlite_instr/audio_out 2"/>
           <Connection other="ruf_over_45be73/audio_out 2"/>
           <Connection other="ruf_ballad_d508b4/audio_out 2"/>
           <Connection other="ruf_god_9f4665/audio_out 2"/>
-          <Connection other="outro_speech/audio_out 2"/>
           <Connection other="Stranger/audio_out 2"/>
-          <Connection other="ruf_outro/audio_out 2"/>
-          <Connection other="Annai/audio_out 2"/>
-          <Connection other="starlite_instr/audio_out 2"/>
           <Connection other="Thisone/audio_out 2"/>
-          <Connection other="ballroom/audio_out 2"/>
         </Port>
       </IO>
       <IO name="master" id="18" direction="Output" default-type="audio" user-latency="0">
@@ -3473,9 +3473,9 @@
     <Meter start="1|1|0" note-type="4.000000" divisions-per-bar="4.000000" movable="no"/>
   </TempoMap>
   <ControlProtocols>
-    <Protocol name="Generic MIDI" active="no"/>
     <Protocol name="Open Sound Control (OSC)" active="no"/>
     <Protocol name="Mackie" active="no"/>
+    <Protocol name="Generic MIDI" active="no"/>
   </ControlProtocols>
   <Extra>
     <ClockModes>
@@ -3558,16 +3558,16 @@
         <Object id="route 113" color="3434:8043:22364"/>
         <Object id="rtav 113" height="72" visible="1"/>
         <Object id="automation 4628" height="72" visible="0"/>
-        <Object id="automation 4641" height="72" visible="1"/>
-        <Object id="automation 4647" height="72" visible="1"/>
-        <Object id="automation 4657" height="152" visible="1"/>
-        <Object id="automation 4671" height="72" visible="1"/>
-        <Object id="automation 4673" height="72" visible="1"/>
+        <Object id="automation 4641" height="72" visible="0"/>
+        <Object id="automation 4647" height="72" visible="0"/>
+        <Object id="automation 4657" height="152" visible="0"/>
+        <Object id="automation 4671" height="72" visible="0"/>
+        <Object id="automation 4673" height="72" visible="0"/>
         <Object id="automation 4615" height="72" visible="0"/>
         <Object id="automation 4619" height="72" visible="0"/>
         <Object id="route 1809" color="41750:26808:19087"/>
         <Object id="rtav 1809" height="56" visible="1"/>
-        <Object id="automation 4697" height="72" visible="1"/>
+        <Object id="automation 4697" height="72" visible="0"/>
         <Object id="automation 4684" height="72" visible="0"/>
         <Object id="automation 4688" height="72" visible="0"/>
         <Object id="route 1862" color="1584:38651:41403"/>
@@ -3641,7 +3641,7 @@
         </Object>
         <Object id="route 6432" color="39227:43520:12798"/>
         <Object id="rtav 6432" height="75" visible="1"/>
-        <Object id="automation 6453" height="72" visible="1"/>
+        <Object id="automation 6453" height="72" visible="0"/>
         <Object id="automation 6440" height="72" visible="0"/>
         <Object id="automation 6444" height="72" visible="0"/>
         <Object id="strip 6432" visible="1">
