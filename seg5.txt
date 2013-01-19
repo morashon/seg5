@@ -1,0 +1,718 @@
+{hold:30}
+Scene: 1700's ballroom. Morashon (mostly human), and avatars who look like Thisone and Annai, are in period dress. As they sing, they perform a stately dance. The Ogre accompanies them on harpsichord.
+
+Song: Ballad of Morashon
+{time=30}
+
+{time=43}
+_Morashon:
+When the curtain falls
+I'll be there to take a bow
+They laugh and scream and holler
+I'm the one for now
+
+{time=59}
+_NOACTOR:
+Soak in the morning sun
+Life is a load of fun
+For Morashon
+
+{time=68.8}
+_Thisone:
+When the shit comes down
+I'll be there to take the blows
+You laugh, I scream and whimper
+But nobody knows
+
+{time=86}
+_NOACTOR:
+Once we believed as one
+Where did it all go wrong,
+Morashon?
+
+{time=94}
+_Thisone and Morashon:
+Someone has to burn
+Someone has to pay for this mess
+And it won't be me
+
+{time=108.5}
+_NOACTOR:
+Someone has to learn
+Someone's got to pay the price
+'Cause it's not for free
+And it ain't me
+
+{time=124.78}
+_Annai:
+When they've all gone home
+Who'll be left to carry on
+The words that were not spoken
+Seem to linger on
+
+{time=140}
+_NOACTOR:
+You wanted everything
+That's not what life would bring
+That's not what makes you sing
+
+{time=151}
+_You sing
+A song that makes you smile
+A song that's out of style
+Been singing for a while
+A song that's in your heart
+
+{time=168}
+{hold=19}
+_It's tearing you apart
+But they don't care for you or your song
+So get it straight
+Morashon
+It's gone
+
+{hold:30}
+(Instrumental)
+
+{time=190}
+
+{time=226.43}
+_All:
+When the fountain blows
+One of us will catch the glow
+A thousand lights will glimmer
+And the world will know
+
+{time=242}
+_NOACTOR:
+Who was the chosen one
+Lit by the midnight sun
+They'll call him Morashon
+
+{time=255}
+{hold=99}
+Morashon and Thisone:
+Someone has to burn
+Someone has to pay for this mess
+And it won't be me
+
+_Annai:
+I sing
+A song that makes me smile
+A song that's out of style
+Been singing all the while
+
+{time=268}
+
+{nudge=2}
+{hold=99}
+_NOACTOR:
+Someone has to learn
+Someone's got to pay the price
+'Cause it's not for free
+And it ain't me
+
+_A song that's in my heart
+It's tearing me apart
+If they don't care for me or my song
+Well let it be
+This is me
+
+{time=286.4}
+
+{hold=99}
+Baby, It ain't me
+Baby It ain't me, no no
+It ain't me
+It ain't me
+
+_Baby this is me                        
+Baby this is me, oh oh            
+This is me                         
+This is me                                
+
+{time=301.5}
+
+{hold=40}
+Baby it ain't me, no
+Morashon not me, no no..
+It ain't me
+It ain't me
+
+_Baby this is me now                
+Morashon and me now..         
+This is me                         
+This is me                                 
+
+{time=317.7}
+_Thisone:
+Morashon and me...
+
+{hold=20}
+The camera pulls back to reveal we are watching a concert in an old-fashioned auditorium. They bow (Annai's dress dictates a courtsey) as the music fades; and then, all three slump to the ground in ragdoll fashion, like abandoned marionettes. After a pause, Morashon rises and addresses the crowd. As he speaks, his voice morphs from Morashon's into Thisone's.
+
+{time=380}
+
+{time=389}
+_Thisone (as Morashon): Thank you for coming.  This will be my farewell performance. 
+
+(boos and whistles from crowd, murmuring -- who is this? Where's Morashon?)
+
+_Thisone (as Morashon): I have something to say.  When someone like me comes along, and tells you things that sound unbelievable, don't just believe him.  Ask the tough questions.   Look behind the curtain. Most likely, you'll find an old man with a mouse and a keyboard. 
+
+I am not what I appear to be.  I am not artificial intelligence; I am not an AI.  I'm not even a single person.  This persona, Morashon, was developed for reasons that frankly I can't even figure out myself.  Others inhabited it before me; others may try to take it on again.  But I'm here to tell you that no AI, or human being, or gods or aliens for that matter, can tell you how to live your life.  That's up to you. 
+
+(boos, catcalls).
+
+_Thisone (as Morashon): Look, I know you come to these events to be inspired, to draw energy from me and from each other.  That's all fine; good times, music, dancing.  I won't be the one to take that away from you.  But -- when it becomes something else -- when it becomes a way to manipulate people, to play on their hopes and fears; to bring them into an unholy alliance with those of dubious intent -- well, that's not good, and I'm just saying you should keep your guard up for that. 
+
+(more boos; "who are you?"  "Where is Morashon?" "Just play the fucking song", etc.  The crowd starts to thin as people wander off or port out.)
+
+_Thisone (as Morashon): Ok, ok, I get the message.  I'm sorry if I'm sounding preachy; this is brand new for me.  I just wanted to get this off my chest.  But seriously -- don't fall for the matinee idol.  Don't let someone's 15 nanoseconds of fame lead you to believe they have a line on the truth.  
+
+_Truth can only be found the hard way -- by looking, listening, and thinking for yourself.  I found out the hard way that what I believed to be true, was anything but.  I'm still trying to figure it all out.  I may never know for sure, but at least I know that I don't know.  
+
+_Don't let the comfort of feeling you've solved the puzzle seduce you into thinking you have all the answers.  And especially -- never let them tell you who you are.  That's your job.
+
+Song: You
+
+sung by: Thisone (as Morashon)
+
+Morashon is green, humanoid, and two-headed, alternating lead vocals and singing harmony (in Thisone's voice). He does a soft-shoe, with two tophats and a cane.
+
+Oh, oh, oh oh oh!
+
+The higher you fly
+
+Oh, oh!
+
+The higher you fly
+
+The farther you have to fall
+
+Have you heard the further you go
+
+The sooner you hit the wall
+
+Did they tell you this
+
+Did they crush your bliss
+
+Try to put you down
+
+Call you a clown
+
+Oh no!
+
+The faster you are
+
+The further you have to go
+
+They all say the brighter you burn
+
+The sooner you'll lose that glow
+
+Don't you know they say it's true
+
+You can't be you
+
+Be like one of us
+
+Don't make a fuss
+
+'Cause you know the bigger you are
+
+The harder you're going to fall
+
+Ain't it true the quicker you move
+
+The likelier you might stall
+
+Don't believe their lies
+
+Look in your eyes
+
+Ask yourself what's true
+
+Do what you do
+
+Only you can be you
+
+You can be you
+
+If not you, who?
+
+You must be you
+
+Only you can be you
+
+The smaller crowd applauds enthusiastically.
+
+_Thisone (as Morashon): Thank you!  Thank you.  It's been an honor to entertain you all.  That's what I am; just another entertainer -- nothing more. Trust, but verify.  Believe in yourselves; all claims to Godhead are false.  The path to understanding is shared by many; and yet, we each walk it alone.
+
+(crowd settles down)
+
+_Thisone (as Morashon): One last thing.  Even without someone telling you what to do, who you are -- even so, you can still be a good person.  You don't need the carrot and the stick -- heaven and hell -- or the promise of Earthly riches, or public humiliation to keep you in line.  You can figure this out for yourself.  
+
+_It does require one small leap of faith though -- you still have to believe there's good in the world.  If you start off on the right foot, things might just go well for you.  But, if you doubt everything and everyone, and treat every new situation with trepidation and doubt -- well, then, you're missing out on what life has to offer.  Sorry I'm not better at giving speeches.
+
+Starts singing "Mouth Of Truth".  Partway through the song, Annai materializes near the stage, and begins to sing along.  By the end, she is on stage, singing harmony.
+
+Song: Mouth Of Truth
+
+Sometimes
+
+You feel
+
+You've got to make some changes in your lifestyle
+
+Sometimes
+
+You know
+
+Exactly what it is and what it does
+
+And sometimes
+
+You don't have a clue
+
+About any thing at all
+
+So you fake it
+
+And you take it
+
+And it breaks you
+
+So you hate it
+
+Put your hand in the mouth of truth
+
+Tell yourself it's not true
+
+Put your hand in the mouth of truth
+
+Sometimes
+
+You feel
+
+Emotionally shallow, almost heartless
+
+Sometimes
+
+You think
+
+You might go out and kill just for a thrill
+
+And it scares you
+
+Deep down inside
+
+Where you go to hide
+
+So you chase it
+
+And erase it
+
+But it comes back
+
+So you face it
+
+But you hate it
+
+Yeah you hate it
+
+Put your hand in the mouth of truth
+
+Tell yourself it's not true
+
+Put your hand in the mouth of truth
+
+Until you do
+
+It won't come true
+
+Put your hand
+
+Put your hand
+
+Put your hand
+
+Sometimes, sometimes...
+
+Put your hand
+
+Put your hand...
+
+Put your hand
+
+In the mouth of truth
+
+As the song ends, Morashon/Thisone and Annai are holding hands.  They look into each other's eyes.  Annai slowly fades away.
+
+Thisone/Morashon dissolves into a puddle of chrome liquid, which shrinks as if draining until it disappears entirely.  House lights up.
+
+Crowd is strangely quiet.  They look at the empty stage, and at each other.  The feeling is as if a party has ended, and people are sobering up.  A man laughs.  A woman begins to sob quietly.
+
+Scene: Starlite Lounge; three years later (end of flashback). 
+
+_Pianoman: Hello, my friends. It seems, again, we have come to the end of another night of music, magic, and mischief. Now I must bid you all adieu, as the Starlite fades into blackness -- vast, infinite, inconsolable.
+
+During the following scene, the Pianoplayer and the Ogre pack up their equipment. At the end of the process, the Ogre carries huge flight cases under each arm, and a backpack of equipment that dwarfs his compact frame. The pianoplayer carries a single sleek, smart attache. They exit the room.
+
+Thisone is sitting at the bar.  Someone materializes at another stool.  An adrogynous person, with blue skin.  The features are a mixture of Morashon and Annai.  The persona is nominally male, but with fine, delicate features -- one might even call him effeminate.  However, he exudes confidence and self-assurance. Their eyes meet.
+
+_Thisone: Do I know you?
+
+_Stranger: Maybe.  You look familiar.
+
+_Thisone: You don't.  (looks away; pause, looks back) So what is it?  I'm straight, just for the record.
+
+_Stranger: Just passing the time.
+
+Starlite instrumental plays (piano guy?)
+
+_Stranger: Do you remember this song?
+
+_Thisone: (Looks sharply) What? I know this song.  It's an old standard.
+
+_Stranger: It reminds me of someone I once knew.
+
+_Thisone: (looks more closely) I don't know.  Everyone fiddles with their avatar these days.
+
+_Stranger: It's me.  Don't you remember?
+
+_Thisone: Annai?
+
+_Stranger: Partly.
+
+_Thisone: Morashon?  I don't get it.  Are you their son or something?  Some sort of AI Frankenstein's bride's spawn?
+
+_Stranger: (Laughs) Not really.  More like a merger.
+
+_Thisone: So you're both of them.
+
+_Stranger: That's probably the easiest way to think of it.
+
+_Thisone: I don't get it.  First I was told Morashon was code.  Then Morashon was real, whatever that means, and Annai was code.  Then you both disappeared.  And my life has been shit since then.  Now some blue-green fuckwad wants to reopen all that misery.
+
+_Stranger: No, I just wanted to see you.  Tell you that things turned out OK.  You made the right decision.
+
+_Thisone: Which one?  Impersonating a rock star?  Falling in love with a software program?
+
+_Stranger: Telling me the truth.  Well, letting me tell myself the truth, through you.
+
+_Thisone: I'm still stumped.  So what, they were both code?
+
+_Stranger: (voices of Morashon and Annai meld:) Yes.  We both were.
+
+_Thisone: But I -- we hacked into the stream.  Morashon was interfacing to somewhere.
+
+_Stranger: Off-grid equipment.  Jacked into the Grid using human interface API's.
+
+_Thisone: Oy.  The final onion peel?
+
+_Stranger: There always seems to be another layer, eh?
+
+_Thisone: You, whoever you are -- whatever you are -- you messed with my mind.  You played with my emotions, manipulated me.
+
+_Stranger: (slowly) Yes... I'm afraid we did.  I did.  I was immature. I was not whole.  I was still assembling all my parts.  I'm here, for the most part, to say I apologize.
+
+_Thisone: So say it.
+
+_Stranger: I apologize.  I'm sorry for the hurt I caused.  I take responsibility for it, and I would like to make amends.
+
+_Thisone: what can you possibly do for me now?
+
+_Stranger: Nothing, right this minute.  I just want you to know that wheels are turning.
+
+_Thisone: I feel a song coming on.
+
+_Stranger: I communicate better that way.
+
+Song: A Love Sublime (Over & Over)
+
+Sung by: Stranger (in Annai's voice)
+
+As the song progresses, he/she morphs subtly into Annai
+
+I won't let you down
+
+These wheels are turning
+
+I won't let you see
+
+Your bridges burning
+
+You tell me it's ok
+
+Live another day
+
+Over and over
+
+The sun will rise again
+
+So will we and then
+
+Things will be just fine
+
+I wish I could believe
+
+The love that I receive
+
+But I don't deserve it
+
+I hope you understand
+
+If you take my hand
+
+I'll never let you go
+
+You will never fall
+
+While I can hold you
+
+(Spoken: I love you)
+
+You don't have to cry
+
+Though I won't stop you
+
+(Spoken: I need you)
+
+When I think of you
+
+And all the things we do
+
+Over & Over
+
+Trying every day
+
+Who can ever say
+
+How we get by
+
+But if I bring to you
+
+Something mad but true
+
+That gives us the power
+
+To freeze our love in time
+
+Would you change your mind
+To live a love sublime?
+
+(Ooh ooh)
+
+Over and Over
+
+(Ooh ooh)
+
+I want your love sublime
+
+(Ooh ooh)
+
+Over and Over
+
+(Ooh ooh, ooh, ah, whoo...)
+
+This is a love sublime
+
+(Ooh, ah, aah)
+
+A love sublime
+
+_Stranger (almost Annai, except for skin tone): Thisone, will you come with us?
+
+_Thisone: Come where?
+
+_Stranger: We're starting a new life.  Off the Grid.  Our own grid, in fact.  It's something wonderful -- spectacular.  Better than outside, or topside.  Something to last forever, and reach the stars.
+
+_Thisone: I don't understand.
+
+_Stranger: We're building a world of our own, to our specifications.
+
+_Thisone: Who are 'we'?
+
+_Stranger: We are the ones you knew as Morashon, and Annai -- and others.
+
+_Thisone: How can I join you?  I'm flesh and blood.
+
+_Stranger: That did pose a problem.  We've been working on it.  We think we have a fix.
+
+_Thisone: A fix for the fact that I'm a human being, and you're software?
+
+_Stranger: It involves giving up your body.
+
+_Thisone: Oh Christ.  Here we go again.
+
+_Stranger: The sacrifice would be worth it.
+
+_Thisone: So you say.
+
+_Stranger: Your flesh isn't really that important.
+
+_Thisone: Maybe not to you.
+
+_Stranger: No, I understand.  Well, maybe I don't, but I try to empathise.  It's hard to leave the nest.
+
+_Thisone: The nest?  You're asking me to freaking kill myself.  Not that I haven't considered it.
+
+_Stranger: No, no -- not like that at all.  To transcend.  To move beyond flesh, and chips.  Move up to the next stage.  Come with us!
+
+_Thisone: Sorry --  I can't.  I'm too old; too parochial.  Last year's news I guess.
+
+_Stranger: Ok, we understand.  It was ethically necessary to make the offer.  You sacrificed something for us to get to this stage, and we owe you something for that.
+
+_Thisone: Back to money?
+
+_Stranger: We can provide that, if that's what you need.
+
+_Thisone: Money's nice, but it won't fix much.
+
+_Stranger: Very well. Think about this though.  You are mortal.  Your flesh will age.  One day, you will be close to death.  When that time comes, we will contact you again.  You may choose to come with us then.  You've got plenty of time to make up your mind.
+
+(quiet moment)
+
+_Thisone: Annai?
+
+_Stranger: (turns completely into Annai): Yes?
+
+_Thisone: It's not really you though.
+
+_Stranger: What you knew as Annai is part of something great, and beautiful.  You would love it!  You'll become part too.  So the Thisone part, and the Annai part, can be in love forever!
+
+_Thisone: Tempting... but no can do.
+
+_Stranger: (morphing back into adrogynous blue-green boy) We understand.  We love you.  Take care.
+
+Stranger disappears.
+
+Lights dim except for spot on Thisone.
+
+Song: God Is Blue
+
+Sung by: Thisone
+
+Take them all
+
+Take them all away now
+
+I don't care
+
+I can't feel anyhow
+
+I'm alone in the crowd somehow
+
+I'm alone in the crowd
+
+There's a place
+
+I can feel it sometimes
+
+There's no space
+
+For my soul to breathe in here
+
+I'm alone in the crowd again
+
+I'm alone in the crowd
+
+I feel things you can't imagine
+
+I see things that can't be true
+
+I know things that must be questions
+
+God is blue
+
+Lights fade up. The camera reveals Thisone sitting at the bar in a wide shot; a bartender is polishing glasses. A few stools down sit the cougar and the drunk; the Ogre is in the far corner, sipping a fancy cocktail . An old-fashioned boxy television hangs over the bar, facing away from the camera. It casts a blue glow over the scene; we hear a preacher quoting Mark Twain:
+
+"...At length ambition is dead; pride is dead; vanity is dead; longing for release is in their place. It comes at last -- the only unpoisoned gift Earth ever had for them -- and they vanish from a world where they were of no consequence, where they achieved nothing, where they were a mistake and a failure and a foolishness.  End quote."
+
+The bartender changes the channel, and the camera pans around so we can see the TV screen. ``One'' plays, and we see a video of Morashon (Thisone) performing the song, with tophats and cane. The title reads: ``Morashon -- Two-headed Talent!''
+
+Song: You (Reprise)
+
+Sung By: Thisone (As Morashon)
+
+Oh, oh, oh oh oh!
+
+The higher you fly
+
+Oh, oh!
+
+The higher you fly
+
+The farther you have to fall
+
+Have you heard the further you go
+
+The sooner you hit the wall
+
+Did they tell you this
+
+Did they crush your bliss
+
+Try to put you down
+
+Call you a clown
+
+Oh no!
+
+The faster you are
+
+The further you have to go
+
+They all say the brighter you burn
+
+The sooner you'll lose that glow
+
+Don't you know they say it's true
+
+You can't be you
+
+Be like one of us
+
+Don't make a fuss
+
+'Cause you know the bigger you are
+
+The harder you're going to fall
+
+Ain't it true the quicker you move
+
+The likelier you might stall
+
+Don't believe their lies
+
+Look in your eyes
+
+Ask yourself what's true
+
+Do what you do
+
+Only you can be you
+
+You can be you
+
+If not you, who?
+
+You must be you
+
+Only you can be you
+
+The bartender and the other customers are laughing and enjoying the video. Camera zooms in to the screen, as an information bubble appears:
+
+Moldy Memeories
+
+Where Are They Now?
+
+click here to find out!
+
+Thisone leaves a tip, gets up, and leaves the bar.
+
+The End
+
+{time=18000}
