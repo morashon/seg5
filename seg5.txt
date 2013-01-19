@@ -277,7 +277,7 @@ About any thing at all
 {time=783}
 _So you fake it
 And you take it
-And it breaks you
+But it breaks you
 So you hate it
 
 {time=794}
@@ -340,190 +340,214 @@ Put your hand
 Put your hand
 Put your hand
 
+{nudge=1.4}
+{hold=30}
+As the song ends, Morashon/Thisone and Annai are holding hands.  They look into each other's eyes.  Annai slowly fades away.
+Thisone/Morashon dissolves into a puddle of chrome liquid, which shrinks as if draining until it disappears entirely.  House lights up.
+Crowd is strangely quiet.  They look at the empty stage, and at each other.  The feeling is as if a party has ended, and people are sobering up.  A man laughs.  A woman begins to sob quietly.
+
 {time=949}
 _Put your hand in the mouth of truth
 
-As the song ends, Morashon/Thisone and Annai are holding hands.  They look into each other's eyes.  Annai slowly fades away.
-
-Thisone/Morashon dissolves into a puddle of chrome liquid, which shrinks as if draining until it disappears entirely.  House lights up.
-
-Crowd is strangely quiet.  They look at the empty stage, and at each other.  The feeling is as if a party has ended, and people are sobering up.  A man laughs.  A woman begins to sob quietly.
-
+{nudge=3}
 Scene: Starlite Lounge; three years later (end of flashback). 
 
+{time=963.5}
+{hold=23}
 _Pianoman: Hello, my friends. It seems, again, we have come to the end of another night of music, magic, and mischief. Now I must bid you all adieu, as the Starlite fades into blackness -- vast, infinite, inconsolable.
 
+{time=1000}
+{hold=23}
 During the following scene, the Pianoplayer and the Ogre pack up their equipment. At the end of the process, the Ogre carries huge flight cases under each arm, and a backpack of equipment that dwarfs his compact frame. The pianoplayer carries a single sleek, smart attache. They exit the room.
 
+{time=1016}
+{hold=11}
 Thisone is sitting at the bar.  Someone materializes at another stool.  An adrogynous person, with blue skin.  The features are a mixture of Morashon and Annai.  The persona is nominally male, but with fine, delicate features -- one might even call him effeminate.  However, he exudes confidence and self-assurance. Their eyes meet.
 
+{time=1020.6}
 _Thisone: Do I know you?
 
+{nudge=1}
 _Stranger: Maybe.  You look familiar.
 
+{nudge=1.6}
 _Thisone: You don't.  (looks away; pause, looks back) So what is it?  I'm straight, just for the record.
 
+{time=1030}
 _Stranger: Just passing the time.
 
 Starlite instrumental plays (piano guy?)
 
+{time=1034.5}
 _Stranger: Do you remember this song?
 
 _Thisone: (Looks sharply) What? I know this song.  It's an old standard.
 
+{nudge=1}
 _Stranger: It reminds me of someone I once knew.
 
+{nudge=1}
 _Thisone: (looks more closely) I don't know.  Everyone fiddles with their avatar these days.
 
+{time=1048}
 _Stranger: It's me.  Don't you remember?
 
+{nudge=-1}
 _Thisone: Annai?
 
 _Stranger: Partly.
 
-_Thisone: Morashon?  I don't get it.  Are you their son or something?  Some sort of AI Frankenstein's bride's spawn?
+{time=1053.5}
+_Thisone: Morashon?  I don't get it.  Are you their son, or something?  Some sort of AI Frankenstein's bride's spawn?
 
 _Stranger: (Laughs) Not really.  More like a merger.
 
+{time=1064.5}
 _Thisone: So you're both of them.
 
 _Stranger: That's probably the easiest way to think of it.
 
-_Thisone: I don't get it.  First I was told Morashon was code.  Then Morashon was real, whatever that means, and Annai was code.  Then you both disappeared.  And my life has been shit since then.  Now some blue-green fuckwad wants to reopen all that misery.
+{time=1070}
+_Thisone: I don't get it.  First I was told Morashon was code.  Then Morashon was "real", whatever that means, and Annai was code.  Then you both disappeared.  And my life has been shit since then.  Now some blue-green fuckwad wants to reopen all that misery.
 
+{time=1084}
 _Stranger: No, I just wanted to see you.  Tell you that things turned out OK.  You made the right decision.
 
 _Thisone: Which one?  Impersonating a rock star?  Falling in love with a software program?
 
 _Stranger: Telling me the truth.  Well, letting me tell myself the truth, through you.
 
+{time=1102}
 _Thisone: I'm still stumped.  So what, they were both code?
 
-_Stranger: (voices of Morashon and Annai meld:) Yes.  We both were.
+(voices of Morashon and Annai meld)
+
+_Stranger: Yes.  We both were.
 
 _Thisone: But I -- we hacked into the stream.  Morashon was interfacing to somewhere.
 
 _Stranger: Off-grid equipment.  Jacked into the Grid using human interface API's.
 
+{time=1118}
 _Thisone: Oy.  The final onion peel?
 
 _Stranger: There always seems to be another layer, eh?
 
 _Thisone: You, whoever you are -- whatever you are -- you messed with my mind.  You played with my emotions, manipulated me.
 
+{time=1131}
 _Stranger: (slowly) Yes... I'm afraid we did.  I did.  I was immature. I was not whole.  I was still assembling all my parts.  I'm here, for the most part, to say I apologize.
 
+{time=1145}
 _Thisone: So say it.
 
+{nudge=1}
 _Stranger: I apologize.  I'm sorry for the hurt I caused.  I take responsibility for it, and I would like to make amends.
 
+{nudge=.6}
 _Thisone: what can you possibly do for me now?
 
-_Stranger: Nothing, right this minute.  I just want you to know that wheels are turning.
+_Stranger: Nothing, at this moment.  I just want you to know that wheels are turning.
 
+{time=1162.6}
 _Thisone: I feel a song coming on.
 
+{time=1165}
 _Stranger: I communicate better that way.
 
-Song: A Love Sublime (Over & Over)
-
-Sung by: Stranger (in Annai's voice)
-
+Song: A Love Sublime
 As the song progresses, he/she morphs subtly into Annai
 
+{time=1169}
+_Annai:
 I won't let you down
-
 These wheels are turning
-
 I won't let you see
-
 Your bridges burning
 
+{time=1190}
+_NOACTOR:
 You tell me it's ok
-
 Live another day
-
 Over and over
 
-The sun will rise again
-
+{time=1200.5}
+_The sun will rise again
 So will we and then
-
 Things will be just fine
 
-I wish I could believe
-
+{time=1211}
+_I wish I could believe
 The love that I receive
-
 But I don't deserve it
 
-I hope you understand
-
+{time=1221.5}
+_I hope you understand
 If you take my hand
-
 I'll never let you go
 
-You will never fall
-
+{time=1232}
+_You will never fall
 While I can hold you
+(spoken: I love you)
 
-(Spoken: I love you)
-
-You don't have to cry
-
+{time=1242}
+_You don't have to cry
 Though I won't stop you
+(spoken: I need you)
 
-(Spoken: I need you)
-
-When I think of you
-
+{time=1253}
+_When I think of you
 And all the things we do
-
 Over & Over
 
-Trying every day
-
+{time=1263.4}
+_Trying every day
 Who can ever say
-
 How we get by
 
-But if I bring to you
-
+{time=1274}
+_But if I bring to you
 Something mad but true
-
 That gives us the power
 
-To freeze our love in time
-
+{time=1284.25}
+_To freeze our love in time
 Would you change your mind
 To live a love sublime?
 
-(Ooh ooh)
-
+{time=1300}
+_Ooh ooh
 Over and Over
 
-(Ooh ooh)
-
+{time=1310}
+_Ooh ooh
 I want your love sublime
 
-(Ooh ooh)
-
+{time=1320}
+_Ooh ooh
 Over and Over
 
-(Ooh ooh, ooh, ah, whoo...)
-
+{time=1331}
+_Ooh ooh
+Ooh Ah, ooh
 This is a love sublime
 
-(Ooh, ah, aah)
-
+{time=1351.8}
+_Ooh oooh
+Aah, aah
 A love sublime
 
-_Stranger (almost Annai, except for skin tone): Thisone, will you come with us?
+The stranger is Annai now, except for skin tone
+
+{time=1379}
+_Annai: Thisone, will you come with us?
 
 _Thisone: Come where?
 
 _Stranger: We're starting a new life.  Off the Grid.  Our own grid, in fact.  It's something wonderful -- spectacular.  Better than outside, or topside.  Something to last forever, and reach the stars.
 
+{time=1397}
 _Thisone: I don't understand.
 
 _Stranger: We're building a world of our own, to our specifications.
@@ -532,18 +556,21 @@ _Thisone: Who are 'we'?
 
 _Stranger: We are the ones you knew as Morashon, and Annai -- and others.
 
+{time=1410}
 _Thisone: How can I join you?  I'm flesh and blood.
 
 _Stranger: That did pose a problem.  We've been working on it.  We think we have a fix.
 
 _Thisone: A fix for the fact that I'm a human being, and you're software?
 
+{time=1424}
 _Stranger: It involves giving up your body.
 
 _Thisone: Oh Christ.  Here we go again.
 
 _Stranger: The sacrifice would be worth it.
 
+{time=1432}
 _Thisone: So you say.
 
 _Stranger: Your flesh isn't really that important.
@@ -552,35 +579,41 @@ _Thisone: Maybe not to you.
 
 _Stranger: No, I understand.  Well, maybe I don't, but I try to empathise.  It's hard to leave the nest.
 
+{time=1446}
 _Thisone: The nest?  You're asking me to freaking kill myself.  Not that I haven't considered it.
 
 _Stranger: No, no -- not like that at all.  To transcend.  To move beyond flesh, and chips.  Move up to the next stage.  Come with us!
 
 _Thisone: Sorry --  I can't.  I'm too old; too parochial.  Last year's news I guess.
 
+{time=1469}
 _Stranger: Ok, we understand.  It was ethically necessary to make the offer.  You sacrificed something for us to get to this stage, and we owe you something for that.
 
 _Thisone: Back to money?
 
 _Stranger: We can provide that, if that's what you need.
 
+{time=1485}
 _Thisone: Money's nice, but it won't fix much.
 
 _Stranger: Very well. Think about this though.  You are mortal.  Your flesh will age.  One day, you will be close to death.  When that time comes, we will contact you again.  You may choose to come with us then.  You've got plenty of time to make up your mind.
 
-(quiet moment)
-
+{time=1504}
 _Thisone: Annai?
 
 _Stranger: (turns completely into Annai): Yes?
 
 _Thisone: It's not really you though.
 
+{time=1509}
 _Stranger: What you knew as Annai is part of something great, and beautiful.  You would love it!  You'll become part too.  So the Thisone part, and the Annai part, can be in love forever!
 
 _Thisone: Tempting... but no can do.
 
-_Stranger: (morphing back into adrogynous blue-green boy) We understand.  We love you.  Take care.
+(morphing back into adrogynous blue-green boy)
+
+{time=1525}
+_Stranger:  We understand.  We love you.  Take care.
 
 Stranger disappears.
 
