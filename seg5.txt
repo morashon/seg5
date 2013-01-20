@@ -1,7 +1,7 @@
 {hold=30}
 Scene: 1700's ballroom. Morashon (mostly human), and avatars who look like Thisone and Annai, are in period dress. As they sing, they perform a stately dance. The Ogre accompanies them on harpsichord.
-
 Song: Ballad of Morashon
+
 {time=30}
 
 {time=43}
