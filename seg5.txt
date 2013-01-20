@@ -657,72 +657,26 @@ Lights fade up. The camera reveals Thisone sitting at the bar in a wide shot; a 
 _Preacher:
 "At length ambition is dead; pride is dead; vanity is dead; longing for release is in their place. It comes at last -- the only unpoisoned gift Earth ever had for them -- and they vanish from a world where they were of no consequence, where they achieved nothing, where they were a mistake and a failure and a foolishness."  End quote.
 
+{nudge=-24}
 {hold=22}
 The bartender changes the channel, and the camera pans around so we can see the TV screen. "You" plays, and we see a video of Morashon (Thisone) performing the song, with tophats and cane. The title reads: "Morashon -- Two-headed Talent!"
 
-{time=1634}
-
-{time=1647}
-_Thisone:
-Oh, oh, oh oh oh!
-The higher you fly
-Oh, oh!
-
+{nudge=-12}
 {hold=22}
-{nudge=-10}
 The bartender and the other customers are laughing and enjoying the video. Camera zooms in to the screen, as an information bubble appears:
 Moldy Memeories
 Where Are They Now?
 click here to find out!
 
+CREDITS ROLL
+{hold=60}
+
 {time=1658}
 _NOACTOR:
-The higher you fly
-The farther you have to fall
-Have you heard the further you go
-The sooner you hit the wall
+Words, music, dialogue: MORASHON
+except "Mouth Of Truth", words & music by CB MILLER
 
-{time=1673}
-_Did they tell you this
-Did they crush your bliss
-Try to put you down
-Call you a clown
-Oh no!
-
-{time=1691}
-_The faster you are
-The further you have to go
-They all say the brighter you burn
-The sooner you'll lose that glow
-
-{time=1707}
-_Don't you know they say it's true
-You can't be you
-Be like one of us
-Don't make a fuss
-'Cause you know the 
-
-{time=1726.4}
-_Bigger you are
-The harder you're going to fall
-Ain't it true the quicker you move
-The likelier you might stall
-
-{time=1741}
-_Don't believe their lies
-Look in your eyes
-Ask yourself what's true
-Do what you do
-
-{time=1757}
-_Only you can be you
-You can be you
-If not you, who?
-You must be you
-
-{time=1774.4}
-_Only you can be you
-
+{time=1777}
 Thisone leaves a tip, gets up, and leaves the bar.
 
 {time=1788}
