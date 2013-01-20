@@ -34,5 +34,7 @@
     </Selection>
     <RegionList sort-type="ByEndInFile" sort-ascending="yes" show-all="no" show-automatic-regions="yes"/>
   </Editor>
-  <Mixer narrow-strips="no" show-mixer="no"/>
+  <Mixer narrow-strips="no" show-mixer="yes">
+    <geometry x-size="1137" y-size="932" x-pos="1" y-pos="1" x-off="0" y-off="0" mixer-rhs-pane1-pos="307" mixer-list-hpane-pos="173"/>
+  </Mixer>
 </instant>
