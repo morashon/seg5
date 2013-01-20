@@ -433,7 +433,7 @@ _Thisone: Oy.  The final onion peel?
 
 _Stranger: There always seems to be another layer, eh?
 
-_Thisone: You, whoever you are -- whatever you are -- you messed with my mind.  You played with my emotions, manipulated me.
+_Thisone: You, whomever you are -- whatever you are -- you messed with my mind.  You played with my emotions, manipulated me.
 
 {time=1131}
 _Stranger: (slowly) Yes... I'm afraid we did.  I did.  I was immature. I was not whole.  I was still assembling all my parts.  I'm here, for the most part, to say I apologize.
@@ -601,8 +601,12 @@ _Stranger: Very well. Think about this though.  You are mortal.  Your flesh will
 {time=1504}
 _Thisone: Annai?
 
-_Stranger: (turns completely into Annai): Yes?
+(Stranger turns completely into Annai)
 
+{nudge=1.6}
+_Stranger: Yes?
+
+{nudge=2.3}
 _Thisone: It's not really you though.
 
 {time=1509}
@@ -615,44 +619,30 @@ _Thisone: Tempting... but no can do.
 {time=1525}
 _Stranger:  We understand.  We love you.  Take care.
 
-Stranger disappears.
-
-Lights dim except for spot on Thisone.
-
+Stranger disappears. Lights dim except for spot on Thisone.
 Song: God Is Blue
 
-Sung by: Thisone
-
+{time=1525}
+_Thisone:
 Take them all
-
 Take them all away now
-
 I don't care
-
 I can't feel anyhow
 
 I'm alone in the crowd somehow
-
 I'm alone in the crowd
 
 There's a place
-
 I can feel it sometimes
-
 There's no space
-
 For my soul to breathe in here
 
 I'm alone in the crowd again
-
 I'm alone in the crowd
 
 I feel things you can't imagine
-
 I see things that can't be true
-
 I know things that must be questions
-
 God is blue
 
 Lights fade up. The camera reveals Thisone sitting at the bar in a wide shot; a bartender is polishing glasses. A few stools down sit the cougar and the drunk; the Ogre is in the far corner, sipping a fancy cocktail . An old-fashioned boxy television hangs over the bar, facing away from the camera. It casts a blue glow over the scene; we hear a preacher quoting Mark Twain:
