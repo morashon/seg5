@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="3001" name="seg5" sample-rate="44100" id-counter="25271" event-counter="0">
+<Session version="3001" name="seg5" sample-rate="44100" id-counter="26316" event-counter="0">
   <Config>
     <Option name="xfade-choice" value="ConstantPowerMinus3dB"/>
     <Option name="destructive-xfade-msecs" value="2"/>
@@ -1713,23 +1713,23 @@
     <Route id="18" name="master" default-type="audio" flags="MasterOut" active="yes" phase-invert="00" denormal-protection="no" meter-point="MeterPostFader" order-keys="EditorSort=0:MixerSort=0" self-solo="no" soloed-by-upstream="0" soloed-by-downstream="0" solo-isolated="no" solo-safe="no">
       <IO name="master" id="18" direction="Input" default-type="audio" user-latency="0">
         <Port type="audio" name="master/audio_in 1">
-          <Connection other="Music/audio_out 1"/>
           <Connection other="YouEndIntro/audio_out 1"/>
+          <Connection other="Music/audio_out 1"/>
+          <Connection other="Annai/audio_out 1"/>
           <Connection other="Stranger/audio_out 1"/>
           <Connection other="outro_speech/audio_out 1"/>
           <Connection other="ruf_outro/audio_out 1"/>
-          <Connection other="Annai/audio_out 1"/>
           <Connection other="starlite_instr/audio_out 1"/>
           <Connection other="Thisone/audio_out 1"/>
           <Connection other="ballroom/audio_out 1"/>
         </Port>
         <Port type="audio" name="master/audio_in 2">
-          <Connection other="Music/audio_out 2"/>
           <Connection other="YouEndIntro/audio_out 2"/>
+          <Connection other="Music/audio_out 2"/>
+          <Connection other="Annai/audio_out 2"/>
           <Connection other="Stranger/audio_out 2"/>
           <Connection other="outro_speech/audio_out 2"/>
           <Connection other="ruf_outro/audio_out 2"/>
-          <Connection other="Annai/audio_out 2"/>
           <Connection other="starlite_instr/audio_out 2"/>
           <Connection other="Thisone/audio_out 2"/>
           <Connection other="ballroom/audio_out 2"/>
@@ -1842,6 +1842,13 @@
 22866600 0
 23066729 1.29139280319214
 32257488 1.29758763313293
+32430766 0.937893033027649
+35685339 1.21121466159821
+35792573 1.43167507648468
+40046552 1.30940401554108
+40089447 1.00049257278442
+40920514 1.1024032831192
+40958047 1.30339860916138
 41907167 1.30339860916138
 42076016 0.874704957008362
 42243476 0.0514685772359371
@@ -4093,7 +4100,7 @@
       <Window name="R-18-4540" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="R-18-4541" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="M-71-4562" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="M-71-19596" visible="yes" x-off="3" y-off="84" x-size="600" y-size="375"/>
+      <Window name="M-71-19596" visible="yes" x-off="4" y-off="112" x-size="600" y-size="375"/>
       <Window name="M-71-4565" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="M-71-4566" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="M-2424-4895" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>

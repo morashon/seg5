@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="3001" name="seg5" sample-rate="44100" id-counter="25271" event-counter="0">
+<Session version="3001" name="seg5" sample-rate="44100" id-counter="26316" event-counter="0">
   <Config>
     <Option name="xfade-choice" value="ConstantPowerMinus3dB"/>
     <Option name="destructive-xfade-msecs" value="2"/>
@@ -1713,23 +1713,23 @@
     <Route id="18" name="master" default-type="audio" flags="MasterOut" active="yes" phase-invert="00" denormal-protection="no" meter-point="MeterPostFader" order-keys="EditorSort=0:MixerSort=0" self-solo="no" soloed-by-upstream="0" soloed-by-downstream="0" solo-isolated="no" solo-safe="no">
       <IO name="master" id="18" direction="Input" default-type="audio" user-latency="0">
         <Port type="audio" name="master/audio_in 1">
-          <Connection other="Music/audio_out 1"/>
           <Connection other="YouEndIntro/audio_out 1"/>
+          <Connection other="Music/audio_out 1"/>
+          <Connection other="Annai/audio_out 1"/>
           <Connection other="Stranger/audio_out 1"/>
           <Connection other="outro_speech/audio_out 1"/>
           <Connection other="ruf_outro/audio_out 1"/>
-          <Connection other="Annai/audio_out 1"/>
           <Connection other="starlite_instr/audio_out 1"/>
           <Connection other="Thisone/audio_out 1"/>
           <Connection other="ballroom/audio_out 1"/>
         </Port>
         <Port type="audio" name="master/audio_in 2">
-          <Connection other="Music/audio_out 2"/>
           <Connection other="YouEndIntro/audio_out 2"/>
+          <Connection other="Music/audio_out 2"/>
+          <Connection other="Annai/audio_out 2"/>
           <Connection other="Stranger/audio_out 2"/>
           <Connection other="outro_speech/audio_out 2"/>
           <Connection other="ruf_outro/audio_out 2"/>
-          <Connection other="Annai/audio_out 2"/>
           <Connection other="starlite_instr/audio_out 2"/>
           <Connection other="Thisone/audio_out 2"/>
           <Connection other="ballroom/audio_out 2"/>
@@ -1787,7 +1787,7 @@
       <MuteMaster mute-point="PreFader,PostFader,Listen,Main" muted="no"/>
       <RemoteControl id="1"/>
       <Pannable>
-        <Controllable name="pan-azimuth" id="4551" flags="" value="0.495852180586"/>
+        <Controllable name="pan-azimuth" id="4551" flags="" value="0.495852225179"/>
         <Controllable name="pan-width" id="4555" flags="" value="1.000000000000"/>
         <Controllable name="pan-elevation" id="4553" flags="" value="0.000000000000"/>
         <Controllable name="pan-frontback" id="4557" flags="" value="0.000000000000"/>
@@ -1842,6 +1842,13 @@
 22866600 0
 23066729 1.29139280319214
 32257488 1.29758763313293
+32430766 0.937893033027649
+35685339 1.21121466159821
+35792573 1.43167507648468
+40046552 1.30940401554108
+40089447 1.00049257278442
+40920514 1.1024032831192
+40958047 1.30339860916138
 41907167 1.30339860916138
 42076016 0.874704957008362
 42243476 0.0514685772359371
@@ -1867,7 +1874,7 @@
 </events>
           </AutomationList>
         </Automation>
-        <Controllable name="gaincontrol" id="4564" flags="GainLike" value="0.813829123974"/>
+        <Controllable name="gaincontrol" id="4564" flags="GainLike" value="0.005085602919"/>
       </Processor>
       <Processor id="19596" name="SC4" active="yes" user-latency="0" type="ladspa" unique-id="1882" count="1">
         <ladspa last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="yes">
@@ -1934,7 +1941,7 @@
 </events>
           </AutomationList>
         </Automation>
-        <Controllable name="gaincontrol" id="4897" flags="GainLike" value="0.957004502184"/>
+        <Controllable name="gaincontrol" id="4897" flags="GainLike" value="0.729649716390"/>
       </Processor>
       <Processor id="22800" name="Glame Bandpass Analog Filter" active="yes" user-latency="0" type="ladspa" unique-id="1893" count="2">
         <Automation>
@@ -1999,11 +2006,11 @@
           </AutomationList>
         </Automation>
         <ladspa last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="yes">
-          <Port number="0" value="+4944.528809"/>
-          <Port number="1" value="+9066.814453"/>
+          <Port number="0" value="+4838.622070"/>
+          <Port number="1" value="+4530.402344"/>
         </ladspa>
-        <Controllable name="Center Frequency (Hz)" id="22802" flags="" value="4944.528808593750" parameter="0"/>
-        <Controllable name="Bandwidth (Hz)" id="22804" flags="" value="9066.814453125000" parameter="1"/>
+        <Controllable name="Center Frequency (Hz)" id="22802" flags="" value="4838.622070312500" parameter="0"/>
+        <Controllable name="Bandwidth (Hz)" id="22804" flags="" value="4530.402343750000" parameter="1"/>
       </Processor>
       <Processor id="4898" name="Meter" active="yes" user-latency="0" type="meter"/>
       <Processor id="4899" name="YouEndIntro" active="yes" user-latency="0" own-input="yes" own-output="no" output="YouEndIntro" type="main-outs" role="Main">
@@ -2116,27 +2123,27 @@
         <ladspa last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="yes">
           <Port number="0" value="+0.000000"/>
           <Port number="1" value="+0.000000"/>
-          <Port number="2" value="+18.593349"/>
+          <Port number="2" value="+7.723786"/>
           <Port number="3" value="+2.000000"/>
           <Port number="4" value="+0.077320"/>
-          <Port number="5" value="+2.343811"/>
+          <Port number="5" value="+0.050803"/>
           <Port number="6" value="+1.000000"/>
           <Port number="7" value="+0.000000"/>
           <Port number="8" value="+1.000000"/>
           <Port number="9" value="+0.000000"/>
-          <Port number="10" value="+0.187500"/>
+          <Port number="10" value="+0.052632"/>
         </ladspa>
         <Controllable name="Random seed" id="4637" flags="" value="0.000000000000" parameter="0"/>
         <Controllable name="Input gain (dB)" id="4639" flags="" value="0.000000000000" parameter="1"/>
-        <Controllable name="Feedback (%)" id="4641" flags="" value="18.593349456787" parameter="2"/>
+        <Controllable name="Feedback (%)" id="4641" flags="" value="7.723785877228" parameter="2"/>
         <Controllable name="Number of taps" id="4643" flags="" value="2.000000000000" parameter="3"/>
         <Controllable name="First delay (s)" id="4645" flags="" value="0.077320002019" parameter="4"/>
-        <Controllable name="Delay range (s)" id="4647" flags="" value="2.343810796738" parameter="5"/>
+        <Controllable name="Delay range (s)" id="4647" flags="" value="0.050803374499" parameter="5"/>
         <Controllable name="Delay change" id="4649" flags="" value="1.000000000000" parameter="6"/>
         <Controllable name="Delay random (%)" id="4651" flags="" value="0.000000000000" parameter="7"/>
         <Controllable name="Amplitude change" id="4653" flags="" value="1.000000000000" parameter="8"/>
         <Controllable name="Amplitude random (%)" id="4655" flags="" value="0.000000000000" parameter="9"/>
-        <Controllable name="Dry/wet mix" id="4657" flags="" value="0.187500000000" parameter="10"/>
+        <Controllable name="Dry/wet mix" id="4657" flags="" value="0.052631579340" parameter="10"/>
       </Processor>
       <Processor id="298" name="GVerb" active="yes" user-latency="0" type="ladspa" unique-id="1216" count="1">
         <Automation>
@@ -2168,16 +2175,16 @@
           <Port number="2" value="+0.500000"/>
           <Port number="3" value="+0.750000"/>
           <Port number="4" value="+0.000000"/>
-          <Port number="5" value="-47.352940"/>
-          <Port number="6" value="-36.029411"/>
+          <Port number="5" value="-42.777779"/>
+          <Port number="6" value="-48.611111"/>
         </ladspa>
         <Controllable name="Roomsize (m)" id="4661" flags="" value="75.750000000000" parameter="0"/>
         <Controllable name="Reverb time (s)" id="4663" flags="" value="4.954895019531" parameter="1"/>
         <Controllable name="Damping" id="4665" flags="" value="0.500000000000" parameter="2"/>
         <Controllable name="Input bandwidth" id="4667" flags="" value="0.750000000000" parameter="3"/>
         <Controllable name="Dry signal level (dB)" id="4669" flags="" value="0.000000000000" parameter="4"/>
-        <Controllable name="Early reflection level (dB)" id="4671" flags="" value="-47.352939605713" parameter="5"/>
-        <Controllable name="Tail level (dB)" id="4673" flags="" value="-36.029411315918" parameter="6"/>
+        <Controllable name="Early reflection level (dB)" id="4671" flags="" value="-42.777778625488" parameter="5"/>
+        <Controllable name="Tail level (dB)" id="4673" flags="" value="-48.611110687256" parameter="6"/>
       </Processor>
       <Processor id="4629" name="Meter" active="yes" user-latency="0" type="meter"/>
       <Processor id="4630" name="ballroom" active="yes" user-latency="0" own-input="yes" own-output="no" output="ballroom" type="main-outs" role="Main">
@@ -2234,7 +2241,7 @@
 </events>
           </AutomationList>
         </Automation>
-        <Controllable name="gaincontrol" id="6453" flags="GainLike" value="0.838930397169"/>
+        <Controllable name="gaincontrol" id="6453" flags="GainLike" value="0.000000000000"/>
       </Processor>
       <Processor id="7522" name="Glame Bandpass Filter" active="yes" user-latency="0" type="ladspa" unique-id="1892" count="2">
         <ladspa last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="yes">
@@ -2302,7 +2309,7 @@
 </events>
           </AutomationList>
         </Automation>
-        <Controllable name="gaincontrol" id="4697" flags="GainLike" value="0.004910131916"/>
+        <Controllable name="gaincontrol" id="4697" flags="GainLike" value="0.301960139234"/>
       </Processor>
       <Processor id="4698" name="Meter" active="yes" user-latency="0" type="meter"/>
       <Processor id="4699" name="ruf_outro" active="yes" user-latency="0" own-input="yes" own-output="no" output="ruf_outro" type="main-outs" role="Main">
@@ -4093,7 +4100,7 @@
       <Window name="R-18-4540" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="R-18-4541" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="M-71-4562" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="M-71-19596" visible="yes" x-off="3" y-off="84" x-size="600" y-size="375"/>
+      <Window name="M-71-19596" visible="yes" x-off="4" y-off="112" x-size="600" y-size="375"/>
       <Window name="M-71-4565" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="M-71-4566" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="M-2424-4895" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
