@@ -1,4 +1,4 @@
-{hold=30}
+{hold=43}
 Scene: 1700's ballroom. Morashon (mostly human), and avatars who look like Thisone and Annai, are in period dress. As they sing, they perform a stately dance. The Ogre accompanies them on harpsichord.
 Song: Ballad of Morashon
 
@@ -24,13 +24,16 @@ I'll be there to take the blows
 You laugh, I scream and whimper
 But nobody knows
 
-{time=86}
+{time=83.75}
 _NOACTOR:
 Once we believed as one
-Where did it all go wrong,
-Morashon?
+Where did it all go wrong
 
-{time=94}
+{time=91}
+_Thisone and Morashon:
+Morashon
+
+{time=94.25}
 _Thisone and Morashon:
 Someone has to burn
 Someone has to pay for this mess
@@ -145,6 +148,7 @@ This is me                        
 This is me                                 
 
 {time=317.7}
+{hold=66}
 _Thisone:
 Morashon and me...
 
@@ -162,16 +166,20 @@ _Thisone (as Morashon): Thank you for coming.  This will be my farewell performa
 
 (boos and whistles from crowd, murmuring -- who is this? Where's Morashon?)
 
+{nudge=1}
 _NOACTOR:
 When someone like me comes along, and tells you things that sound unbelievable, don't just believe them.  Ask the tough questions.   Look behind the curtain. Most likely, you'll find an old man with a mouse and a keyboard. 
 
-_I am not what I appear to be.  I am not artificial intelligence; I am not an AI.  I'm not even a single person.  This persona, Morashon, was developed for reasons that frankly I can't even figure out myself.  Others inhabited it before me; others may try to take it on again.  But I'm here to tell you that no AI, or human being, or gods or aliens for that matter, can tell you how to live your life.  That's up to you. 
+{nudge=3}
+_I am not what I appear to be.  I am not artificial intelligence; I am not an A I.  I'm not even a single person.  This persona, Morashon, was developed for reasons that frankly I can't even figure out myself.  Others inhabited it before me; others may try to take it on again.  But I'm here to tell you that no A I, or human being, or gods or aliens for that matter, can tell you how to live your life.  That's up to you. 
 
 (boos, catcalls).
 
+{nudge=3}
 _
 Look, I know people come to these events to be inspired, to draw energy from me and from each other.  That's all fine; good times, music, dancing.  I won't be the one to take that away from you.  But -- when it becomes something else -- when it becomes a way to manipulate people, to play on their hopes and fears; to bring them into an unholy alliance with those of dubious intent -- well, that's not good, and I'm just saying you should keep your guard up for that. 
 
+{hold=10}
 (more boos; "who are you?"  "Where is Morashon?" "Just play the fucking song", etc.  The crowd starts to thin as people wander off or port out.)
 
 _
@@ -224,7 +232,7 @@ Don't make a fuss
 _Bigger you are
 The harder you're going to fall
 Ain't it true the quicker you move
-The likelier you might stall
+The likelier you will stall
 
 {time=625}
 _Don't believe their lies
@@ -257,7 +265,7 @@ One last thing.  Even without someone telling you what to do, who you are -- eve
 _It does require one small leap of faith though -- you have to believe there's still good in the world.  If you start off on the right foot, things might just go well for you.  But, if you doubt everything and everyone, and treat every new situation with trepidation and doubt -- well, then, you're missing out on what life has to offer.  Sorry I'm not better at giving speeches.
 
 {nudge=-10}
-Song: "Mouth Of Truth".  Morashon wears an accoustic guitar and a harmonica, Dylan-style.  Partway through the song, Annai materializes near the stage in a late 60's peasant dress and beads in her hair, with a tambourine.  She begins to sing along.
+Song: "Mouth Of Truth".  Morashon wears an accoustic guitar and a harmonica, Dylan-style.  Partway through the song, Annai materializes near the stage in a late 60's peasant dress and beads in her hair.  She begins to sing along.
 
 {time=748.6}
 _Thisone (as Morashon):
@@ -307,6 +315,9 @@ Just for a thrill
 _And it scares you
 Deep down inside
 Where you go to hide
+
+{hold=11}
+Ogre appears onstage in court jester gear, dancing and banging on an oversized tambourine.
 
 {time=845}
 _So you chase it
