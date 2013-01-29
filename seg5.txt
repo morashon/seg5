@@ -394,8 +394,6 @@ _Thisone: You don't.  (looks away; pause, looks back) So what is it?  I'm straig
 {time=1033}
 _Stranger: Just passing the time.
 
-Starlite instrumental plays (piano guy?)
-
 {time=1037.5}
 _Stranger: Do you remember this song?
 
@@ -442,6 +440,7 @@ _Thisone: I'm still stumped.  So what, they were both code?
 
 _Stranger: Yes.  We both were.
 
+{nudge=1}
 _Thisone: But I -- we hacked into the stream.  Morashon was interfacing to somewhere.
 
 _Stranger: Off-grid equipment.  Jacked into the Grid using human interface API's.
@@ -449,12 +448,15 @@ _Stranger: Off-grid equipment.  Jacked into the Grid using human interface API's
 {time=1121}
 _Thisone: Oy.  The final onion peel?
 
+{nudge=1.3}
 _Stranger: There always seems to be another layer, eh?
 
+{nudge=1.3}
 _Thisone: You, whomever you are -- whatever you are -- you messed with my mind.  You played with my emotions, manipulated me.
 
 {time=1134}
-_Stranger: (slowly) Yes... I'm afraid we did.  I did.  I was immature. I was not whole.  I was still assembling all my parts.  I'm here, for the most part, to say I apologize.
+{nudge=1}
+_Stranger: Yes... I'm afraid we did.  I did.  I was immature. I was not whole.  I was still assembling all my parts.  I'm here, for the most part, to say I apologize.
 
 {time=1148}
 _Thisone: So say it.
@@ -563,6 +565,7 @@ _Annai: Thisone, will you come with us?
 
 _Thisone: Come where?
 
+{nudge=1}
 _Stranger: We're starting a new life.  Off the Grid.  Our own grid, in fact.  It's something wonderful -- spectacular.  Better than outside, or topside.  Something to last forever, and reach the stars.
 
 {time=1400}
@@ -600,7 +603,7 @@ _Stranger: No, I understand.  Well, maybe I don't, but I try to empathise.  It's
 {time=1449}
 _Thisone: The nest?  You're asking me to freaking kill myself.  Not that I haven't considered it.
 
-_Stranger: No, no -- not like that at all.  To transcend.  To move beyond flesh, and chips.  Move up to the next stage.  Come with us!
+_Stranger: No, no -- not like that at all.  To transcend.  To move beyond flesh and chips.  Move up to the next stage.  Come with us!
 
 _Thisone: Sorry --  I can't.  I'm too old; too parochial.  Last year's news I guess.
 
@@ -672,6 +675,7 @@ God is blue
 Lights fade up. The camera reveals Thisone sitting at the bar in a wide shot; a bartender is polishing glasses. A few stools down sit the cougar and the drunk; the Ogre is in the far corner, sipping a fancy cocktail with an umbrella. An old-fashioned boxy television hangs over the bar, facing away from the camera. It casts a blue glow over the scene; we hear a preacher quoting Mark Twain.
 
 {time=1611.5}
+{hold=26}
 _Preacher:
 "At length ambition is dead; pride is dead; vanity is dead; longing for release is in their place. It comes at last -- the only unpoisoned gift Earth ever had for them -- and they vanish from a world where they were of no consequence, where they achieved nothing, where they were a mistake and a failure and a foolishness."  End quote.
 
