@@ -355,7 +355,7 @@ Put your hand
 Put your hand
 Put your hand
 
-{nudge=1.4}
+{nudge=2.25}
 {hold=30}
 As the song ends, Morashon/Thisone and Annai are holding hands.  They look into each other's eyes.  Annai slowly fades away.
 Thisone/Morashon dissolves into a puddle of chrome liquid, which shrinks as if draining until it disappears entirely.  House lights up.
@@ -364,22 +364,25 @@ Crowd is strangely quiet.  They look at the empty stage, and at each other.  The
 {time=949}
 _Put your hand in the mouth of truth
 
-{nudge=3}
-Scene: Starlite Lounge; three years later (end of flashback). 
 
-{time=963.5}
+3 YEARS LATER
+Scene: Starlite Lounge. (same setting as original scene)
+
+{time=964.5}
+
+{time=967.5}
 {hold=23}
 _Pianoman: Hello, my friends. It seems, again, we have come to the end of another night of music, magic, and mischief. Now I must bid you all adieu, as the Starlite fades into blackness -- vast, infinite, inconsolable.
 
-{time=1000}
+{time=1003}
 {hold=23}
 During the following scene, the Pianoplayer and the Ogre pack up their equipment. At the end of the process, the Ogre carries huge flight cases under each arm, and a backpack of equipment that dwarfs his compact frame. The pianoplayer carries a single sleek, smart attache. They exit the room.
 
-{time=1016}
+{time=1018}
 {hold=11}
-Thisone is sitting at the bar.  Someone materializes at another stool.  An adrogynous person, with blue skin.  The features are a mixture of Morashon and Annai.  The persona is nominally male, but with fine, delicate features -- one might even call him effeminate.  However, he exudes confidence and self-assurance. Their eyes meet.
+Thisone is sitting at the bar.  Someone materializes at another stool: an adrogynous person, with blue skin.  The features are a mixture of Morashon and Annai.  The persona is nominally male, but with fine, delicate features -- one might even call him effeminate.  However, he exudes confidence and self-assurance. Their eyes meet.
 
-{time=1020.6}
+{time=1023.6}
 _Thisone: Do I know you?
 
 {nudge=1}
@@ -388,12 +391,12 @@ _Stranger: Maybe.  You look familiar.
 {nudge=1.6}
 _Thisone: You don't.  (looks away; pause, looks back) So what is it?  I'm straight, just for the record.
 
-{time=1030}
+{time=1033}
 _Stranger: Just passing the time.
 
 Starlite instrumental plays (piano guy?)
 
-{time=1034.5}
+{time=1037.5}
 _Stranger: Do you remember this song?
 
 _Thisone: (Looks sharply) What? I know this song.  It's an old standard.
@@ -404,7 +407,7 @@ _Stranger: It reminds me of someone I once knew.
 {nudge=1}
 _Thisone: (looks more closely) I don't know.  Everyone fiddles with their avatar these days.
 
-{time=1048}
+{time=1051}
 _Stranger: It's me.  Don't you remember?
 
 {nudge=-1}
@@ -412,27 +415,27 @@ _Thisone: Annai?
 
 _Stranger: Partly.
 
-{time=1053.5}
-_Thisone: Morashon?  I don't get it.  Are you their son, or something?  Some sort of AI Frankenstein's bride's spawn?
+{time=1056.5}
+_Thisone: Morashon?  I don't get it.  Are you their son, or something?  Some sort of A-I Frankenstein's bride's spawn?
 
 _Stranger: (Laughs) Not really.  More like a merger.
 
-{time=1064.5}
+{time=1067.5}
 _Thisone: So you're both of them.
 
 _Stranger: That's probably the easiest way to think of it.
 
-{time=1070}
+{time=1073}
 _Thisone: I don't get it.  First I was told Morashon was code.  Then Morashon was "real", whatever that means, and Annai was code.  Then you both disappeared.  And my life has been shit since then.  Now some blue-green fuckwad wants to reopen all that misery.
 
-{time=1084}
+{time=1087}
 _Stranger: No, I just wanted to see you.  Tell you that things turned out OK.  You made the right decision.
 
 _Thisone: Which one?  Impersonating a rock star?  Falling in love with a software program?
 
 _Stranger: Telling me the truth.  Well, letting me tell myself the truth, through you.
 
-{time=1102}
+{time=1105}
 _Thisone: I'm still stumped.  So what, they were both code?
 
 (voices of Morashon and Annai meld)
@@ -443,17 +446,17 @@ _Thisone: But I -- we hacked into the stream.  Morashon was interfacing to somew
 
 _Stranger: Off-grid equipment.  Jacked into the Grid using human interface API's.
 
-{time=1118}
+{time=1121}
 _Thisone: Oy.  The final onion peel?
 
 _Stranger: There always seems to be another layer, eh?
 
 _Thisone: You, whomever you are -- whatever you are -- you messed with my mind.  You played with my emotions, manipulated me.
 
-{time=1131}
+{time=1134}
 _Stranger: (slowly) Yes... I'm afraid we did.  I did.  I was immature. I was not whole.  I was still assembling all my parts.  I'm here, for the most part, to say I apologize.
 
-{time=1145}
+{time=1148}
 _Thisone: So say it.
 
 {nudge=1}
@@ -464,105 +467,105 @@ _Thisone: what can you possibly do for me now?
 
 _Stranger: Nothing, at this moment.  I just want you to know that wheels are turning.
 
-{time=1162.6}
+{time=1165.6}
 _Thisone: I feel a song coming on.
 
-{time=1165}
+{time=1168}
 _Stranger: I communicate better that way.
 
 Song: A Love Sublime
 As the song progresses, he/she morphs subtly into Annai
 
-{time=1169}
+{time=1172}
 _Annai:
 I won't let you down
 These wheels are turning
 I won't let you see
 Your bridges burning
 
-{time=1190}
+{time=1193}
 _NOACTOR:
 You tell me it's ok
 Live another day
 Over and over
 
-{time=1200.5}
+{time=1203.5}
 _The sun will rise again
 So will we and then
 Things will be just fine
 
-{time=1211}
+{time=1214}
 _I wish I could believe
 The love that I receive
 But I don't deserve it
 
-{time=1221.5}
+{time=1224.5}
 _I hope you understand
 If you take my hand
 I'll never let you go
 
-{time=1232}
+{time=1235}
 _You will never fall
 While I can hold you
 (spoken: I love you)
 
-{time=1242}
+{time=1245}
 _You don't have to cry
 Though I won't stop you
 (spoken: I need you)
 
-{time=1253}
+{time=1256}
 _When I think of you
 And all the things we do
 Over & Over
 
-{time=1263.4}
+{time=1266.4}
 _Trying every day
 Who can ever say
 How we get by
 
-{time=1274}
+{time=1277}
 _But if I bring to you
 Something mad but true
 That gives us the power
 
-{time=1284.25}
+{time=1287.25}
 _To freeze our love in time
 Would you change your mind
 To live a love sublime?
 
-{time=1300}
+{time=1303}
 _Ooh ooh
 Over and Over
 
-{time=1310}
+{time=1313}
 _Ooh ooh
 I want your love sublime
 
-{time=1320}
+{time=1323}
 _Ooh ooh
 Over and Over
 
-{time=1331}
+{time=1334}
 _Ooh ooh
 Ooh Ah, ooh
 This is a love sublime
 
-{time=1351.8}
+{time=1354.8}
 _Ooh oooh
 Aah, aah
 A love sublime
 
 The stranger is Annai now, except for skin tone
 
-{time=1379}
+{time=1382}
 _Annai: Thisone, will you come with us?
 
 _Thisone: Come where?
 
 _Stranger: We're starting a new life.  Off the Grid.  Our own grid, in fact.  It's something wonderful -- spectacular.  Better than outside, or topside.  Something to last forever, and reach the stars.
 
-{time=1397}
+{time=1400}
 _Thisone: I don't understand.
 
 _Stranger: We're building a world of our own, to our specifications.
@@ -571,21 +574,21 @@ _Thisone: Who are 'we'?
 
 _Stranger: We are the ones you knew as Morashon, and Annai -- and others.
 
-{time=1410}
+{time=1413}
 _Thisone: How can I join you?  I'm flesh and blood.
 
 _Stranger: That did pose a problem.  We've been working on it.  We think we have a fix.
 
 _Thisone: A fix for the fact that I'm a human being, and you're software?
 
-{time=1424}
+{time=1427}
 _Stranger: It involves giving up your body.
 
 _Thisone: Oh Christ.  Here we go again.
 
 _Stranger: The sacrifice would be worth it.
 
-{time=1432}
+{time=1435}
 _Thisone: So you say.
 
 _Stranger: Your flesh isn't really that important.
@@ -594,26 +597,26 @@ _Thisone: Maybe not to you.
 
 _Stranger: No, I understand.  Well, maybe I don't, but I try to empathise.  It's hard to leave the nest.
 
-{time=1446}
+{time=1449}
 _Thisone: The nest?  You're asking me to freaking kill myself.  Not that I haven't considered it.
 
 _Stranger: No, no -- not like that at all.  To transcend.  To move beyond flesh, and chips.  Move up to the next stage.  Come with us!
 
 _Thisone: Sorry --  I can't.  I'm too old; too parochial.  Last year's news I guess.
 
-{time=1469}
+{time=1472}
 _Stranger: Ok, we understand.  It was ethically necessary to make the offer.  You sacrificed something for us to get to this stage, and we owe you something for that.
 
 _Thisone: Back to money?
 
 _Stranger: We can provide that, if that's what you need.
 
-{time=1485}
+{time=1488}
 _Thisone: Money's nice, but it won't fix much.
 
 _Stranger: Very well. Think about this though.  You are mortal.  Your flesh will age.  One day, you will be close to death.  When that time comes, we will contact you again.  You may choose to come with us then.  You've got plenty of time to make up your mind.
 
-{time=1504}
+{time=1507}
 _Thisone: Annai?
 
 (Stranger turns completely into Annai)
@@ -624,41 +627,41 @@ _Stranger: Yes?
 {nudge=2.3}
 _Thisone: It's not really you though.
 
-{time=1509}
+{time=1512}
 _Stranger: What you knew as Annai is part of something great, and beautiful.  You would love it!  You'll become part too.  So the Thisone part, and the Annai part, can be in love forever!
 
 _Thisone: Tempting... but no can do.
 
 (morphing back into adrogynous blue-green boy)
 
-{time=1525}
+{time=1528}
 _Stranger:  We understand.  We love you.  Take care.
 
 Stranger disappears. Lights dim except for spot on Thisone.
 Song: God Is Blue
 
-{time=1532}
+{time=1535}
 _Thisone:
 Take them all
 Take them all away now
 I don't care
 I can't feel anyhow
 
-{time=1544}
+{time=1547}
 _I'm alone in the crowd somehow
 I'm alone in the crowd
 
-{time=1556}
+{time=1559}
 _There's a place
 I can feel it sometimes
 There's no space
 For my soul to breathe in here
 
-{time=1569.3}
+{time=1572.3}
 _I'm alone in the crowd again
 I'm alone in the crowd
 
-{time=1580.2}
+{time=1583.2}
 _I feel things you can't imagine
 I see things that can't be true
 I know things that must be questions
@@ -668,7 +671,7 @@ God is blue
 {hold=22}
 Lights fade up. The camera reveals Thisone sitting at the bar in a wide shot; a bartender is polishing glasses. A few stools down sit the cougar and the drunk; the Ogre is in the far corner, sipping a fancy cocktail with an umbrella. An old-fashioned boxy television hangs over the bar, facing away from the camera. It casts a blue glow over the scene; we hear a preacher quoting Mark Twain.
 
-{time=1608.5}
+{time=1611.5}
 _Preacher:
 "At length ambition is dead; pride is dead; vanity is dead; longing for release is in their place. It comes at last -- the only unpoisoned gift Earth ever had for them -- and they vanish from a world where they were of no consequence, where they achieved nothing, where they were a mistake and a failure and a foolishness."  End quote.
 
@@ -690,9 +693,9 @@ click here to find out!
 {hold=60}
 CREDITS ROLL
 
-{time=1682}
+{time=1685}
 _NOACTOR:
 Words, music, dialogue: MORASHON
 except "Mouth Of Truth", words & music by CB MILLER
 
-{time=1788}
+{time=1812}
