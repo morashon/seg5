@@ -75,7 +75,7 @@ Morashon
 It's gone
 
 {hold=30}
-(Instrumental)
+(Instrumental -- visuals?)
 
 {time=190}
 
@@ -185,6 +185,7 @@ Look, I know people come to these events to be inspired, to draw energy from me 
 _
 Ok, ok, I get the message.  I'm sorry if I'm sounding preachy; this is brand new for me.  I just wanted to get this off my chest.  But seriously -- don't fall for the matinee idol.  Don't let someone's 15 nanoseconds of fame lead you to believe they have a line on the truth.  
 
+{nudge=1.2}
 _Truth can only be found the hard way -- by looking, listening, and thinking for yourself.  I found out the hard way that what I believed to be true, was anything but.  I'm still trying to figure it all out.  I may never know for sure, but at least now I know that I don't know.  
 
 {time=510.6}
@@ -265,7 +266,7 @@ One last thing.  Even without someone telling you what to do, who you are -- eve
 _It does require one small leap of faith though -- you have to believe there's still good in the world.  If you start off on the right foot, things might just go well for you.  But, if you doubt everything and everyone, and treat every new situation with trepidation and doubt -- well, then, you're missing out on what life has to offer.  Sorry I'm not better at giving speeches.
 
 {nudge=-10}
-Song: "Mouth Of Truth".  Morashon wears an accoustic guitar and a harmonica, Dylan-style.  Partway through the song, Annai materializes near the stage in a late 60's peasant dress and beads in her hair.  She begins to sing along.
+Song: "Mouth Of Truth".  Morashon wears an accoustic guitar and a harmonica, Dylan-style.  Partway through the song, Annai materializes near the stage in a late 60's peasant dress, beads in her hair.  She begins to sing along.
 
 {time=748.6}
 _Thisone (as Morashon):
@@ -355,7 +356,7 @@ Put your hand
 Put your hand
 Put your hand
 
-{nudge=2.25}
+{nudge=2}
 {hold=30}
 As the song ends, Morashon/Thisone and Annai are holding hands.  They look into each other's eyes.  Annai slowly fades away.
 Thisone/Morashon dissolves into a puddle of chrome liquid, which shrinks as if draining until it disappears entirely.  House lights up.
@@ -479,7 +480,7 @@ Song: A Love Sublime
 As the song progresses, he/she morphs subtly into Annai
 
 {time=1172}
-_Annai:
+_Stranger/Annai:
 I won't let you down
 These wheels are turning
 I won't let you see
@@ -554,6 +555,7 @@ Ooh Ah, ooh
 This is a love sublime
 
 {time=1354.8}
+{hold=22}
 _Ooh oooh
 Aah, aah
 A love sublime
@@ -587,6 +589,7 @@ _Thisone: A fix for the fact that I'm a human being, and you're software?
 {time=1427}
 _Stranger: It involves giving up your body.
 
+Thisone stamps out a virtual cigarette.
 _Thisone: Oh Christ.  Here we go again.
 
 _Stranger: The sacrifice would be worth it.
@@ -625,7 +628,7 @@ _Thisone: Annai?
 (Stranger turns completely into Annai)
 
 {nudge=1.6}
-_Stranger: Yes?
+_Stranger/Annai: Yes?
 
 {nudge=2.3}
 _Thisone: It's not really you though.
@@ -687,10 +690,10 @@ The bartender changes the channel, and the camera pans around so we can see the 
 {hold=22}
 Thisone leaves a tip, gets up, and leaves the bar.
 
-{nudge=-15}
+{nudge=-16.6}
 {hold=22}
 The bartender and the other customers are laughing and enjoying the video. Camera zooms in to the screen, as an information bubble appears:
-Moldy Memeories
+Moldy Meme-ories
 Where Are They Now?
 click here to find out!
 
@@ -701,5 +704,7 @@ CREDITS ROLL
 _NOACTOR:
 Words, music, dialogue: MORASHON
 except "Mouth Of Truth", words & music by CB MILLER
+Voices: MORASHON
 
 {time=1812}
+
