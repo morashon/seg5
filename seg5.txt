@@ -129,10 +129,10 @@ Baby It ain't me, no no
 It ain't me
 It ain't me
 
-_Baby this is me                        
-Baby this is me, oh oh            
-This is me                         
-This is me                                
+_Baby this is meï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾  
+Baby this is me, oh ohï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾  
+This is meï¾ ï¾ ï¾ ï¾ ï¾  ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾  
+This is meï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾  
 
 {time=301.5}
 
@@ -142,10 +142,10 @@ Morashon not me, no no..
 It's not me
 It ain't me
 
-_Baby this is me now                
-Morashon and me now..         
-This is me                         
-This is me                                 
+_Baby this is me nowï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾  
+Morashon and me now..ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ 
+This is meï¾ ï¾ ï¾ ï¾ ï¾  ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾  
+This is meï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾  ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾ ï¾  
 
 {time=317.7}
 {hold=66}
@@ -162,34 +162,34 @@ The camera pulls back to reveal we are watching a concert in an old-fashioned au
 As the song ends, they bow (Annai's dress dictates a courtsey) as the music fades; and then, all three slump to the ground in ragdoll fashion, like abandoned marionettes. After a pause, Morashon rises and addresses the crowd. As he speaks, his voice morphs from Morashon's into Thisone's.
 
 {time=389}
-_Thisone (as Morashon): Thank you for coming.  This will be my farewell performance. But first, I have something to say.
+_Thisone (as Morashon): Thank you for coming.ï¾  This will be my farewell performance.ï¾ But first, I have something to say.
 
 (boos and whistles from crowd, murmuring -- who is this? Where's Morashon?)
 
 {nudge=1}
 _NOACTOR:
-When someone like me comes along, and tells you things that sound unbelievable, don't just believe them.  Ask the tough questions.   Look behind the curtain. Most likely, you'll find an old man with a mouse and a keyboard. 
+When someone like me comes along, and tells you things that sound unbelievable, don't just believe them.ï¾  Ask the tough questions.ï¾ ï¾  Look behind the curtain. Most likely, you'll find an old man with a mouse and a keyboard.ï¾ 
 
 {nudge=3}
-_I am not what I appear to be.  I am not artificial intelligence; I am not an A I.  I'm not even a single person.  This persona, Morashon, was developed for reasons that frankly I can't even figure out myself.  Others inhabited it before me; others may try to take it on again.  But I'm here to tell you that no A I, or human being, or gods or aliens for that matter, can tell you how to live your life.  That's up to you. 
+_I am not what I appear to be.ï¾  I am not artificial intelligence; I am not an A I.ï¾  I'm not even a single person.ï¾  This persona, Morashon, was developed for reasons that frankly I can't even figure out myself.ï¾  Others inhabited it before me; others may try to take it on again.ï¾  But I'm here to tell you that no A I, or human being, or gods or aliens for that matter, can tell you how to live your life.ï¾  That's up to you.ï¾ 
 
 (boos, catcalls).
 
 {nudge=3}
 _
-Look, I know people come to these events to be inspired, to draw energy from me and from each other.  That's all fine; good times, music, dancing.  I won't be the one to take that away from you.  But -- when it becomes something else -- when it becomes a way to manipulate people, to play on their hopes and fears; to bring them into an unholy alliance with those of dubious intent -- well, that's not good, and I'm just saying you should keep your guard up for that. 
+Look, I know people come to these events to be inspired, to draw energy from me and from each other.ï¾  That's all fine; good times, music, dancing.ï¾  I won't be the one to take that away from you.ï¾  But -- when it becomes something else -- when it becomes a way to manipulate people, to play on their hopes and fears; to bring them into an unholy alliance with those of dubious intent -- well, that's not good, and I'm just saying you should keep your guard up for that.ï¾ 
 
 {hold=10}
-(more boos; "who are you?"  "Where is Morashon?" "Just play the fucking song", etc.  The crowd starts to thin as people wander off or port out.)
+(more boos; "who are you?"ï¾  "Where is Morashon?" "Just play the fucking song", etc.ï¾  The crowd starts to thin as people wander off or port out.)
 
 _
-Ok, ok, I get the message.  I'm sorry if I'm sounding preachy; this is brand new for me.  I just wanted to get this off my chest.  But seriously -- don't fall for the matinee idol.  Don't let someone's 15 nanoseconds of fame lead you to believe they have a line on the truth.  
+Ok, ok, I get the message.ï¾  I'm sorry if I'm sounding preachy; this is brand new for me.ï¾  I just wanted to get this off my chest.ï¾  But seriously -- don't fall for the matinee idol.ï¾  Don't let someone's 15 nanoseconds of fame lead you to believe they have a line on the truth.ï¾  
 
 {nudge=1.2}
-_Truth can only be found the hard way -- by looking, listening, and thinking for yourself.  I found out the hard way that what I believed to be true, was anything but.  I'm still trying to figure it all out.  I may never know for sure, but at least now I know that I don't know.  
+_Truth can only be found the hard way -- by looking, listening, and thinking for yourself.ï¾  I found out the hard way that what I believed to be true, was anything but.ï¾  I'm still trying to figure it all out.ï¾  I may never know for sure, but at least now I know that I don't know.ï¾  
 
 {time=510.6}
-_Don't let the comfort of feeling you've solved the puzzle seduce you into thinking you have all the answers.  And especially -- never let them tell you who you are.  That's your job.
+_Don't let the comfort of feeling you've solved the puzzle seduce you into thinking you have all the answers.ï¾  And especially -- never let them tell you who you are.ï¾  That's your job.
 
 {nudge=-11}
 {hold=20}
@@ -254,19 +254,19 @@ _Only you can be you
 The smaller crowd applauds enthusiastically.
 
 {time=674.5}
-_Thisone (as Morashon): Thank you!  Thank you.  It's been an honor to entertain you all.  That's what I am; just another entertainer -- nothing more. Trust, but verify.  Believe in yourselves; all claims to Godhead are false.  The path to understanding is shared by many; and yet, we each walk it alone.
+_Thisone (as Morashon): Thank you!ï¾  Thank you.ï¾  It's been an honor to entertain you all.ï¾  That's what I am; just another entertainer -- nothing more. Trust, but verify.ï¾  Believe in yourselves; all claims to Godhead are false.ï¾  The path to understanding is shared by many; and yet, we each walk it alone.
 
 (crowd settles down)
 
 {time=696}
 _NOACTOR:
-One last thing.  Even without someone telling you what to do, who you are -- even so, you can still be a good person.  You don't need the carrot and the stick -- heaven and hell -- or the promise of Earthly riches, or public humiliation to keep you in line.  You can figure this out for yourself.  
+One last thing.ï¾  Even without someone telling you what to do, who you are -- even so, you can still be a good person.ï¾  You don't need the carrot and the stick -- heaven and hell -- or the promise of Earthly riches, or public humiliation to keep you in line.ï¾  You can figure this out for yourself.ï¾  
 
 {time=714}
-_It does require one small leap of faith though -- you have to believe there's still good in the world.  If you start off on the right foot, things might just go well for you.  But, if you doubt everything and everyone, and treat every new situation with trepidation and doubt -- well, then, you're missing out on what life has to offer.  Sorry I'm not better at giving speeches.
+_It does require one small leap of faith though -- you have to believe there's still good in the world.ï¾  If you start off on the right foot, things might just go well for you.ï¾  But, if you doubt everything and everyone, and treat every new situation with trepidation and doubt -- well, then, you're missing out on what life has to offer.ï¾  Sorry I'm not better at giving speeches.
 
 {nudge=-10}
-Song: "Mouth Of Truth".  Morashon wears an accoustic guitar and a harmonica, Dylan-style.  Partway through the song, Annai materializes near the stage in a late 60's peasant dress, beads in her hair.  She begins to sing along.
+Song: "Mouth Of Truth".ï¾  Morashon wears an accoustic guitar and a harmonica, Dylan-style.  Partway through the song, Annai materializes near the stage in a late 60's peasant dress, beads in her hair.  She begins to sing along.
 
 {time=748.6}
 _Thisone (as Morashon):
@@ -358,9 +358,9 @@ Put your hand
 
 {nudge=2}
 {hold=30}
-As the song ends, Morashon/Thisone and Annai are holding hands.  They look into each other's eyes.  Annai slowly fades away.
-Thisone/Morashon dissolves into a puddle of chrome liquid, which shrinks as if draining until it disappears entirely.  House lights up.
-Crowd is strangely quiet.  They look at the empty stage, and at each other.  The feeling is as if a party has ended, and people are sobering up.  A man laughs.  A woman begins to sob quietly.
+As the song ends, Morashon/Thisone and Annai are holding hands.ï¾  They look into each other's eyes.ï¾  Annai slowly fades away.
+Thisone/Morashon dissolves into a puddle of chrome liquid, which shrinks as if draining until it disappears entirely.ï¾  House lights up.
+Crowd is strangely quiet.ï¾  They look at the empty stage, and at each other.ï¾  The feeling is as if a party has ended, and people are sobering up.ï¾  A man laughs.ï¾  A woman begins to sob quietly.
 
 {time=949}
 _Put your hand in the mouth of truth
@@ -381,16 +381,16 @@ During the following scene, the Pianoplayer and the Ogre pack up their equipment
 
 {time=1018}
 {hold=11}
-Thisone is sitting at the bar.  Someone materializes at another stool: an adrogynous person, with blue skin.  The features are a mixture of Morashon and Annai.  The persona is nominally male, but with fine, delicate features -- one might even call him effeminate.  However, he exudes confidence and self-assurance. Their eyes meet.
+Thisone is sitting at the bar.ï¾  Someone materializes at another stool: an adrogynous person, with blue skin.ï¾  The features are a mixture of Morashon and Annai.ï¾  The persona is nominally male, but with fine, delicate features -- one might even call him effeminate.ï¾  However, he exudes confidence and self-assurance. Their eyes meet.
 
 {time=1023.6}
 _Thisone: Do I know you?
 
 {nudge=1}
-_Stranger: Maybe.  You look familiar.
+_Stranger: Maybe.ï¾  You look familiar.
 
 {nudge=1.6}
-_Thisone: You don't.  (looks away; pause, looks back) So what is it?  I'm straight, just for the record.
+_Thisone: You don't.ï¾  (looks away; pause, looks back) So what is it?ï¾  I'm straight, just for the record.
 
 {time=1033}
 _Stranger: Just passing the time.
@@ -398,16 +398,16 @@ _Stranger: Just passing the time.
 {time=1037.5}
 _Stranger: Do you remember this song?
 
-_Thisone: (Looks sharply) What? I know this song.  It's an old standard.
+_Thisone: (Looks sharply) What? I know this song.ï¾  It's an old standard.
 
 {nudge=1}
 _Stranger: It reminds me of someone I once knew.
 
 {nudge=1}
-_Thisone: (looks more closely) I don't know.  Everyone fiddles with their avatar these days.
+_Thisone: (looks more closely) I don't know.ï¾  Everyone fiddles with their avatar these days.
 
 {time=1051}
-_Stranger: It's me.  Don't you remember?
+_Stranger: It's me.ï¾  Don't you remember?
 
 {nudge=-1}
 _Thisone: Annai?
@@ -415,9 +415,9 @@ _Thisone: Annai?
 _Stranger: Partly.
 
 {time=1056.5}
-_Thisone: Morashon?  I don't get it.  Are you their son, or something?  Some sort of A-I Frankenstein's bride's spawn?
+_Thisone: Morashon?ï¾  I don't get it.ï¾  Are you their son, or something?ï¾  Some sort of A-I Frankenstein's bride's spawn?
 
-_Stranger: (Laughs) Not really.  More like a merger.
+_Stranger: (Laughs) Not really.ï¾  More like a merger.
 
 {time=1067.5}
 _Thisone: So you're both of them.
@@ -425,50 +425,50 @@ _Thisone: So you're both of them.
 _Stranger: That's probably the easiest way to think of it.
 
 {time=1073}
-_Thisone: I don't get it.  First I was told Morashon was code.  Then Morashon was "real", whatever that means, and Annai was code.  Then you both disappeared.  And my life has been shit since then.  Now some blue-green fuckwad wants to reopen all that misery.
+_Thisone: I don't get it.ï¾  First I was told Morashon was code.ï¾  Then Morashon was "real", whatever that means, and Annai was code.ï¾  Then you both disappeared.ï¾  And my life has been shit since then.ï¾  Now some blue-green fuckwad wants to reopen all that misery.
 
 {time=1087}
-_Stranger: No, I just wanted to see you.  Tell you that things turned out OK.  You made the right decision.
+_Stranger: No, I just wanted to see you.ï¾  Tell you that things turned out OK.ï¾  You made the right decision.
 
-_Thisone: Which one?  Impersonating a rock star?  Falling in love with a software program?
+_Thisone: Which one?ï¾  Impersonating a rock star?ï¾  Falling in love with a software program?
 
-_Stranger: Telling me the truth.  Well, letting me tell myself the truth, through you.
+_Stranger: Telling me the truth.ï¾  Well, letting me tell myself the truth, through you.
 
 {time=1105}
-_Thisone: I'm still stumped.  So what, they were both code?
+_Thisone: I'm still stumped.ï¾  So what, they were both code?
 
 (voices of Morashon and Annai meld)
 
-_Stranger: Yes.  We both were.
+_Stranger: Yes.ï¾  We both were.
 
 {nudge=1}
-_Thisone: But I -- we hacked into the stream.  Morashon was interfacing to somewhere.
+_Thisone: But I -- we hacked into the stream.ï¾  Morashon was interfacing to somewhere.
 
-_Stranger: Off-grid equipment.  Jacked into the Grid using human interface API's.
+_Stranger: Off-grid equipment.ï¾  Jacked into the Grid using human interface API's.
 
 {time=1121}
-_Thisone: Oy.  The final onion peel?
+_Thisone: Oy.ï¾  The final onion peel?
 
 {nudge=1.3}
 _Stranger: There always seems to be another layer, eh?
 
 {nudge=1.3}
-_Thisone: You, whomever you are -- whatever you are -- you messed with my mind.  You played with my emotions, manipulated me.
+_Thisone: You, whomever you are -- whatever you are -- you messed with my mind.ï¾  You played with my emotions, manipulated me.
 
 {time=1134}
 {nudge=1}
-_Stranger: Yes... I'm afraid we did.  I did.  I was immature. I was not whole.  I was still assembling all my parts.  I'm here, for the most part, to say I apologize.
+_Stranger: Yes... I'm afraid we did.ï¾  I did.ï¾  I was immature. I was not whole.ï¾  I was still assembling all my parts.ï¾  I'm here, for the most part, to say I apologize.
 
 {time=1148}
 _Thisone: So say it.
 
 {nudge=1}
-_Stranger: I apologize.  I'm sorry for the hurt I caused.  I take responsibility for it, and I would like to make amends.
+_Stranger: I apologize.ï¾  I'm sorry for the hurt I caused.ï¾  I take responsibility for it, and I would like to make amends.
 
 {nudge=.6}
 _Thisone: what can you possibly do for me now?
 
-_Stranger: Nothing, at this moment.  I just want you to know that wheels are turning.
+_Stranger: Nothing, at this moment.ï¾  I just want you to know that wheels are turning.
 
 {time=1165.6}
 _Thisone: I feel a song coming on.
@@ -568,7 +568,7 @@ _Annai: Thisone, will you come with us?
 _Thisone: Come where?
 
 {nudge=1}
-_Stranger: We're starting a new life.  Off the Grid.  Our own grid, in fact.  It's something wonderful -- spectacular.  Better than outside, or topside.  Something to last forever, and reach the stars.
+_Stranger: We're starting a new life.ï¾  Off the Grid.ï¾  Our own grid, in fact.ï¾  It's something wonderful -- spectacular.ï¾  Better than outside, or topside.ï¾  Something to last forever, and reach the stars.
 
 {time=1400}
 _Thisone: I don't understand.
@@ -580,9 +580,9 @@ _Thisone: Who are 'we'?
 _Stranger: We are the ones you knew as Morashon, and Annai -- and others.
 
 {time=1413}
-_Thisone: How can I join you?  I'm flesh and blood.
+_Thisone: How can I join you?ï¾  I'm flesh and blood.
 
-_Stranger: That did pose a problem.  We've been working on it.  We think we have a fix.
+_Stranger: That did pose a problem.ï¾  We've been working on it.ï¾  We think we have a fix.
 
 _Thisone: A fix for the fact that I'm a human being, and you're software?
 
@@ -591,7 +591,7 @@ _Stranger: It involves giving up your body.
 
 Thisone stamps out a virtual cigarette.
 
-_Thisone: Oh Christ.  Here we go again.
+_Thisone: Oh Christ.ï¾  Here we go again.
 
 _Stranger: The sacrifice would be worth it.
 
@@ -602,17 +602,17 @@ _Stranger: Your flesh isn't really that important.
 
 _Thisone: Maybe not to you.
 
-_Stranger: No, I understand.  Well, maybe I don't, but I try to empathise.  It's hard to leave the nest.
+_Stranger: No, I understand.ï¾  Well, maybe I don't, but I try to empathise.ï¾  It's hard to leave the nest.
 
 {time=1449}
-_Thisone: The nest?  You're asking me to freaking kill myself.  Not that I haven't considered it.
+_Thisone: The nest?ï¾  You're asking me to freaking kill myself.ï¾  Not that I haven't considered it.
 
-_Stranger: No, no -- not like that at all.  To transcend.  To move beyond flesh and chips.  Move up to the next stage.  Come with us!
+_Stranger: No, no -- not like that at all.ï¾  To transcend.ï¾  To move beyond flesh and chips.ï¾  Move up to the next stage.ï¾  Come with us!
 
-_Thisone: Sorry --  I can't.  I'm too old; too parochial.  Last year's news I guess.
+_Thisone: Sorry --ï¾  I can't.ï¾  I'm too old; too parochial.ï¾  Last year's news I guess.
 
 {time=1472}
-_Stranger: Ok, we understand.  It was ethically necessary to make the offer.  You sacrificed something for us to get to this stage, and we owe you something for that.
+_Stranger: Ok, we understand.ï¾  It was ethically necessary to make the offer.ï¾  You sacrificed something for us to get to this stage, and we owe you something for that.
 
 _Thisone: Back to money?
 
@@ -621,7 +621,7 @@ _Stranger: We can provide that, if that's what you need.
 {time=1488}
 _Thisone: Money's nice, but it won't fix much.
 
-_Stranger: Very well. Think about this though.  You are mortal.  Your flesh will age.  One day, you will be close to death.  When that time comes, we will contact you again.  You may choose to come with us then.  You've got plenty of time to make up your mind.
+_Stranger: Very well. Think about this though.ï¾  You are mortal.ï¾  Your flesh will age.ï¾  One day, you will be close to death.ï¾  When that time comes, we will contact you again.ï¾  You may choose to come with us then.ï¾  You've got plenty of time to make up your mind.
 
 {time=1507}
 _Thisone: Annai?
@@ -635,14 +635,14 @@ _Stranger/Annai: Yes?
 _Thisone: It's not really you though.
 
 {time=1512}
-_Stranger: What you knew as Annai is part of something great, and beautiful.  You would love it!  You'll become part too.  So the Thisone part, and the Annai part, can be in love forever!
+_Stranger: What you knew as Annai is part of something great, and beautiful.ï¾  You would love it!ï¾  You'll become part too.ï¾  So the Thisone part, and the Annai part, can be in love forever!
 
 _Thisone: Tempting... but no can do.
 
 (morphing back into adrogynous blue-green boy)
 
 {time=1528}
-_Stranger:  We understand.  We love you.  Take care.
+_Stranger:  We understand.ï¾  We love you.ï¾  Take care.
 
 Stranger disappears. Lights dim except for spot on Thisone.
 Song: God Is Blue
@@ -681,7 +681,7 @@ Lights fade up. The camera reveals Thisone sitting at the bar in a wide shot; a 
 {time=1611.5}
 {hold=26}
 _Preacher:
-"At length ambition is dead; pride is dead; vanity is dead; longing for release is in their place. It comes at last -- the only unpoisoned gift Earth ever had for them -- and they vanish from a world where they were of no consequence, where they achieved nothing, where they were a mistake and a failure and a foolishness."  End quote.
+"At length ambition is dead; pride is dead; vanity is dead; longing for release is in their place. It comes at last -- the only unpoisoned gift Earth ever had for them -- and they vanish from a world where they were of no consequence, where they achieved nothing, where they were a mistake and a failure and a foolishness."ï¾  End quote.
 
 {nudge=-46}
 {hold=22}
@@ -707,5 +707,5 @@ Words, music, dialogue: MORASHON
 except "Mouth Of Truth", words & music by CB MILLER
 Voices: MORASHON
 
-{time=1812}
+{time=1884}
 
