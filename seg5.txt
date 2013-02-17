@@ -704,7 +704,7 @@ CREDITS ROLL
 {time=1685}
 _NOACTOR:
 Words, music, dialogue: MORASHON
-except "Mouth Of Truth", words & music by CB MILLER
+except "Mouth Of Truth", music, lyrics by CB MILLER
 Voices: MORASHON
 
 {time=1884}
