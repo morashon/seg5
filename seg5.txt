@@ -92,6 +92,7 @@ Who was the chosen one
 Lit by the midnight sun
 They'll call him Morashon
 
+{hold=99}
 Annai:
 I sing
 A song that makes me smile
@@ -100,7 +101,6 @@ Been singing all the while
 
 {time=255}
 {nudge=1.4}
-{hold=99}
 _Morashon and Thisone:
 Someone has to burn
 Someone has to pay for this mess
