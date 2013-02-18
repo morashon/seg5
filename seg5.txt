@@ -92,60 +92,61 @@ Who was the chosen one
 Lit by the midnight sun
 They'll call him Morashon
 
-{time=255}
-{hold=99}
-Morashon and Thisone:
-Someone has to burn
-Someone has to pay for this mess
-And it won't be me
-
-_Annai:
+Annai:
 I sing
 A song that makes me smile
 A song that's out of style
 Been singing all the while
 
+{time=255}
+{nudge=1.4}
+{hold=99}
+_Morashon and Thisone:
+Someone has to burn
+Someone has to pay for this mess
+And it won't be me
+
 {time=268}
 
-{nudge=2}
 {hold=99}
-Someone has to learn
-Someone's got to pay the price
-'Cause it's not for free
-And it ain't me
-
-_NOACTOR:
 A song that's in my heart
 It's tearing me apart
 If they don't care for me or my song
 Well let it be
 This is me
 
+{nudge=2}
+_NOACTOR:
+Someone has to learn
+Someone's got to pay the price
+'Cause it's not for free
+And it ain't me
+
 {time=286.4}
 
 {hold=99}
-Baby, It ain't me
-Baby It ain't me, no no
-It ain't me
-It ain't me
-
-_Baby this is me                        
+Baby this is me                        
 Baby this is me, oh oh            
 This is me                         
 This is me                                
 
+_Baby, It ain't me
+Baby It ain't me, no no
+It ain't me
+It ain't me
+
 {time=301.5}
 
 {hold=40}
-Baby it ain't me, no
+Baby this is me oh
+Morashon and me oh oh..         
+Yes it's me                         
+This is me                                 
+
+_Baby it ain't me, no
 Morashon not me, no no..
 It's not me
 It ain't me
-
-_Baby this is me now                
-Morashon and me now..         
-This is me                         
-This is me                                 
 
 {time=317.7}
 {hold=66}
