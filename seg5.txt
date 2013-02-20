@@ -87,6 +87,7 @@ A thousand lights will glimmer
 And the world will know
 
 {time=242}
+{hold=11}
 _NOACTOR:
 Who was the chosen one
 Lit by the midnight sun
