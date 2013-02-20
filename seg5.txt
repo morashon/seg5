@@ -709,5 +709,5 @@ Words, music, dialogue: MORASHON
 except "Mouth Of Truth", words & music by CB MILLER
 Voices: MORASHON
 
-{time=1812}
+{time=1884}
 
