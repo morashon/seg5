@@ -512,12 +512,10 @@ I'll never let you go
 {time=1235}
 _You will never fall
 While I can hold you
-(spoken: I love you)
 
 {time=1245}
 _You don't have to cry
 Though I won't stop you
-(spoken: I need you)
 
 {time=1256}
 _When I think of you
