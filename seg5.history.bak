@@ -1,203 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <UndoHistory>
-  <UndoTransaction tv-sec="1361000055" tv-usec="3909317424" name="region drag">
-    <StatefulDiffCommand obj-id="30462" type-name="ARDOUR::AudioRegion">
-      <Changes>
-        <position from="77309178" to="77329430"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <MementoCommand obj-id="21443" type-name="ARDOUR::AutomationList">
-      <AutomationList automation-id="gain" id="21443" default="1" min-yval="0" max-yval="1.99526226521" interpolation-style="Linear" state="Play" style="Absolute">
-        <events>0 1
-72290299 0.542271614074707
-73260078 1.43167448043823
-73629401 1.43167507648468
-77125615 0
-78756576 0
-78869356 0.156613186001778
-80109949 1.03546094894409
-</events>
-      </AutomationList>
-      <AutomationList automation-id="gain" id="21443" default="1" min-yval="0" max-yval="1.99526226521" interpolation-style="Linear" state="Play" style="Absolute">
-        <events>0 1
-72290299 0.542271614074707
-73260078 1.43167448043823
-73629401 1.43167507648468
-77125615 0
-78776828 0
-78889608 0.156613186001778
-80130201 1.03546094894409
-</events>
-      </AutomationList>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1361000067" tv-usec="3909317424" name="region drag">
-    <StatefulDiffCommand obj-id="30462" type-name="ARDOUR::AudioRegion">
-      <Changes>
-        <position from="77329430" to="77366136"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <MementoCommand obj-id="21443" type-name="ARDOUR::AutomationList">
-      <AutomationList automation-id="gain" id="21443" default="1" min-yval="0" max-yval="1.99526226521" interpolation-style="Linear" state="Play" style="Absolute">
-        <events>0 1
-72290299 0.542271614074707
-73260078 1.43167448043823
-73629401 1.43167507648468
-77125615 0
-78776828 0
-78889608 0.156613186001778
-80130201 1.03546094894409
-</events>
-      </AutomationList>
-      <AutomationList automation-id="gain" id="21443" default="1" min-yval="0" max-yval="1.99526226521" interpolation-style="Linear" state="Play" style="Absolute">
-        <events>0 1
-72290299 0.542271614074707
-73260078 1.43167448043823
-73629401 1.43167507648468
-77125615 0
-78813534 0
-78926314 0.156613186001778
-80166907 1.03546094894409
-</events>
-      </AutomationList>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1361000077" tv-usec="3909317424" name="region drag">
-    <StatefulDiffCommand obj-id="30462" type-name="ARDOUR::AudioRegion">
-      <Changes>
-        <position from="77366136" to="77378793"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <MementoCommand obj-id="21443" type-name="ARDOUR::AutomationList">
-      <AutomationList automation-id="gain" id="21443" default="1" min-yval="0" max-yval="1.99526226521" interpolation-style="Linear" state="Play" style="Absolute">
-        <events>0 1
-72290299 0.542271614074707
-73260078 1.43167448043823
-73629401 1.43167507648468
-77125615 0
-78813534 0
-78926314 0.156613186001778
-80166907 1.03546094894409
-</events>
-      </AutomationList>
-      <AutomationList automation-id="gain" id="21443" default="1" min-yval="0" max-yval="1.99526226521" interpolation-style="Linear" state="Play" style="Absolute">
-        <events>0 1
-72290299 0.542271614074707
-73260078 1.43167448043823
-73629401 1.43167507648468
-77125615 0
-78826191 0
-78938971 0.156613186001778
-80179564 1.03546094894409
-</events>
-      </AutomationList>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1361000091" tv-usec="3909317424" name="region drag">
-    <StatefulDiffCommand obj-id="30462" type-name="ARDOUR::AudioRegion">
-      <Changes>
-        <position from="77378793" to="77371198"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <MementoCommand obj-id="21443" type-name="ARDOUR::AutomationList">
-      <AutomationList automation-id="gain" id="21443" default="1" min-yval="0" max-yval="1.99526226521" interpolation-style="Linear" state="Play" style="Absolute">
-        <events>0 1
-72290299 0.542271614074707
-73260078 1.43167448043823
-73629401 1.43167507648468
-77125615 0
-78826191 0
-78938971 0.156613186001778
-80179564 1.03546094894409
-</events>
-      </AutomationList>
-      <AutomationList automation-id="gain" id="21443" default="1" min-yval="0" max-yval="1.99526226521" interpolation-style="Linear" state="Play" style="Absolute">
-        <events>0 1
-72290299 0.542271614074707
-73260078 1.43167448043823
-73629401 1.43167507648468
-77125615 0
-78818596 0
-78931376 0.156613186001778
-80171969 1.03546094894409
-</events>
-      </AutomationList>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1361000108" tv-usec="3909317424" name="add automation event">
-    <MementoCommand obj-id="21443" type-name="ARDOUR::AutomationList">
-      <AutomationList automation-id="gain" id="21443" default="1" min-yval="0" max-yval="1.99526226521" interpolation-style="Linear" state="Play" style="Absolute">
-        <events>0 1
-72290299 0.542271614074707
-73260078 1.43167448043823
-73629401 1.43167507648468
-77125615 0
-78818596 0
-78931376 0.156613186001778
-80171969 1.03546094894409
-</events>
-      </AutomationList>
-      <AutomationList automation-id="gain" id="21443" default="1" min-yval="0" max-yval="1.99526226521" interpolation-style="Linear" state="Play" style="Absolute">
-        <events>0 1
-72290299 0.542271614074707
-73260078 1.43167448043823
-73629401 1.43167507648468
-77125615 0
-78818596 0
-78931376 0.156613186001778
-79231326 0.683062553405762
-79231327 1.03546094894409
-80171969 1.03546094894409
-</events>
-      </AutomationList>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1361000110" tv-usec="3909317424" name="automation event move">
-    <MementoUndoCommand obj-id="21443" type-name="ARDOUR::AutomationList">
-      <AutomationList automation-id="gain" id="21443" default="1" min-yval="0" max-yval="1.99526226521" interpolation-style="Linear" state="Play" style="Absolute">
-        <events>0 1
-72290299 0.542271614074707
-73260078 1.43167448043823
-73629401 1.43167507648468
-77125615 0
-78818596 0
-78931376 0.156613186001778
-79231326 0.683062553405762
-79231327 1.03546094894409
-80171969 1.03546094894409
-</events>
-      </AutomationList>
-    </MementoUndoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1361000111" tv-usec="3909317424" name="delete objects">
-    <MementoCommand obj-id="21443" type-name="ARDOUR::AutomationList">
-      <AutomationList automation-id="gain" id="21443" default="1" min-yval="0" max-yval="1.99526226521" interpolation-style="Linear" state="Play" style="Absolute">
-        <events>0 1
-72290299 0.542271614074707
-73260078 1.43167448043823
-73629401 1.43167507648468
-77125615 0
-78818596 0
-78931376 0.156613186001778
-79231326 0.683062553405762
-79231327 1.03546094894409
-80171969 1.03546094894409
-</events>
-      </AutomationList>
-      <AutomationList automation-id="gain" id="21443" default="1" min-yval="0" max-yval="1.99526226521" interpolation-style="Linear" state="Play" style="Absolute">
-        <events>0 1
-72290299 0.542271614074707
-73260078 1.43167448043823
-73629401 1.43167507648468
-77125615 0
-78818596 0
-78931376 0.156613186001778
-79231326 0.683062553405762
-80171969 1.03546094894409
-</events>
-      </AutomationList>
-    </MementoCommand>
-  </UndoTransaction>
   <UndoTransaction tv-sec="1361000137" tv-usec="3909317424" name="region drag">
     <StatefulDiffCommand obj-id="30462" type-name="ARDOUR::AudioRegion">
       <Changes>
@@ -453,7 +255,7 @@
       </Locations>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1361393045" tv-usec="573434" name="region drag">
+  <UndoTransaction tv-sec="1361393045" tv-usec="3909317424" name="region drag">
     <StatefulDiffCommand obj-id="30462" type-name="ARDOUR::AudioRegion">
       <Changes>
         <position from="77199058" to="77367505"/>
@@ -487,5 +289,400 @@
 </events>
       </AutomationList>
     </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1361609175" tv-usec="15728" name="insert file">
+    <StatefulDiffCommand obj-id="33057" type-name="ARDOUR::AudioPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="33075"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1361609180" tv-usec="236344" name="Region end trim">
+    <StatefulDiffCommand obj-id="33075" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <length from="14642891" to="12977940"/>
+        <Envelope>
+          <from>
+            <AutomationList automation-id="envelope" id="33092" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
+              <events>0 1
+14642891 1
+</events>
+            </AutomationList>
+          </from>
+          <to>
+            <AutomationList automation-id="envelope" id="33093" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
+              <events>0 1
+12977940 1
+</events>
+            </AutomationList>
+          </to>
+        </Envelope>
+      </Changes>
+    </StatefulDiffCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1361609188" tv-usec="82640" name="region drag">
+    <StatefulDiffCommand obj-id="4322" type-name="ARDOUR::AudioPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="33095"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="33057" type-name="ARDOUR::AudioPlaylist">
+      <Changes>
+        <Regions>
+          <Remove id="33075"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1361609222" tv-usec="645733" name="region drag">
+    <StatefulDiffCommand obj-id="33095" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <position from="48878203" to="48907486"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="23438" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="pan-azimuth" id="23438" default="0" min-yval="0" max-yval="1" interpolation-style="Linear" state="Touch" style="Absolute">
+        <events>178388 0.495852172374725
+45429378 0.495852228668001
+48343041 1
+51557701 0.495852172374725
+</events>
+      </AutomationList>
+      <AutomationList automation-id="pan-azimuth" id="23438" default="0" min-yval="0" max-yval="1" interpolation-style="Linear" state="Touch" style="Absolute">
+        <events>178388 0.495852172374725
+45429378 0.495852228668001
+48343041 1
+51586984 0.495852172374725
+</events>
+      </AutomationList>
+    </MementoCommand>
+    <MementoCommand obj-id="23442" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="pan-width" id="23442" default="0" min-yval="-1" max-yval="1" interpolation-style="Linear" state="Touch" style="Absolute">
+        <events>0 1
+46380778 1
+48224117 0.134741001658969
+51319851 1
+72584465 1
+72584465 -0.0983606557377049
+72588561 -0.0327868852459016
+72588561 -0.590163934426229
+72592657 -0.163934426229508
+72592657 -0.819672131147541
+72596753 -0.819672131147541
+72596753 -0.950819672131148
+72600849 -0.983606557377049
+72625425 -0.983606557377049
+</events>
+      </AutomationList>
+      <AutomationList automation-id="pan-width" id="23442" default="0" min-yval="-1" max-yval="1" interpolation-style="Linear" state="Touch" style="Absolute">
+        <events>0 1
+46380778 1
+48224117 0.134741001658969
+51349134 1
+72584465 1
+72584465 -0.0983606557377049
+72588561 -0.0327868852459016
+72588561 -0.590163934426229
+72592657 -0.163934426229508
+72592657 -0.819672131147541
+72596753 -0.819672131147541
+72596753 -0.950819672131148
+72600849 -0.983606557377049
+72625425 -0.983606557377049
+</events>
+      </AutomationList>
+    </MementoCommand>
+    <MementoCommand obj-id="73" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="gain" id="73" default="1" min-yval="0" max-yval="2" interpolation-style="Linear" state="Play" style="Absolute">
+        <events>0 0
+0 0.203170374035835
+428939 0.73127019405365
+1843340 0.813829123973846
+15342661 0.813829123973846
+17265757 0.00110735045745969
+17658799 0
+22866600 0
+23029979 1.25103938579559
+31926739 1.23960328102112
+32504266 1.46572828292847
+32993382 1.39777195453644
+33189904 1.21121466159821
+35671302 1.24582481384277
+35778536 1.43167507648468
+39972868 1.40197861194611
+40061373 1.09350299835205
+40920514 1.13485682010651
+40951420 1.39568400382996
+41907167 1.41466617584229
+42076016 0.874704957008362
+42243476 0.0514685772359371
+42370395 0.00529530923813581
+48915613 0
+49600506 0.117666974663734
+51458340 0.47988373041153
+51666368 1.46806645393372
+52383555 1.53316473960876
+58507790 1.53316473960876
+60286816 1.11798429489136
+60861445 0.389165550470352
+61624992 0.133344829082489
+62882560 0.00445273891091347
+65296881 1.08577891122508e-09
+65662324 0.127604752779007
+67839887 0.816348791122437
+71015765 0.803610563278198
+71102521 1.00049245357513
+72159059 1.00049245357513
+72525546 1.05060148239136
+73227908 1.08498692512512
+73361951 1.26964557170868
+</events>
+      </AutomationList>
+      <AutomationList automation-id="gain" id="73" default="1" min-yval="0" max-yval="2" interpolation-style="Linear" state="Play" style="Absolute">
+        <events>0 0
+0 0.203170374035835
+428939 0.73127019405365
+1843340 0.813829123973846
+15342661 0.813829123973846
+17265757 0.00110735045745969
+17658799 0
+22866600 0
+23029979 1.25103938579559
+31926739 1.23960328102112
+32504266 1.46572828292847
+32993382 1.39777195453644
+33189904 1.21121466159821
+35671302 1.24582481384277
+35778536 1.43167507648468
+39972868 1.40197861194611
+40061373 1.09350299835205
+40920514 1.13485682010651
+40951420 1.39568400382996
+41907167 1.41466617584229
+42076016 0.874704957008362
+42243476 0.0514685772359371
+42370395 0.00529530923813581
+48944896 0
+49629789 0.117666974663734
+51487623 0.47988373041153
+51695651 1.46806645393372
+52412838 1.53316473960876
+58537073 1.53316473960876
+60316099 1.11798429489136
+60890728 0.389165550470352
+61654275 0.133344829082489
+62882560 0.00445273891091347
+65296881 1.08577891122508e-09
+65662324 0.127604752779007
+67839887 0.816348791122437
+71015765 0.803610563278198
+71102521 1.00049245357513
+72159059 1.00049245357513
+72525546 1.05060148239136
+73227908 1.08498692512512
+73361951 1.26964557170868
+</events>
+      </AutomationList>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1361609229" tv-usec="755896" name="region drag">
+    <StatefulDiffCommand obj-id="33095" type-name="ARDOUR::AudioRegion">
+      <Changes/>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="23438" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="pan-azimuth" id="23438" default="0" min-yval="0" max-yval="1" interpolation-style="Linear" state="Touch" style="Absolute">
+        <events>178388 0.495852172374725
+45429378 0.495852228668001
+48343041 1
+51586984 0.495852172374725
+</events>
+      </AutomationList>
+      <AutomationList automation-id="pan-azimuth" id="23438" default="0" min-yval="0" max-yval="1" interpolation-style="Linear" state="Touch" style="Absolute">
+        <events>178388 0.495852172374725
+45429378 0.495852228668001
+48343041 1
+51586984 0.495852172374725
+</events>
+      </AutomationList>
+    </MementoCommand>
+    <MementoCommand obj-id="23442" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="pan-width" id="23442" default="0" min-yval="-1" max-yval="1" interpolation-style="Linear" state="Touch" style="Absolute">
+        <events>0 1
+46380778 1
+48224117 0.134741001658969
+51349134 1
+72584465 1
+72584465 -0.0983606557377049
+72588561 -0.0327868852459016
+72588561 -0.590163934426229
+72592657 -0.163934426229508
+72592657 -0.819672131147541
+72596753 -0.819672131147541
+72596753 -0.950819672131148
+72600849 -0.983606557377049
+72625425 -0.983606557377049
+</events>
+      </AutomationList>
+      <AutomationList automation-id="pan-width" id="23442" default="0" min-yval="-1" max-yval="1" interpolation-style="Linear" state="Touch" style="Absolute">
+        <events>0 1
+46380778 1
+48224117 0.134741001658969
+51349134 1
+72584465 1
+72584465 -0.0983606557377049
+72588561 -0.0327868852459016
+72588561 -0.590163934426229
+72592657 -0.163934426229508
+72592657 -0.819672131147541
+72596753 -0.819672131147541
+72596753 -0.950819672131148
+72600849 -0.983606557377049
+72625425 -0.983606557377049
+</events>
+      </AutomationList>
+    </MementoCommand>
+    <MementoCommand obj-id="73" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="gain" id="73" default="1" min-yval="0" max-yval="2" interpolation-style="Linear" state="Play" style="Absolute">
+        <events>0 0
+0 0.203170374035835
+428939 0.73127019405365
+1843340 0.813829123973846
+15342661 0.813829123973846
+17265757 0.00110735045745969
+17658799 0
+22866600 0
+23029979 1.25103938579559
+31926739 1.23960328102112
+32504266 1.46572828292847
+32993382 1.39777195453644
+33189904 1.21121466159821
+35671302 1.24582481384277
+35778536 1.43167507648468
+39972868 1.40197861194611
+40061373 1.09350299835205
+40920514 1.13485682010651
+40951420 1.39568400382996
+41907167 1.41466617584229
+42076016 0.874704957008362
+42243476 0.0514685772359371
+42370395 0.00529530923813581
+48944896 0
+49629789 0.117666974663734
+51487623 0.47988373041153
+51695651 1.46806645393372
+52412838 1.53316473960876
+58537073 1.53316473960876
+60316099 1.11798429489136
+60890728 0.389165550470352
+61654275 0.133344829082489
+62882560 0.00445273891091347
+65296881 1.08577891122508e-09
+65662324 0.127604752779007
+67839887 0.816348791122437
+71015765 0.803610563278198
+71102521 1.00049245357513
+72159059 1.00049245357513
+72525546 1.05060148239136
+73227908 1.08498692512512
+73361951 1.26964557170868
+</events>
+      </AutomationList>
+      <AutomationList automation-id="gain" id="73" default="1" min-yval="0" max-yval="2" interpolation-style="Linear" state="Play" style="Absolute">
+        <events>0 0
+0 0.203170374035835
+428939 0.73127019405365
+1843340 0.813829123973846
+15342661 0.813829123973846
+17265757 0.00110735045745969
+17658799 0
+22866600 0
+23029979 1.25103938579559
+31926739 1.23960328102112
+32504266 1.46572828292847
+32993382 1.39777195453644
+33189904 1.21121466159821
+35671302 1.24582481384277
+35778536 1.43167507648468
+39972868 1.40197861194611
+40061373 1.09350299835205
+40920514 1.13485682010651
+40951420 1.39568400382996
+41907167 1.41466617584229
+42076016 0.874704957008362
+42243476 0.0514685772359371
+42370395 0.00529530923813581
+48944896 0
+49629789 0.117666974663734
+51487623 0.47988373041153
+51695651 1.46806645393372
+52412838 1.53316473960876
+58537073 1.53316473960876
+60316099 1.11798429489136
+60890728 0.389165550470352
+61654275 0.133344829082489
+62882560 0.00445273891091347
+65296881 1.08577891122508e-09
+65662324 0.127604752779007
+67839887 0.816348791122437
+71015765 0.803610563278198
+71102521 1.00049245357513
+72159059 1.00049245357513
+72525546 1.05060148239136
+73227908 1.08498692512512
+73361951 1.26964557170868
+</events>
+      </AutomationList>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1361609241" tv-usec="828978" name="delete objects">
+    <StatefulDiffCommand obj-id="33095" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <layering-index from="6" to="5"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="2457" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <layering-index from="4" to="3"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="21691" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <layering-index from="5" to="4"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="4322" type-name="ARDOUR::AudioPlaylist">
+      <Changes>
+        <Regions>
+          <Remove id="2182"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1361609245" tv-usec="826865" name="Region end trim">
+    <StatefulDiffCommand obj-id="33095" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <length from="12977940" to="14642891"/>
+        <Envelope>
+          <from>
+            <AutomationList automation-id="envelope" id="33191" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
+              <events>0 1
+12977940 1
+</events>
+            </AutomationList>
+          </from>
+          <to>
+            <AutomationList automation-id="envelope" id="33192" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
+              <events>0 1
+14642891 1
+</events>
+            </AutomationList>
+          </to>
+        </Envelope>
+      </Changes>
+    </StatefulDiffCommand>
   </UndoTransaction>
 </UndoHistory>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="3001" name="seg5" sample-rate="44100" id-counter="31819" event-counter="0">
+<Session version="3001" name="seg5" sample-rate="44100" id-counter="33193" event-counter="0">
   <Config>
     <Option name="xfade-choice" value="ConstantPowerMinus3dB"/>
     <Option name="destructive-xfade-msecs" value="2"/>
@@ -55,6 +55,8 @@
     <Source name="starlite_instr-R.wav" type="audio" flags="" id="6421" channel="0" origin="/home/dbm/bench/dangit/morashon/reading/starlite_instr.wav"/>
     <Source name="starlite_theme_d4cba6-L.wav" type="audio" flags="" id="30389" channel="0" origin="/home/dbm/bench/morashonMix/morashon/score/ambient/starlite_theme_d4cba6.wav"/>
     <Source name="starlite_theme_d4cba6-R.wav" type="audio" flags="" id="30391" channel="0" origin="/home/dbm/bench/morashonMix/morashon/score/ambient/starlite_theme_d4cba6.wav"/>
+    <Source name="over_dubb-L.wav" type="audio" flags="" id="33016" channel="0" origin="/home/dbm/bench/morashonMix/morashon/score/over_and_over/over_dubb.wav"/>
+    <Source name="over_dubb-R.wav" type="audio" flags="" id="33018" channel="0" origin="/home/dbm/bench/morashonMix/morashon/score/over_and_over/over_dubb.wav"/>
   </Sources>
   <Regions>
     <Region locked="0" name="ruf_ballad_d508b4" position="0" length="17745481" stretch="1" muted="0" opaque="1" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" sync-position="0" ancestral-start="0" ancestral-length="0" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="66" type="audio" first-edit="nothing" source-0="62" source-1="64" master-source-0="62" master-source-1="64" channels="2">
@@ -1061,6 +1063,107 @@
       </FadeOut>
       <InvFadeOut>
         <AutomationList automation-id="fadeout" id="4310" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
+          <events>0 1e-07
+64 1
+</events>
+        </AutomationList>
+      </InvFadeOut>
+    </Region>
+    <Region locked="0" name="ruf_over_45be73" position="48907510" length="14642891" stretch="1" muted="0" opaque="1" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" sync-position="0" ancestral-start="0" ancestral-length="0" shift="1" positional-lock-style="AudioTime" layering-index="3" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="2182" type="audio" first-edit="nothing" source-0="2140" source-1="2142" master-source-0="2140" master-source-1="2142" channels="2">
+      <FadeIn>
+        <AutomationList automation-id="fadein" id="4346" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
+          <events>0 0
+64 1
+</events>
+        </AutomationList>
+      </FadeIn>
+      <InverseFadeIn>
+        <AutomationList automation-id="fadein" id="4347" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
+          <events>0 1
+64 0
+</events>
+        </AutomationList>
+      </InverseFadeIn>
+      <FadeOut>
+        <AutomationList automation-id="fadeout" id="4348" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
+          <events>0 1
+64 1e-07
+</events>
+        </AutomationList>
+      </FadeOut>
+      <InverseFadeOut>
+        <AutomationList automation-id="fadeout" id="4349" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
+          <events>0 1e-07
+64 1
+</events>
+        </AutomationList>
+      </InverseFadeOut>
+      <Envelope>
+        <AutomationList automation-id="envelope" id="4350" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
+          <events>0 1
+14642891 1
+</events>
+        </AutomationList>
+      </Envelope>
+      <FadeIn>
+        <AutomationList automation-id="fadein" id="4346" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
+          <events>0 0
+64 1
+</events>
+        </AutomationList>
+      </FadeIn>
+      <InverseFadeIn>
+        <AutomationList automation-id="fadein" id="4347" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
+          <events>0 1
+64 0
+</events>
+        </AutomationList>
+      </InverseFadeIn>
+      <FadeOut>
+        <AutomationList automation-id="fadeout" id="4348" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
+          <events>0 1
+64 1e-07
+</events>
+        </AutomationList>
+      </FadeOut>
+      <InverseFadeOut>
+        <AutomationList automation-id="fadeout" id="4349" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
+          <events>0 1e-07
+64 1
+</events>
+        </AutomationList>
+      </InverseFadeOut>
+      <Envelope>
+        <AutomationList automation-id="envelope" id="4350" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
+          <events>0 1
+14642891 1
+</events>
+        </AutomationList>
+      </Envelope>
+      <Envelope default="yes"/>
+      <FadeIn>
+        <AutomationList automation-id="fadein" id="4346" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
+          <events>0 0
+64 1
+</events>
+        </AutomationList>
+      </FadeIn>
+      <InvFadeIn>
+        <AutomationList automation-id="fadein" id="4347" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
+          <events>0 1
+64 0
+</events>
+        </AutomationList>
+      </InvFadeIn>
+      <FadeOut>
+        <AutomationList automation-id="fadeout" id="4348" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
+          <events>0 1
+64 1e-07
+</events>
+        </AutomationList>
+      </FadeOut>
+      <InvFadeOut>
+        <AutomationList automation-id="fadeout" id="4349" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
           <events>0 1e-07
 64 1
 </events>
@@ -2511,6 +2614,166 @@
         </AutomationList>
       </InvFadeOut>
     </Region>
+    <Region locked="0" name="over_dubb" position="0" length="14642891" stretch="1" muted="0" opaque="1" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" sync-position="0" ancestral-start="0" ancestral-length="0" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="33020" type="audio" first-edit="nothing" source-0="33016" source-1="33018" master-source-0="33016" master-source-1="33018" channels="2">
+      <FadeIn>
+        <AutomationList automation-id="fadein" id="33021" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
+          <events>0 0
+64 1
+</events>
+        </AutomationList>
+      </FadeIn>
+      <InverseFadeIn>
+        <AutomationList automation-id="fadein" id="33022" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
+          <events>0 1
+64 0
+</events>
+        </AutomationList>
+      </InverseFadeIn>
+      <FadeOut>
+        <AutomationList automation-id="fadeout" id="33023" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
+          <events>0 1
+64 1e-07
+</events>
+        </AutomationList>
+      </FadeOut>
+      <InverseFadeOut>
+        <AutomationList automation-id="fadeout" id="33024" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
+          <events>0 1e-07
+64 1
+</events>
+        </AutomationList>
+      </InverseFadeOut>
+      <Envelope>
+        <AutomationList automation-id="envelope" id="33025" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
+          <events>0 1
+14642891 1
+</events>
+        </AutomationList>
+      </Envelope>
+      <FadeIn>
+        <AutomationList automation-id="fadein" id="33021" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
+          <events>0 0
+64 1
+</events>
+        </AutomationList>
+      </FadeIn>
+      <InverseFadeIn>
+        <AutomationList automation-id="fadein" id="33022" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
+          <events>0 1
+64 0
+</events>
+        </AutomationList>
+      </InverseFadeIn>
+      <FadeOut>
+        <AutomationList automation-id="fadeout" id="33023" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
+          <events>0 1
+64 1e-07
+</events>
+        </AutomationList>
+      </FadeOut>
+      <InverseFadeOut>
+        <AutomationList automation-id="fadeout" id="33024" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
+          <events>0 1e-07
+64 1
+</events>
+        </AutomationList>
+      </InverseFadeOut>
+      <Envelope>
+        <AutomationList automation-id="envelope" id="33025" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
+          <events>0 1
+14642891 1
+</events>
+        </AutomationList>
+      </Envelope>
+      <Envelope default="yes"/>
+      <FadeIn>
+        <AutomationList automation-id="fadein" id="33021" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
+          <events>0 0
+64 1
+</events>
+        </AutomationList>
+      </FadeIn>
+      <InvFadeIn>
+        <AutomationList automation-id="fadein" id="33022" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
+          <events>0 1
+64 0
+</events>
+        </AutomationList>
+      </InvFadeIn>
+      <FadeOut>
+        <AutomationList automation-id="fadeout" id="33023" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
+          <events>0 1
+64 1e-07
+</events>
+        </AutomationList>
+      </FadeOut>
+      <InvFadeOut>
+        <AutomationList automation-id="fadeout" id="33024" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
+          <events>0 1e-07
+64 1
+</events>
+        </AutomationList>
+      </InvFadeOut>
+    </Region>
+    <Region locked="0" name="over_dubb.1" position="0" length="12977940" stretch="1" muted="0" opaque="1" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" sync-position="0" ancestral-start="0" ancestral-length="0" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="33075" type="audio" first-edit="nothing" source-0="33016" source-1="33018" master-source-0="33016" master-source-1="33018" channels="2">
+      <FadeIn>
+        <AutomationList automation-id="fadein" id="33076" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
+          <events>0 0
+64 1
+</events>
+        </AutomationList>
+      </FadeIn>
+      <Envelope>
+        <AutomationList automation-id="envelope" id="33080" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
+          <events>0 1
+12977940 1
+</events>
+        </AutomationList>
+      </Envelope>
+      <FadeIn>
+        <AutomationList automation-id="fadein" id="33076" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
+          <events>0 0
+64 1
+</events>
+        </AutomationList>
+      </FadeIn>
+      <Envelope>
+        <AutomationList automation-id="envelope" id="33080" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
+          <events>0 1
+12977940 1
+</events>
+        </AutomationList>
+      </Envelope>
+      <Envelope default="yes"/>
+      <FadeIn>
+        <AutomationList automation-id="fadein" id="33076" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
+          <events>0 0
+64 1
+</events>
+        </AutomationList>
+      </FadeIn>
+      <InvFadeIn>
+        <AutomationList automation-id="fadein" id="33077" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
+          <events>0 1
+64 0
+</events>
+        </AutomationList>
+      </InvFadeIn>
+      <FadeOut>
+        <AutomationList automation-id="fadeout" id="33078" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
+          <events>0 1
+64 1e-07
+</events>
+        </AutomationList>
+      </FadeOut>
+      <InvFadeOut>
+        <AutomationList automation-id="fadeout" id="33079" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
+          <events>0 1e-07
+64 1
+</events>
+        </AutomationList>
+      </InvFadeOut>
+    </Region>
   </Regions>
   <Locations>
     <Location id="4237" name="session" start="0" end="97665315" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
@@ -2523,28 +2786,28 @@
     <Route id="18" name="master" default-type="audio" flags="MasterOut" active="yes" phase-invert="00" denormal-protection="no" meter-point="MeterPostFader" order-keys="EditorSort=0:MixerSort=0" self-solo="no" soloed-by-upstream="0" soloed-by-downstream="0" solo-isolated="no" solo-safe="no">
       <IO name="master" id="18" direction="Input" default-type="audio" user-latency="0">
         <Port type="audio" name="master/audio_in 1">
-          <Connection other="YouEndIntro/audio_out 1"/>
+          <Connection other="over_dubb/audio_out 1"/>
           <Connection other="Music/audio_out 1"/>
-          <Connection other="starlite_theme_d4cba6/audio_out 1"/>
+          <Connection other="YouEndIntro/audio_out 1"/>
           <Connection other="Stranger/audio_out 1"/>
           <Connection other="outro_speech/audio_out 1"/>
-          <Connection other="ballroom/audio_out 1"/>
           <Connection other="ruf_outro/audio_out 1"/>
           <Connection other="Annai/audio_out 1"/>
           <Connection other="starlite_instr/audio_out 1"/>
           <Connection other="Thisone/audio_out 1"/>
+          <Connection other="ballroom/audio_out 1"/>
         </Port>
         <Port type="audio" name="master/audio_in 2">
-          <Connection other="YouEndIntro/audio_out 2"/>
+          <Connection other="over_dubb/audio_out 2"/>
           <Connection other="Music/audio_out 2"/>
-          <Connection other="starlite_theme_d4cba6/audio_out 2"/>
+          <Connection other="YouEndIntro/audio_out 2"/>
           <Connection other="Stranger/audio_out 2"/>
           <Connection other="outro_speech/audio_out 2"/>
-          <Connection other="ballroom/audio_out 2"/>
           <Connection other="ruf_outro/audio_out 2"/>
           <Connection other="Annai/audio_out 2"/>
           <Connection other="starlite_instr/audio_out 2"/>
           <Connection other="Thisone/audio_out 2"/>
+          <Connection other="ballroom/audio_out 2"/>
         </Port>
       </IO>
       <IO name="master" id="18" direction="Output" default-type="audio" user-latency="0">
@@ -2600,7 +2863,7 @@
       <RemoteControl id="1"/>
       <Pannable>
         <Controllable name="pan-azimuth" id="4551" flags="" value="0.495852172375"/>
-        <Controllable name="pan-width" id="4555" flags="" value="-0.983606557377"/>
+        <Controllable name="pan-width" id="4555" flags="" value="1.000000000000"/>
         <Controllable name="pan-elevation" id="4553" flags="" value="0.000000000000"/>
         <Controllable name="pan-frontback" id="4557" flags="" value="0.000000000000"/>
         <Controllable name="pan-lfe" id="4559" flags="" value="0.000000000000"/>
@@ -2609,14 +2872,14 @@
             <events>178388 0.495852172374725
 45429378 0.495852228668001
 48343041 1
-51557701 0.495852172374725
+51586984 0.495852172374725
 </events>
           </AutomationList>
           <AutomationList automation-id="pan-width" id="23442" default="0" min-yval="-1" max-yval="1" interpolation-style="Linear" state="Touch" style="Absolute">
             <events>0 1
 46380778 1
 48224117 0.134741001658969
-51319851 1
+51349134 1
 72584465 1
 72584465 -0.0983606557377049
 72588561 -0.0327868852459016
@@ -2657,15 +2920,15 @@
 42076016 0.874704957008362
 42243476 0.0514685772359371
 42370395 0.00529530923813581
-48915613 0
-49600506 0.117666974663734
-51458340 0.47988373041153
-51666368 1.46806645393372
-52383555 1.53316473960876
-58507790 1.53316473960876
-60286816 1.11798429489136
-60861445 0.389165550470352
-61624992 0.133344829082489
+48944896 0
+49629789 0.117666974663734
+51487623 0.47988373041153
+51695651 1.46806645393372
+52412838 1.53316473960876
+58537073 1.53316473960876
+60316099 1.11798429489136
+60890728 0.389165550470352
+61654275 0.133344829082489
 62882560 0.00445273891091347
 65296881 1.08577891122508e-09
 65662324 0.127604752779007
@@ -2679,7 +2942,7 @@
 </events>
           </AutomationList>
         </Automation>
-        <Controllable name="gaincontrol" id="4564" flags="GainLike" value="1.269645571709"/>
+        <Controllable name="gaincontrol" id="4564" flags="GainLike" value="0.309696141845"/>
       </Processor>
       <Processor id="19596" name="SC4" active="yes" user-latency="0" type="ladspa" unique-id="1882" count="1">
         <ladspa last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="yes">
@@ -2753,7 +3016,7 @@
 </events>
           </AutomationList>
         </Automation>
-        <Controllable name="gaincontrol" id="4897" flags="GainLike" value="0.753877681269"/>
+        <Controllable name="gaincontrol" id="4897" flags="GainLike" value="0.612949668993"/>
       </Processor>
       <Processor id="22800" name="Glame Bandpass Analog Filter" active="yes" user-latency="0" type="ladspa" unique-id="1893" count="2">
         <Automation>
@@ -2817,11 +3080,11 @@
           </AutomationList>
         </Automation>
         <ladspa last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="yes">
-          <Port number="0" value="+2630.370361"/>
-          <Port number="1" value="+5256.331055"/>
+          <Port number="0" value="+4783.954590"/>
+          <Port number="1" value="+2188.764404"/>
         </ladspa>
-        <Controllable name="Center Frequency (Hz)" id="22802" flags="" value="2630.370361328125" parameter="0"/>
-        <Controllable name="Bandwidth (Hz)" id="22804" flags="" value="5256.331054687500" parameter="1"/>
+        <Controllable name="Center Frequency (Hz)" id="22802" flags="" value="4783.954589843750" parameter="0"/>
+        <Controllable name="Bandwidth (Hz)" id="22804" flags="" value="2188.764404296875" parameter="1"/>
       </Processor>
       <Processor id="4898" name="Meter" active="yes" user-latency="0" type="meter"/>
       <Processor id="4899" name="YouEndIntro" active="yes" user-latency="0" own-input="yes" own-output="no" output="YouEndIntro" type="main-outs" role="Main">
@@ -3328,46 +3591,46 @@
         </PannerShell>
       </Processor>
     </Route>
-    <Route id="30402" name="starlite_theme_d4cba6" default-type="audio" active="yes" phase-invert="00" denormal-protection="no" meter-point="MeterPostFader" order-keys="EditorSort=11:MixerSort=11" self-solo="no" soloed-by-upstream="0" soloed-by-downstream="0" solo-isolated="no" solo-safe="no" monitoring="" saved-meter-point="MeterPostFader" mode="Normal">
-      <IO name="starlite_theme_d4cba6" id="30419" direction="Input" default-type="audio" user-latency="0">
-        <Port type="audio" name="starlite_theme_d4cba6/audio_in 1">
+    <Route id="33029" name="over_dubb" default-type="audio" active="yes" phase-invert="00" denormal-protection="no" meter-point="MeterPostFader" order-keys="EditorSort=11:MixerSort=11" self-solo="no" soloed-by-upstream="0" soloed-by-downstream="0" solo-isolated="no" solo-safe="no" monitoring="" saved-meter-point="MeterPostFader" mode="Normal">
+      <IO name="over_dubb" id="33046" direction="Input" default-type="audio" user-latency="0">
+        <Port type="audio" name="over_dubb/audio_in 1">
           <Connection other="system:capture_2"/>
         </Port>
-        <Port type="audio" name="starlite_theme_d4cba6/audio_in 2">
+        <Port type="audio" name="over_dubb/audio_in 2">
           <Connection other="system:capture_1"/>
         </Port>
       </IO>
-      <IO name="starlite_theme_d4cba6" id="30420" direction="Output" default-type="audio" user-latency="0">
-        <Port type="audio" name="starlite_theme_d4cba6/audio_out 1">
+      <IO name="over_dubb" id="33047" direction="Output" default-type="audio" user-latency="0">
+        <Port type="audio" name="over_dubb/audio_out 1">
           <Connection other="master/audio_in 1"/>
         </Port>
-        <Port type="audio" name="starlite_theme_d4cba6/audio_out 2">
+        <Port type="audio" name="over_dubb/audio_out 2">
           <Connection other="master/audio_in 2"/>
         </Port>
       </IO>
-      <Controllable name="solo" id="30404" flags="Toggle" value="0.000000000000"/>
-      <Controllable name="mute" id="30406" flags="Toggle" value="0.000000000000"/>
+      <Controllable name="solo" id="33031" flags="Toggle" value="0.000000000000"/>
+      <Controllable name="mute" id="33033" flags="Toggle" value="0.000000000000"/>
       <MuteMaster mute-point="PreFader,PostFader,Listen,Main" muted="no"/>
       <RemoteControl id="11"/>
       <Pannable>
-        <Controllable name="pan-azimuth" id="30410" flags="" value="0.500000000000"/>
-        <Controllable name="pan-width" id="30414" flags="" value="1.000000000000"/>
-        <Controllable name="pan-elevation" id="30412" flags="" value="0.000000000000"/>
-        <Controllable name="pan-frontback" id="30416" flags="" value="0.000000000000"/>
-        <Controllable name="pan-lfe" id="30418" flags="" value="0.000000000000"/>
+        <Controllable name="pan-azimuth" id="33037" flags="" value="0.500000000000"/>
+        <Controllable name="pan-width" id="33041" flags="" value="1.000000000000"/>
+        <Controllable name="pan-elevation" id="33039" flags="" value="0.000000000000"/>
+        <Controllable name="pan-frontback" id="33043" flags="" value="0.000000000000"/>
+        <Controllable name="pan-lfe" id="33045" flags="" value="0.000000000000"/>
         <Automation/>
       </Pannable>
-      <Processor id="30421" name="Amp" active="yes" user-latency="0" type="amp">
-        <Controllable name="gaincontrol" id="30423" flags="GainLike" value="1.000000000000"/>
+      <Processor id="33048" name="Amp" active="yes" user-latency="0" type="amp">
+        <Controllable name="gaincontrol" id="33050" flags="GainLike" value="1.000000000000"/>
       </Processor>
-      <Processor id="30424" name="Meter" active="yes" user-latency="0" type="meter"/>
-      <Processor id="30425" name="starlite_theme_d4cba6" active="yes" user-latency="0" own-input="yes" own-output="no" output="starlite_theme_d4cba6" type="main-outs" role="Main">
+      <Processor id="33051" name="Meter" active="yes" user-latency="0" type="meter"/>
+      <Processor id="33052" name="over_dubb" active="yes" user-latency="0" own-input="yes" own-output="no" output="over_dubb" type="main-outs" role="Main">
         <PannerShell bypassed="no">
           <Panner type="Equal Power Stereo"/>
         </PannerShell>
       </Processor>
-      <Controllable name="recenable" id="30427" flags="Toggle" value="0.000000000000"/>
-      <Diskstream flags="Recordable" playlist="starlite_theme_d4cba6" name="starlite_theme_d4cba6" id="30429" speed="1.000000" capture-alignment="Automatic" channels="2"/>
+      <Controllable name="recenable" id="33054" flags="Toggle" value="0.000000000000"/>
+      <Diskstream flags="Recordable" playlist="over_dubb" name="over_dubb" id="33056" speed="1.000000" capture-alignment="Automatic" channels="2"/>
     </Route>
   </Routes>
   <Playlists>
@@ -4796,72 +5059,30 @@
           </AutomationList>
         </InvFadeOut>
       </Region>
-      <Region locked="0" name="ruf_over_45be73" position="48907510" length="14642891" stretch="1" muted="0" opaque="1" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" sync-position="0" ancestral-start="0" ancestral-length="0" shift="1" positional-lock-style="AudioTime" layering-index="3" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="2182" type="audio" first-edit="nothing" source-0="2140" source-1="2142" master-source-0="2140" master-source-1="2142" channels="2">
+      <Region locked="0" name="over_dubb.2" position="48907486" length="14642891" stretch="1" muted="0" opaque="1" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" sync-position="0" ancestral-start="0" ancestral-length="0" shift="1" positional-lock-style="AudioTime" layering-index="5" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="33095" type="audio" first-edit="nothing" source-0="33016" source-1="33018" master-source-0="33016" master-source-1="33018" channels="2">
         <FadeIn>
-          <AutomationList automation-id="fadein" id="4346" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
+          <AutomationList automation-id="fadein" id="33096" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
             <events>0 0
 64 1
 </events>
           </AutomationList>
         </FadeIn>
-        <InverseFadeIn>
-          <AutomationList automation-id="fadein" id="4347" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
-            <events>0 1
-64 0
-</events>
-          </AutomationList>
-        </InverseFadeIn>
-        <FadeOut>
-          <AutomationList automation-id="fadeout" id="4348" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
-            <events>0 1
-64 1e-07
-</events>
-          </AutomationList>
-        </FadeOut>
-        <InverseFadeOut>
-          <AutomationList automation-id="fadeout" id="4349" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
-            <events>0 1e-07
-64 1
-</events>
-          </AutomationList>
-        </InverseFadeOut>
         <Envelope>
-          <AutomationList automation-id="envelope" id="4350" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
+          <AutomationList automation-id="envelope" id="33100" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
             <events>0 1
 14642891 1
 </events>
           </AutomationList>
         </Envelope>
         <FadeIn>
-          <AutomationList automation-id="fadein" id="4346" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
+          <AutomationList automation-id="fadein" id="33096" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
             <events>0 0
 64 1
 </events>
           </AutomationList>
         </FadeIn>
-        <InverseFadeIn>
-          <AutomationList automation-id="fadein" id="4347" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
-            <events>0 1
-64 0
-</events>
-          </AutomationList>
-        </InverseFadeIn>
-        <FadeOut>
-          <AutomationList automation-id="fadeout" id="4348" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
-            <events>0 1
-64 1e-07
-</events>
-          </AutomationList>
-        </FadeOut>
-        <InverseFadeOut>
-          <AutomationList automation-id="fadeout" id="4349" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
-            <events>0 1e-07
-64 1
-</events>
-          </AutomationList>
-        </InverseFadeOut>
         <Envelope>
-          <AutomationList automation-id="envelope" id="4350" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
+          <AutomationList automation-id="envelope" id="33100" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
             <events>0 1
 14642891 1
 </events>
@@ -4869,35 +5090,35 @@
         </Envelope>
         <Envelope default="yes"/>
         <FadeIn>
-          <AutomationList automation-id="fadein" id="4346" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
+          <AutomationList automation-id="fadein" id="33096" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
             <events>0 0
 64 1
 </events>
           </AutomationList>
         </FadeIn>
         <InvFadeIn>
-          <AutomationList automation-id="fadein" id="4347" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
+          <AutomationList automation-id="fadein" id="33097" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
             <events>0 1
 64 0
 </events>
           </AutomationList>
         </InvFadeIn>
         <FadeOut>
-          <AutomationList automation-id="fadeout" id="4348" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
+          <AutomationList automation-id="fadeout" id="33098" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
             <events>0 1
 64 1e-07
 </events>
           </AutomationList>
         </FadeOut>
         <InvFadeOut>
-          <AutomationList automation-id="fadeout" id="4349" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
+          <AutomationList automation-id="fadeout" id="33099" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
             <events>0 1e-07
 64 1
 </events>
           </AutomationList>
         </InvFadeOut>
       </Region>
-      <Region locked="0" name="ruf_god_9f4665" position="67659312" length="4592791" stretch="1" muted="0" opaque="1" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" sync-position="0" ancestral-start="0" ancestral-length="0" shift="1" positional-lock-style="AudioTime" layering-index="4" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="0" scale-amplitude="1" id="2457" type="audio" first-edit="nothing" source-0="2415" source-1="2417" master-source-0="2415" master-source-1="2417" channels="2">
+      <Region locked="0" name="ruf_god_9f4665" position="67659312" length="4592791" stretch="1" muted="0" opaque="1" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" sync-position="0" ancestral-start="0" ancestral-length="0" shift="1" positional-lock-style="AudioTime" layering-index="3" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="0" scale-amplitude="1" id="2457" type="audio" first-edit="nothing" source-0="2415" source-1="2417" master-source-0="2415" master-source-1="2417" channels="2">
         <FadeIn>
           <AutomationList automation-id="fadein" id="4353" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
             <events>0 0
@@ -4998,7 +5219,7 @@
           </AutomationList>
         </InvFadeOut>
       </Region>
-      <Region locked="0" name="ruf_you_3fc6b5.4" position="73231562" length="6006377" stretch="1" muted="0" opaque="1" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="963182" sync-position="963182" ancestral-start="0" ancestral-length="0" shift="1" positional-lock-style="AudioTime" layering-index="5" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="21691" type="audio" first-edit="nothing" source-0="928" source-1="930" master-source-0="928" master-source-1="930" channels="2">
+      <Region locked="0" name="ruf_you_3fc6b5.4" position="73231562" length="6006377" stretch="1" muted="0" opaque="1" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="963182" sync-position="963182" ancestral-start="0" ancestral-length="0" shift="1" positional-lock-style="AudioTime" layering-index="4" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="21691" type="audio" first-edit="nothing" source-0="928" source-1="930" master-source-0="928" master-source-1="930" channels="2">
         <FadeIn>
           <AutomationList automation-id="fadein" id="21692" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
             <events>0 0
@@ -5405,7 +5626,7 @@
         </InvFadeOut>
       </Region>
     </Playlist>
-    <Playlist id="30430" name="starlite_theme_d4cba6" type="audio" orig-track-id="30402" frozen="no" combine-ops="0"/>
+    <Playlist id="33057" name="over_dubb" type="audio" orig-track-id="33029" frozen="no" combine-ops="0"/>
   </Playlists>
   <UnusedPlaylists/>
   <RouteGroups/>
@@ -5467,7 +5688,7 @@
       <Window name="R-18-4540" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="R-18-4541" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="M-71-4562" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="M-71-19596" visible="yes" x-off="8" y-off="224" x-size="600" y-size="375"/>
+      <Window name="M-71-19596" visible="no" x-off="1" y-off="28" x-size="600" y-size="375"/>
       <Window name="M-71-4565" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="M-71-4566" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="M-2424-4895" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
@@ -5490,7 +5711,7 @@
       <Window name="M-1809-4698" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="M-1809-4699" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="M-1862-4726" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="M-1862-1944" visible="yes" x-off="5" y-off="113" x-size="401" y-size="211"/>
+      <Window name="M-1862-1944" visible="no" x-off="1" y-off="28" x-size="401" y-size="211"/>
       <Window name="M-1862-4729" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="M-1862-4730" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="M-2069-4765" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
@@ -5511,6 +5732,9 @@
       <Window name="M-18-4537" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="M-18-4540" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="M-18-4541" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="M-33029-33048" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="M-33029-33051" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="M-33029-33052" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <GUIObjectState>
         <Object id="route 18" color="20336:22846:22505"/>
         <Object id="rtav 18" height="72" visible="1"/>
@@ -5519,7 +5743,7 @@
         <Object id="automation 4530" height="72" visible="0"/>
         <Object id="route 71" color="45729:21857:21313"/>
         <Object id="rtav 71" height="72" visible="1"/>
-        <Object id="automation 4564" height="236" visible="0"/>
+        <Object id="automation 4564" height="236" visible="1"/>
         <Object id="automation 4551" height="72" visible="0"/>
         <Object id="automation 4555" height="72" visible="0"/>
         <Object id="route 2013" color="28545:41367:34814"/>
@@ -5569,9 +5793,9 @@
         <Object id="automation 4857" height="72" visible="0"/>
         <Object id="route 2424" color="12795:27434:40570"/>
         <Object id="rtav 2424" height="77" visible="1"/>
-        <Object id="automation 4897" height="72" visible="1"/>
-        <Object id="automation 4884" height="72" visible="1"/>
-        <Object id="automation 4888" height="72" visible="1"/>
+        <Object id="automation 4897" height="72" visible="0"/>
+        <Object id="automation 4884" height="72" visible="0"/>
+        <Object id="automation 4888" height="72" visible="0"/>
         <Object id="strip 18" visible="1" strip-width="Wide">
           <Object id="processor 4537"/>
         </Object>
@@ -5639,6 +5863,14 @@
         <Object id="automation 30414" height="68" visible="0"/>
         <Object id="strip 30402" visible="1">
           <Object id="processor 30421"/>
+        </Object>
+        <Object id="route 33029" color="30873:40923:940"/>
+        <Object id="rtav 33029" height="68" visible="1"/>
+        <Object id="automation 33050" height="68" visible="0"/>
+        <Object id="automation 33037" height="68" visible="0"/>
+        <Object id="automation 33041" height="68" visible="0"/>
+        <Object id="strip 33029" visible="1">
+          <Object id="processor 33048"/>
         </Object>
       </GUIObjectState>
     </UI>
