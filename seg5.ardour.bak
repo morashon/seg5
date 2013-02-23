@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="3001" name="seg5" sample-rate="44100" id-counter="33309" event-counter="0">
+<Session version="3001" name="seg5" sample-rate="44100" id-counter="33347" event-counter="0">
   <Config>
     <Option name="xfade-choice" value="ConstantPowerMinus3dB"/>
     <Option name="destructive-xfade-msecs" value="2"/>
@@ -2685,7 +2685,6 @@
     <Route id="18" name="master" default-type="audio" flags="MasterOut" active="yes" phase-invert="00" denormal-protection="no" meter-point="MeterPostFader" order-keys="EditorSort=0:MixerSort=0" self-solo="no" soloed-by-upstream="0" soloed-by-downstream="0" solo-isolated="no" solo-safe="no">
       <IO name="master" id="18" direction="Input" default-type="audio" user-latency="0">
         <Port type="audio" name="master/audio_in 1">
-          <Connection other="over_dubb/audio_out 1"/>
           <Connection other="Music/audio_out 1"/>
           <Connection other="YouEndIntro/audio_out 1"/>
           <Connection other="Stranger/audio_out 1"/>
@@ -2697,7 +2696,6 @@
           <Connection other="ballroom/audio_out 1"/>
         </Port>
         <Port type="audio" name="master/audio_in 2">
-          <Connection other="over_dubb/audio_out 2"/>
           <Connection other="Music/audio_out 2"/>
           <Connection other="YouEndIntro/audio_out 2"/>
           <Connection other="Stranger/audio_out 2"/>
@@ -2841,7 +2839,7 @@
 </events>
           </AutomationList>
         </Automation>
-        <Controllable name="gaincontrol" id="4564" flags="GainLike" value="0.278274177833"/>
+        <Controllable name="gaincontrol" id="4564" flags="GainLike" value="0.000000000000"/>
       </Processor>
       <Processor id="19596" name="SC4" active="yes" user-latency="0" type="ladspa" unique-id="1882" count="1">
         <ladspa last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="yes">
@@ -2915,7 +2913,7 @@
 </events>
           </AutomationList>
         </Automation>
-        <Controllable name="gaincontrol" id="4897" flags="GainLike" value="0.612355840260"/>
+        <Controllable name="gaincontrol" id="4897" flags="GainLike" value="1.000000000000"/>
       </Processor>
       <Processor id="22800" name="Glame Bandpass Analog Filter" active="yes" user-latency="0" type="ladspa" unique-id="1893" count="2">
         <Automation>
@@ -2979,11 +2977,11 @@
           </AutomationList>
         </Automation>
         <ladspa last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="yes">
-          <Port number="0" value="+4783.677246"/>
-          <Port number="1" value="+2176.895508"/>
+          <Port number="0" value="+4964.557129"/>
+          <Port number="1" value="+9924.704102"/>
         </ladspa>
-        <Controllable name="Center Frequency (Hz)" id="22802" flags="" value="4783.677246093750" parameter="0"/>
-        <Controllable name="Bandwidth (Hz)" id="22804" flags="" value="2176.895507812500" parameter="1"/>
+        <Controllable name="Center Frequency (Hz)" id="22802" flags="" value="4964.557128906250" parameter="0"/>
+        <Controllable name="Bandwidth (Hz)" id="22804" flags="" value="9924.704101562500" parameter="1"/>
       </Processor>
       <Processor id="4898" name="Meter" active="yes" user-latency="0" type="meter"/>
       <Processor id="4899" name="YouEndIntro" active="yes" user-latency="0" own-input="yes" own-output="no" output="YouEndIntro" type="main-outs" role="Main">
@@ -3096,27 +3094,27 @@
         <ladspa last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="yes">
           <Port number="0" value="+0.000000"/>
           <Port number="1" value="+0.000000"/>
-          <Port number="2" value="+7.723786"/>
+          <Port number="2" value="+18.593349"/>
           <Port number="3" value="+2.000000"/>
           <Port number="4" value="+0.077320"/>
-          <Port number="5" value="+0.050803"/>
+          <Port number="5" value="+2.343811"/>
           <Port number="6" value="+1.000000"/>
           <Port number="7" value="+0.000000"/>
           <Port number="8" value="+1.000000"/>
           <Port number="9" value="+0.000000"/>
-          <Port number="10" value="+0.052632"/>
+          <Port number="10" value="+0.187500"/>
         </ladspa>
         <Controllable name="Random seed" id="4637" flags="" value="0.000000000000" parameter="0"/>
         <Controllable name="Input gain (dB)" id="4639" flags="" value="0.000000000000" parameter="1"/>
-        <Controllable name="Feedback (%)" id="4641" flags="" value="7.723785877228" parameter="2"/>
+        <Controllable name="Feedback (%)" id="4641" flags="" value="18.593349456787" parameter="2"/>
         <Controllable name="Number of taps" id="4643" flags="" value="2.000000000000" parameter="3"/>
         <Controllable name="First delay (s)" id="4645" flags="" value="0.077320002019" parameter="4"/>
-        <Controllable name="Delay range (s)" id="4647" flags="" value="0.050803374499" parameter="5"/>
+        <Controllable name="Delay range (s)" id="4647" flags="" value="2.343810796738" parameter="5"/>
         <Controllable name="Delay change" id="4649" flags="" value="1.000000000000" parameter="6"/>
         <Controllable name="Delay random (%)" id="4651" flags="" value="0.000000000000" parameter="7"/>
         <Controllable name="Amplitude change" id="4653" flags="" value="1.000000000000" parameter="8"/>
         <Controllable name="Amplitude random (%)" id="4655" flags="" value="0.000000000000" parameter="9"/>
-        <Controllable name="Dry/wet mix" id="4657" flags="" value="0.052631579340" parameter="10"/>
+        <Controllable name="Dry/wet mix" id="4657" flags="" value="0.187500000000" parameter="10"/>
       </Processor>
       <Processor id="298" name="GVerb" active="yes" user-latency="0" type="ladspa" unique-id="1216" count="1">
         <Automation>
@@ -3148,16 +3146,16 @@
           <Port number="2" value="+0.500000"/>
           <Port number="3" value="+0.750000"/>
           <Port number="4" value="+0.000000"/>
-          <Port number="5" value="-42.777779"/>
-          <Port number="6" value="-48.611111"/>
+          <Port number="5" value="-47.352940"/>
+          <Port number="6" value="-36.029411"/>
         </ladspa>
         <Controllable name="Roomsize (m)" id="4661" flags="" value="75.750000000000" parameter="0"/>
         <Controllable name="Reverb time (s)" id="4663" flags="" value="4.954895019531" parameter="1"/>
         <Controllable name="Damping" id="4665" flags="" value="0.500000000000" parameter="2"/>
         <Controllable name="Input bandwidth" id="4667" flags="" value="0.750000000000" parameter="3"/>
         <Controllable name="Dry signal level (dB)" id="4669" flags="" value="0.000000000000" parameter="4"/>
-        <Controllable name="Early reflection level (dB)" id="4671" flags="" value="-42.777778625488" parameter="5"/>
-        <Controllable name="Tail level (dB)" id="4673" flags="" value="-48.611110687256" parameter="6"/>
+        <Controllable name="Early reflection level (dB)" id="4671" flags="" value="-47.352939605713" parameter="5"/>
+        <Controllable name="Tail level (dB)" id="4673" flags="" value="-36.029411315918" parameter="6"/>
       </Processor>
       <Processor id="4629" name="Meter" active="yes" user-latency="0" type="meter"/>
       <Processor id="4630" name="ballroom" active="yes" user-latency="0" own-input="yes" own-output="no" output="ballroom" type="main-outs" role="Main">
@@ -3214,7 +3212,7 @@
 </events>
           </AutomationList>
         </Automation>
-        <Controllable name="gaincontrol" id="6453" flags="GainLike" value="0.000000000000"/>
+        <Controllable name="gaincontrol" id="6453" flags="GainLike" value="1.000000000000"/>
       </Processor>
       <Processor id="7522" name="Glame Bandpass Filter" active="yes" user-latency="0" type="ladspa" unique-id="1892" count="2">
         <ladspa last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="yes">
@@ -3281,7 +3279,7 @@
 </events>
           </AutomationList>
         </Automation>
-        <Controllable name="gaincontrol" id="4697" flags="GainLike" value="0.173413857818"/>
+        <Controllable name="gaincontrol" id="4697" flags="GainLike" value="0.004910131916"/>
       </Processor>
       <Processor id="4698" name="Meter" active="yes" user-latency="0" type="meter"/>
       <Processor id="4699" name="ruf_outro" active="yes" user-latency="0" own-input="yes" own-output="no" output="ruf_outro" type="main-outs" role="Main">
@@ -3329,7 +3327,7 @@
 </events>
           </AutomationList>
         </Automation>
-        <Controllable name="gaincontrol" id="4728" flags="GainLike" value="1.999999880791"/>
+        <Controllable name="gaincontrol" id="4728" flags="GainLike" value="1.000000000000"/>
       </Processor>
       <Processor id="1944" name="C* Plate - Versatile plate reverb" active="yes" user-latency="0" type="ladspa" unique-id="1779" count="1">
         <ladspa last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="yes">
@@ -3489,47 +3487,6 @@
           <Panner type="Equal Power Stereo"/>
         </PannerShell>
       </Processor>
-    </Route>
-    <Route id="33029" name="over_dubb" default-type="audio" active="yes" phase-invert="00" denormal-protection="no" meter-point="MeterPostFader" order-keys="EditorSort=11:MixerSort=11" self-solo="no" soloed-by-upstream="0" soloed-by-downstream="0" solo-isolated="no" solo-safe="no" monitoring="" saved-meter-point="MeterPostFader" mode="Normal">
-      <IO name="over_dubb" id="33046" direction="Input" default-type="audio" user-latency="0">
-        <Port type="audio" name="over_dubb/audio_in 1">
-          <Connection other="system:capture_2"/>
-        </Port>
-        <Port type="audio" name="over_dubb/audio_in 2">
-          <Connection other="system:capture_1"/>
-        </Port>
-      </IO>
-      <IO name="over_dubb" id="33047" direction="Output" default-type="audio" user-latency="0">
-        <Port type="audio" name="over_dubb/audio_out 1">
-          <Connection other="master/audio_in 1"/>
-        </Port>
-        <Port type="audio" name="over_dubb/audio_out 2">
-          <Connection other="master/audio_in 2"/>
-        </Port>
-      </IO>
-      <Controllable name="solo" id="33031" flags="Toggle" value="0.000000000000"/>
-      <Controllable name="mute" id="33033" flags="Toggle" value="0.000000000000"/>
-      <MuteMaster mute-point="PreFader,PostFader,Listen,Main" muted="no"/>
-      <RemoteControl id="11"/>
-      <Pannable>
-        <Controllable name="pan-azimuth" id="33037" flags="" value="0.500000000000"/>
-        <Controllable name="pan-width" id="33041" flags="" value="1.000000000000"/>
-        <Controllable name="pan-elevation" id="33039" flags="" value="0.000000000000"/>
-        <Controllable name="pan-frontback" id="33043" flags="" value="0.000000000000"/>
-        <Controllable name="pan-lfe" id="33045" flags="" value="0.000000000000"/>
-        <Automation/>
-      </Pannable>
-      <Processor id="33048" name="Amp" active="yes" user-latency="0" type="amp">
-        <Controllable name="gaincontrol" id="33050" flags="GainLike" value="1.000000000000"/>
-      </Processor>
-      <Processor id="33051" name="Meter" active="yes" user-latency="0" type="meter"/>
-      <Processor id="33052" name="over_dubb" active="yes" user-latency="0" own-input="yes" own-output="no" output="over_dubb" type="main-outs" role="Main">
-        <PannerShell bypassed="no">
-          <Panner type="Equal Power Stereo"/>
-        </PannerShell>
-      </Processor>
-      <Controllable name="recenable" id="33054" flags="Toggle" value="0.000000000000"/>
-      <Diskstream flags="Recordable" playlist="over_dubb" name="over_dubb" id="33056" speed="1.000000" capture-alignment="Automatic" channels="2"/>
     </Route>
   </Routes>
   <Playlists>
@@ -5059,7 +5016,7 @@
           </AutomationList>
         </InvFadeOut>
       </Region>
-      <Region locked="0" name="over_dubb.2" position="53708209" length="9842168" stretch="1" muted="0" opaque="1" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4800723" sync-position="0" ancestral-start="0" ancestral-length="0" shift="1" positional-lock-style="AudioTime" layering-index="6" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="33095" type="audio" first-edit="nothing" source-0="33016" source-1="33018" master-source-0="33016" master-source-1="33018" channels="2">
+      <Region locked="0" name="over_dubb.2" position="53708209" length="9842168" stretch="1" muted="0" opaque="1" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4800723" sync-position="4800723" ancestral-start="0" ancestral-length="0" shift="1" positional-lock-style="AudioTime" layering-index="6" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="33095" type="audio" first-edit="nothing" source-0="33016" source-1="33018" master-source-0="33016" master-source-1="33018" channels="2">
         <FadeIn>
           <AutomationList automation-id="fadein" id="33096" default="0" min-yval="0" max-yval="2" interpolation-style="Linear" state="Off" style="Absolute">
             <events>0 0

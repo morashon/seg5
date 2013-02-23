@@ -1,38 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <UndoHistory>
-  <UndoTransaction tv-sec="1361000156" tv-usec="3909317424" name="region drag">
-    <StatefulDiffCommand obj-id="30462" type-name="ARDOUR::AudioRegion">
-      <Changes>
-        <position from="77182604" to="77199058"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <MementoCommand obj-id="21443" type-name="ARDOUR::AutomationList">
-      <AutomationList automation-id="gain" id="21443" default="1" min-yval="0" max-yval="1.99526226521" interpolation-style="Linear" state="Play" style="Absolute">
-        <events>0 1
-72290299 0.542271614074707
-73260078 1.43167448043823
-73629401 1.43167507648468
-77125615 0
-78630002 0
-78742782 0.156613186001778
-79042732 0.683062553405762
-79983375 1.03546094894409
-</events>
-      </AutomationList>
-      <AutomationList automation-id="gain" id="21443" default="1" min-yval="0" max-yval="1.99526226521" interpolation-style="Linear" state="Play" style="Absolute">
-        <events>0 1
-72290299 0.542271614074707
-73260078 1.43167448043823
-73629401 1.43167507648468
-77125615 0
-78646456 0
-78759236 0.156613186001778
-79059186 0.683062553405762
-79999829 1.03546094894409
-</events>
-      </AutomationList>
-    </MementoCommand>
-  </UndoTransaction>
   <UndoTransaction tv-sec="1361000206" tv-usec="3909317424" name="add automation event">
     <MementoCommand obj-id="21443" type-name="ARDOUR::AutomationList">
       <AutomationList automation-id="gain" id="21443" default="1" min-yval="0" max-yval="1.99526226521" interpolation-style="Linear" state="Play" style="Absolute">
